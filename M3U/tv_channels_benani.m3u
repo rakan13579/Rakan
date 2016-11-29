@@ -1,0 +1,2581 @@
+#EXTM3U
+#EXTINF:-1,====CanalSat_Canal+====
+http://62.4.21.70:8000/live/benani/benani/1731.ts
+#EXTINF:-1,TF1
+http://62.4.21.70:8000/live/benani/benani/58.ts
+#EXTINF:-1,FRANCE 2
+http://62.4.21.70:8000/live/benani/benani/137.ts
+#EXTINF:-1,FRANCE 3
+http://62.4.21.70:8000/live/benani/benani/61.ts
+#EXTINF:-1,FRANCE 4
+http://62.4.21.70:8000/live/benani/benani/60.ts
+#EXTINF:-1,FRANCE 5
+http://62.4.21.70:8000/live/benani/benani/59.ts
+#EXTINF:-1,France O
+http://62.4.21.70:8000/live/benani/benani/345.ts
+#EXTINF:-1,M6
+http://62.4.21.70:8000/live/benani/benani/138.ts
+#EXTINF:-1,W9HD
+http://62.4.21.70:8000/live/benani/benani/337.ts
+#EXTINF:-1,FR_C8
+http://62.4.21.70:8000/live/benani/benani/3474.ts
+#EXTINF:-1,TMC
+http://62.4.21.70:8000/live/benani/benani/2570.ts
+#EXTINF:-1,NRJ_12
+http://62.4.21.70:8000/live/benani/benani/2560.ts
+#EXTINF:-1,Arte
+http://62.4.21.70:8000/live/benani/benani/338.ts
+#EXTINF:-1,CANAL+_HD
+http://62.4.21.70:8000/live/benani/benani/52.ts
+#EXTINF:-1,CANAL+ CINEMA
+http://62.4.21.70:8000/live/benani/benani/56.ts
+#EXTINF:-1,CANAL+ FAMILY
+http://62.4.21.70:8000/live/benani/benani/53.ts
+#EXTINF:-1,CANAL+ DECALE
+http://62.4.21.70:8000/live/benani/benani/54.ts
+#EXTINF:-1,CANAL+ SERIE
+http://62.4.21.70:8000/live/benani/benani/55.ts
+#EXTINF:-1,CANAL+ SPORT
+http://62.4.21.70:8000/live/benani/benani/57.ts
+#EXTINF:-1,CINE PREMIER
+http://62.4.21.70:8000/live/benani/benani/135.ts
+#EXTINF:-1,CINE+ FAMIZ
+http://62.4.21.70:8000/live/benani/benani/65.ts
+#EXTINF:-1,CINE+ FRISSON FR
+http://62.4.21.70:8000/live/benani/benani/64.ts
+#EXTINF:-1,TEVA
+http://62.4.21.70:8000/live/benani/benani/2637.ts
+#EXTINF:-1,FR_TV_BREIZH
+http://62.4.21.70:8000/live/benani/benani/3475.ts
+#EXTINF:-1,CINE+ CLASSIC FR
+http://62.4.21.70:8000/live/benani/benani/67.ts
+#EXTINF:-1,CINE EMOTION
+http://62.4.21.70:8000/live/benani/benani/136.ts
+#EXTINF:-1,OCS_Choc
+http://62.4.21.70:8000/live/benani/benani/2561.ts
+#EXTINF:-1,Cherie_25
+http://62.4.21.70:8000/live/benani/benani/133.ts
+#EXTINF:-1,OCS_CITY
+http://62.4.21.70:8000/live/benani/benani/134.ts
+#EXTINF:-1,FR: Action
+http://62.4.21.70:8000/live/benani/benani/611.ts
+#EXTINF:-1,13_Eme_Rue
+http://62.4.21.70:8000/live/benani/benani/2548.ts
+#EXTINF:-1,Paris_Premiere
+http://62.4.21.70:8000/live/benani/benani/2562.ts
+#EXTINF:-1,SyFy
+http://62.4.21.70:8000/live/benani/benani/2569.ts
+#EXTINF:-1,Serie_Club
+http://62.4.21.70:8000/live/benani/benani/2568.ts
+#EXTINF:-1,RMC_Decouverte
+http://62.4.21.70:8000/live/benani/benani/2565.ts
+#EXTINF:-1,RTL_9HD
+http://62.4.21.70:8000/live/benani/benani/2566.ts
+#EXTINF:-1,FR.Planet_A&E_HD
+http://62.4.21.70:8000/live/benani/benani/2689.ts
+#EXTINF:-1,FR.Paramount_Channel_HD
+http://62.4.21.70:8000/live/benani/benani/2690.ts
+#EXTINF:-1,FR:_Weo
+http://62.4.21.70:8000/live/benani/benani/3350.ts
+#EXTINF:-1,FR:_TVA_Montreal
+http://62.4.21.70:8000/live/benani/benani/3351.ts
+#EXTINF:-1,FR:_Trek_HD
+http://62.4.21.70:8000/live/benani/benani/3352.ts
+#EXTINF:-1,FR:_Oui_FM_TV
+http://62.4.21.70:8000/live/benani/benani/3353.ts
+#EXTINF:-1,FR:_Monaco_Info
+http://62.4.21.70:8000/live/benani/benani/3357.ts
+#EXTINF:-1,FR:_Mirabelle_TV
+http://62.4.21.70:8000/live/benani/benani/3358.ts
+#EXTINF:-1,FR:_Leman_Bleu
+http://62.4.21.70:8000/live/benani/benani/3359.ts
+#EXTINF:-1,FR:_IL_TV
+http://62.4.21.70:8000/live/benani/benani/3360.ts
+#EXTINF:-1,FR.OL_TV
+http://62.4.21.70:8000/live/benani/benani/2691.ts
+#EXTINF:-1,Ocs_Geants
+http://62.4.21.70:8000/live/benani/benani/2682.ts
+#EXTINF:-1,OCS_MAX
+http://62.4.21.70:8000/live/benani/benani/2693.ts
+#EXTINF:-1,Numero_23
+http://62.4.21.70:8000/live/benani/benani/2683.ts
+#EXTINF:-1,FR.Histoire_HD
+http://62.4.21.70:8000/live/benani/benani/2686.ts
+#EXTINF:-1,FR.Cine_Polar_HD
+http://62.4.21.70:8000/live/benani/benani/2685.ts
+#EXTINF:-1,HD1
+http://62.4.21.70:8000/live/benani/benani/2538.ts
+#EXTINF:-1,FR_AB1
+http://62.4.21.70:8000/live/benani/benani/2537.ts
+#EXTINF:-1,TV5
+http://62.4.21.70:8000/live/benani/benani/2611.ts
+#EXTINF:-1,D17
+http://62.4.21.70:8000/live/benani/benani/2550.ts
+#EXTINF:-1,Comedie
+http://62.4.21.70:8000/live/benani/benani/2549.ts
+#EXTINF:-1,6TER
+http://62.4.21.70:8000/live/benani/benani/673.ts
+#EXTINF:-1,LCI
+http://62.4.21.70:8000/live/benani/benani/334.ts
+#EXTINF:-1,I_Tele
+http://62.4.21.70:8000/live/benani/benani/336.ts
+#EXTINF:-1,EURONEWS FR
+http://62.4.21.70:8000/live/benani/benani/674.ts
+#EXTINF:-1,BFM_TV
+http://62.4.21.70:8000/live/benani/benani/2541.ts
+#EXTINF:-1,Planet+
+http://62.4.21.70:8000/live/benani/benani/2563.ts
+#EXTINF:-1,Planet+ci
+http://62.4.21.70:8000/live/benani/benani/2564.ts
+#EXTINF:-1,NATIONAL GEO
+http://62.4.21.70:8000/live/benani/benani/139.ts
+#EXTINF:-1,National_Geo_Wild_FR
+http://62.4.21.70:8000/live/benani/benani/2559.ts
+#EXTINF:-1,DISCOVERY_HD
+http://62.4.21.70:8000/live/benani/benani/63.ts
+#EXTINF:-1,DISCOVERY SCIENCE FR
+http://62.4.21.70:8000/live/benani/benani/62.ts
+#EXTINF:-1,USHUAIA_HD
+http://62.4.21.70:8000/live/benani/benani/372.ts
+#EXTINF:-1,Chasse et peche
+http://62.4.21.70:8000/live/benani/benani/471.ts
+#EXTINF:-1,FR ANIMAUX
+http://62.4.21.70:8000/live/benani/benani/478.ts
+#EXTINF:-1,Voyage_HD
+http://62.4.21.70:8000/live/benani/benani/2571.ts
+#EXTINF:-1,Science_et_Vie
+http://62.4.21.70:8000/live/benani/benani/2567.ts
+#EXTINF:-1,BEINSPORT_1_HD
+http://62.4.21.70:8000/live/benani/benani/49.ts
+#EXTINF:-1,FR:_Bein_Sports_1_HD
+http://62.4.21.70:8000/live/benani/benani/3370.ts
+#EXTINF:-1,BEINSPORT _2_HD
+http://62.4.21.70:8000/live/benani/benani/50.ts
+#EXTINF:-1,FR:_Bein_Sports_2_HD
+http://62.4.21.70:8000/live/benani/benani/3369.ts
+#EXTINF:-1,BEINSPORT 3 HD FR
+http://62.4.21.70:8000/live/benani/benani/51.ts
+#EXTINF:-1,FR:_Bein_Sports_3_HD
+http://62.4.21.70:8000/live/benani/benani/3368.ts
+#EXTINF:-1,SFR_SPORT_1_HD
+http://62.4.21.70:8000/live/benani/benani/2803.ts
+#EXTINF:-1,SFR_SPORT_2_HD
+http://62.4.21.70:8000/live/benani/benani/2804.ts
+#EXTINF:-1,SFR_SPORT_3_HD
+http://62.4.21.70:8000/live/benani/benani/2880.ts
+#EXTINF:-1,INFOSPORT+
+http://62.4.21.70:8000/live/benani/benani/1809.ts
+#EXTINF:-1,Foot+
+http://62.4.21.70:8000/live/benani/benani/2556.ts
+#EXTINF:-1,FR.Foot_24
+http://62.4.21.70:8000/live/benani/benani/2684.ts
+#EXTINF:-1,EUROSPORT_1
+http://62.4.21.70:8000/live/benani/benani/377.ts
+#EXTINF:-1,EUROSPORT_2
+http://62.4.21.70:8000/live/benani/benani/2555.ts
+#EXTINF:-1,Equipe21
+http://62.4.21.70:8000/live/benani/benani/2554.ts
+#EXTINF:-1,Equidia
+http://62.4.21.70:8000/live/benani/benani/2552.ts
+#EXTINF:-1,Equidia_Live
+http://62.4.21.70:8000/live/benani/benani/2553.ts
+#EXTINF:-1,FR_NICKELODEON_JUNIOR
+http://62.4.21.70:8000/live/benani/benani/2867.ts
+#EXTINF:-1,FR:_Nickelodeon_Junior
+http://62.4.21.70:8000/live/benani/benani/3354.ts
+#EXTINF:-1,FR:_Nickelodeon_4Teen
+http://62.4.21.70:8000/live/benani/benani/3355.ts
+#EXTINF:-1,FR:_Nickelodeon
+http://62.4.21.70:8000/live/benani/benani/3356.ts
+#EXTINF:-1,Cartoon Network
+http://62.4.21.70:8000/live/benani/benani/373.ts
+#EXTINF:-1,BOOMERANG
+http://62.4.21.70:8000/live/benani/benani/378.ts
+#EXTINF:-1,FR:_Zouzou
+http://62.4.21.70:8000/live/benani/benani/3349.ts
+#EXTINF:-1,Game_One
+http://62.4.21.70:8000/live/benani/benani/2557.ts
+#EXTINF:-1,FR:_Disney_XD
+http://62.4.21.70:8000/live/benani/benani/2635.ts
+#EXTINF:-1,Tiji
+http://62.4.21.70:8000/live/benani/benani/2680.ts
+#EXTINF:-1,teletoon
+http://62.4.21.70:8000/live/benani/benani/2681.ts
+#EXTINF:-1,MANGAS
+http://62.4.21.70:8000/live/benani/benani/375.ts
+#EXTINF:-1,FR:_Disney_Cinemagic
+http://62.4.21.70:8000/live/benani/benani/2634.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://62.4.21.70:8000/live/benani/benani/376.ts
+#EXTINF:-1,FR: Disney Junior
+http://62.4.21.70:8000/live/benani/benani/472.ts
+#EXTINF:-1,FR:_Canal_J
+http://62.4.21.70:8000/live/benani/benani/2636.ts
+#EXTINF:-1,Gulli
+http://62.4.21.70:8000/live/benani/benani/335.ts
+#EXTINF:-1,PIWI
+http://62.4.21.70:8000/live/benani/benani/374.ts
+#EXTINF:-1,A.LA.CARTE.1
+http://62.4.21.70:8000/live/benani/benani/544.ts
+#EXTINF:-1,A.LA.CARTE.2
+http://62.4.21.70:8000/live/benani/benani/545.ts
+#EXTINF:-1,A.LA.CARTE.3
+http://62.4.21.70:8000/live/benani/benani/546.ts
+#EXTINF:-1,A.LA.CARTE.4
+http://62.4.21.70:8000/live/benani/benani/539.ts
+#EXTINF:-1,A_LA_CARTE_5
+http://62.4.21.70:8000/live/benani/benani/2612.ts
+#EXTINF:-1,A_LA_CARTE_6
+http://62.4.21.70:8000/live/benani/benani/2613.ts
+#EXTINF:-1,A_LA_CARTE_7
+http://62.4.21.70:8000/live/benani/benani/2653.ts
+#EXTINF:-1,A_LA_CARTE_8
+http://62.4.21.70:8000/live/benani/benani/2654.ts
+#EXTINF:-1,A_LA_CARTE_9
+http://62.4.21.70:8000/live/benani/benani/2655.ts
+#EXTINF:-1,A_LA_CARTE_10
+http://62.4.21.70:8000/live/benani/benani/2644.ts
+#EXTINF:-1,A_LA_CARTE_11
+http://62.4.21.70:8000/live/benani/benani/2645.ts
+#EXTINF:-1,A_LA_CARTE_12
+http://62.4.21.70:8000/live/benani/benani/2646.ts
+#EXTINF:-1,A_LA_CARTE_13
+http://62.4.21.70:8000/live/benani/benani/2647.ts
+#EXTINF:-1,A_LA_CARTE_14
+http://62.4.21.70:8000/live/benani/benani/2657.ts
+#EXTINF:-1,A_LA_CARTE_15
+http://62.4.21.70:8000/live/benani/benani/2656.ts
+#EXTINF:-1,A_LA_CARTE_16
+http://62.4.21.70:8000/live/benani/benani/2648.ts
+#EXTINF:-1,A_LA_CARTE_17
+http://62.4.21.70:8000/live/benani/benani/2649.ts
+#EXTINF:-1,A_LA_CARTE_18
+http://62.4.21.70:8000/live/benani/benani/2650.ts
+#EXTINF:-1,A_LA_CARTE_19
+http://62.4.21.70:8000/live/benani/benani/2651.ts
+#EXTINF:-1,A_LA_CARTE_20
+http://62.4.21.70:8000/live/benani/benani/2652.ts
+#EXTINF:-1,=====_Swiss_======
+http://62.4.21.70:8000/live/benani/benani/3380.ts
+#EXTINF:-1,RTS_UN
+http://62.4.21.70:8000/live/benani/benani/2864.ts
+#EXTINF:-1,RTS_DEUX
+http://62.4.21.70:8000/live/benani/benani/2865.ts
+#EXTINF:-1,CH:_SRF_1_HD
+http://62.4.21.70:8000/live/benani/benani/3381.ts
+#EXTINF:-1,CH:_SRF_2_HD
+http://62.4.21.70:8000/live/benani/benani/3382.ts
+#EXTINF:-1,====BELGIQUE_TELESAT====
+http://62.4.21.70:8000/live/benani/benani/1741.ts
+#EXTINF:-1,LA UNE HD
+http://62.4.21.70:8000/live/benani/benani/541.ts
+#EXTINF:-1,LA.DEUX
+http://62.4.21.70:8000/live/benani/benani/542.ts
+#EXTINF:-1,LA.TROIS
+http://62.4.21.70:8000/live/benani/benani/543.ts
+#EXTINF:-1,RTL_TVI
+http://62.4.21.70:8000/live/benani/benani/2639.ts
+#EXTINF:-1,BE_Vtm_Kazoom_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3461.ts
+#EXTINF:-1,BE_Vtm_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3462.ts
+#EXTINF:-1,BE_Vitaya_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3463.ts
+#EXTINF:-1,BE_Vijf_TV_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3464.ts
+#EXTINF:-1,BE_Vier_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3465.ts
+#EXTINF:-1,BE_Rtl_Tvi_HD_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3466.ts
+#EXTINF:-1,BE_Plug_Rtl_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3467.ts
+#EXTINF:-1,BE_Ket_op_2_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3468.ts
+#EXTINF:-1,BE_Een_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3469.ts
+#EXTINF:-1,BE_Club_Rtl_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3470.ts
+#EXTINF:-1,BE_Canvas_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3471.ts
+#EXTINF:-1,BE_2Be_-_Belgium
+http://62.4.21.70:8000/live/benani/benani/3472.ts
+#EXTINF:-1,=====_Austira_======
+http://62.4.21.70:8000/live/benani/benani/3376.ts
+#EXTINF:-1,AU:_ORF_1_HD
+http://62.4.21.70:8000/live/benani/benani/3377.ts
+#EXTINF:-1,AU:_ORF_2_HD
+http://62.4.21.70:8000/live/benani/benani/3378.ts
+#EXTINF:-1,AU:_ORF_Sport _HD
+http://62.4.21.70:8000/live/benani/benani/3379.ts
+#EXTINF:-1,====BEINSPORT====
+http://62.4.21.70:8000/live/benani/benani/1739.ts
+#EXTINF:-1,BEIN_MOVIES_1_HD
+http://62.4.21.70:8000/live/benani/benani/2773.ts
+#EXTINF:-1,BEIN_MOVIES_2_HD
+http://62.4.21.70:8000/live/benani/benani/2776.ts
+#EXTINF:-1,BEIN_MOVIES_3_HD
+http://62.4.21.70:8000/live/benani/benani/2777.ts
+#EXTINF:-1,BEIN_MOVIES_4_HD
+http://62.4.21.70:8000/live/benani/benani/3385.ts
+#EXTINF:-1,BEIN_STAR_MOVIES
+http://62.4.21.70:8000/live/benani/benani/3574.ts
+#EXTINF:-1,BEIN FOX FAMILY MOVIES
+http://62.4.21.70:8000/live/benani/benani/2543.ts
+#EXTINF:-1,BEIN_SERIE_ONE_HD
+http://62.4.21.70:8000/live/benani/benani/2778.ts
+#EXTINF:-1,BEIN AMC MOVIES
+http://62.4.21.70:8000/live/benani/benani/2893.ts
+#EXTINF:-1,BEIN_FATAFEAT_HD
+http://62.4.21.70:8000/live/benani/benani/2780.ts
+#EXTINF:-1,BEIN STAR WORLD
+http://62.4.21.70:8000/live/benani/benani/2866.ts
+#EXTINF:-1,BEIN_DREAMWORKS_HD
+http://62.4.21.70:8000/live/benani/benani/2779.ts
+#EXTINF:-1,BEIN_JEEM
+http://62.4.21.70:8000/live/benani/benani/2775.ts
+#EXTINF:-1,BEIN_BARRAEM
+http://62.4.21.70:8000/live/benani/benani/2774.ts
+#EXTINF:-1,BEIN DISCOVERY LIFE
+http://62.4.21.70:8000/live/benani/benani/2892.ts
+#EXTINF:-1,BEINSPORT_NEWS_ARABIC
+http://62.4.21.70:8000/live/benani/benani/685.ts
+#EXTINF:-1,BEIN_SPORTS_1_HD_AR
+http://62.4.21.70:8000/live/benani/benani/186.ts
+#EXTINF:-1,BEIN_SPORTS_1_HDS
+http://62.4.21.70:8000/live/benani/benani/2788.ts
+#EXTINF:-1,BEIN_SPORTS_2_HD_AR
+http://62.4.21.70:8000/live/benani/benani/188.ts
+#EXTINF:-1,BEIN_SPORTS_2_HDS
+http://62.4.21.70:8000/live/benani/benani/2789.ts
+#EXTINF:-1,BEIN_SPORTS_3_HD_AR
+http://62.4.21.70:8000/live/benani/benani/189.ts
+#EXTINF:-1,BEIN_SPORTS_3_HDS
+http://62.4.21.70:8000/live/benani/benani/2790.ts
+#EXTINF:-1,BEIN_SPORTS_4_HD_AR
+http://62.4.21.70:8000/live/benani/benani/266.ts
+#EXTINF:-1,BEIN_SPORTS_4_HDS
+http://62.4.21.70:8000/live/benani/benani/2839.ts
+#EXTINF:-1,BEIN_SPORTS_5_HD_AR
+http://62.4.21.70:8000/live/benani/benani/267.ts
+#EXTINF:-1,BEIN_SPORTS_5_HDS
+http://62.4.21.70:8000/live/benani/benani/2840.ts
+#EXTINF:-1,BEIN_SPORTS_6_HD_AR
+http://62.4.21.70:8000/live/benani/benani/268.ts
+#EXTINF:-1,BEIN_SPORTS_6_HDS
+http://62.4.21.70:8000/live/benani/benani/2841.ts
+#EXTINF:-1,BEIN_SPORTS_HD7_AR
+http://62.4.21.70:8000/live/benani/benani/7.ts
+#EXTINF:-1,BEIN_SPORTS_7_HDS
+http://62.4.21.70:8000/live/benani/benani/2889.ts
+#EXTINF:-1,BEIN_SPORTS_HD8_AR
+http://62.4.21.70:8000/live/benani/benani/8.ts
+#EXTINF:-1,BEIN_SPORTS_8_HDS
+http://62.4.21.70:8000/live/benani/benani/2890.ts
+#EXTINF:-1,BEIN_SPORTS_HD9_AR
+http://62.4.21.70:8000/live/benani/benani/9.ts
+#EXTINF:-1,BEIN_SPORTS_9_HDS
+http://62.4.21.70:8000/live/benani/benani/2891.ts
+#EXTINF:-1,BEIN_SPORTS_HD10_AR
+http://62.4.21.70:8000/live/benani/benani/10.ts
+#EXTINF:-1,beINSPORT11_HD
+http://62.4.21.70:8000/live/benani/benani/1798.ts
+#EXTINF:-1,beINSPORT12_HD
+http://62.4.21.70:8000/live/benani/benani/1799.ts
+#EXTINF:-1,BEIN SPORTS 1 HEVC H.265
+http://62.4.21.70:8000/live/benani/benani/3705.ts
+#EXTINF:-1,BEIN SPORTS 2 HEVC H.265
+http://62.4.21.70:8000/live/benani/benani/3706.ts
+#EXTINF:-1,BEIN SPORTS 3 HEVC H.265
+http://62.4.21.70:8000/live/benani/benani/3707.ts
+#EXTINF:-1,BEIN SPORTS 4 HEVC H.265
+http://62.4.21.70:8000/live/benani/benani/3708.ts
+#EXTINF:-1,BEIN SPORTS 5 HEVC H.265
+http://62.4.21.70:8000/live/benani/benani/3709.ts
+#EXTINF:-1,BEINSPORT1_SD
+http://62.4.21.70:8000/live/benani/benani/388.ts
+#EXTINF:-1,BEINSPORT_2SD
+http://62.4.21.70:8000/live/benani/benani/389.ts
+#EXTINF:-1,BEINSPORT_3SD
+http://62.4.21.70:8000/live/benani/benani/390.ts
+#EXTINF:-1,BEINSPORT_4SD
+http://62.4.21.70:8000/live/benani/benani/391.ts
+#EXTINF:-1,BEINSPORT_5SD
+http://62.4.21.70:8000/live/benani/benani/392.ts
+#EXTINF:-1,BEINSPORT_6SD
+http://62.4.21.70:8000/live/benani/benani/393.ts
+#EXTINF:-1,BEINSPORT_7SD
+http://62.4.21.70:8000/live/benani/benani/394.ts
+#EXTINF:-1,BEINSPORT_8SD
+http://62.4.21.70:8000/live/benani/benani/395.ts
+#EXTINF:-1,BEINSPORT9_SD
+http://62.4.21.70:8000/live/benani/benani/396.ts
+#EXTINF:-1,BEINSPORT_10SD
+http://62.4.21.70:8000/live/benani/benani/397.ts
+#EXTINF:-1,===OSN===
+http://62.4.21.70:8000/live/benani/benani/3476.ts
+#EXTINF:-1,VIP: OSN WWE HD
+http://62.4.21.70:8000/live/benani/benani/3297.ts
+#EXTINF:-1,VIP: OSN Ten Cricket HD
+http://62.4.21.70:8000/live/benani/benani/3296.ts
+#EXTINF:-1,VIP: OSN Sport 4 HD
+http://62.4.21.70:8000/live/benani/benani/3294.ts
+#EXTINF:-1,VIP: OSN Sport 3 HD
+http://62.4.21.70:8000/live/benani/benani/3293.ts
+#EXTINF:-1,VIP: OSN Sport 2 HD
+http://62.4.21.70:8000/live/benani/benani/3292.ts
+#EXTINF:-1,VIP: OSN Sport 1 HD
+http://62.4.21.70:8000/live/benani/benani/3291.ts
+#EXTINF:-1,VIP: OSN Fight HD
+http://62.4.21.70:8000/live/benani/benani/3298.ts
+#EXTINF:-1,VIP: OSN Cricket HD
+http://62.4.21.70:8000/live/benani/benani/3295.ts
+#EXTINF:-1,VIP: OSN Yahala Shabab HD
+http://62.4.21.70:8000/live/benani/benani/3238.ts
+#EXTINF:-1,VIP: OSN Yahala HD
+http://62.4.21.70:8000/live/benani/benani/3237.ts
+#EXTINF:-1,VIP: OSN Yahala Drama HD
+http://62.4.21.70:8000/live/benani/benani/3239.ts
+#EXTINF:-1,VIP: OSN Yahala Cinema HD
+http://62.4.21.70:8000/live/benani/benani/3240.ts
+#EXTINF:-1,VIP: OSN Movies Premiere HD
+http://62.4.21.70:8000/live/benani/benani/3245.ts
+#EXTINF:-1,VIP: OSN Movies HD
+http://62.4.21.70:8000/live/benani/benani/3244.ts
+#EXTINF:-1,VIP: OSN Movies Festival HD
+http://62.4.21.70:8000/live/benani/benani/3246.ts
+#EXTINF:-1,VIP: OSN Movies Family HD
+http://62.4.21.70:8000/live/benani/benani/3247.ts
+#EXTINF:-1,VIP: OSN Movies Drama HD
+http://62.4.21.70:8000/live/benani/benani/3248.ts
+#EXTINF:-1,VIP: OSN Movies Comedy HD
+http://62.4.21.70:8000/live/benani/benani/3249.ts
+#EXTINF:-1,VIP: OSN Movies Action HD
+http://62.4.21.70:8000/live/benani/benani/3250.ts
+#EXTINF:-1,VIP: OSN First HD
+http://62.4.21.70:8000/live/benani/benani/3241.ts
+#EXTINF:-1,VIP: OSN First HBO HD
+http://62.4.21.70:8000/live/benani/benani/3242.ts
+#EXTINF:-1,VIP: OSN First Comedy HD
+http://62.4.21.70:8000/live/benani/benani/3243.ts
+#EXTINF:-1,VIP: OSN Box Office 3 HD
+http://62.4.21.70:8000/live/benani/benani/3253.ts
+#EXTINF:-1,VIP: OSN Box Office 2 HD
+http://62.4.21.70:8000/live/benani/benani/3252.ts
+#EXTINF:-1,VIP: OSN Box Office 1 HD
+http://62.4.21.70:8000/live/benani/benani/3251.ts
+#EXTINF:-1,AR: OSN Ya Hala Shabab HD
+http://62.4.21.70:8000/live/benani/benani/3254.ts
+#EXTINF:-1,AR: OSN Ya Hala HD
+http://62.4.21.70:8000/live/benani/benani/3255.ts
+#EXTINF:-1,AR: OSN Ya Hala Drama HD
+http://62.4.21.70:8000/live/benani/benani/3256.ts
+#EXTINF:-1,AR: OSN WWE
+http://62.4.21.70:8000/live/benani/benani/3257.ts
+#EXTINF:-1,AR: OSN Star World HD
+http://62.4.21.70:8000/live/benani/benani/3258.ts
+#EXTINF:-1,AR: OSN Sports 4 HD
+http://62.4.21.70:8000/live/benani/benani/3259.ts
+#EXTINF:-1,AR: OSN Sports 3 HD
+http://62.4.21.70:8000/live/benani/benani/3260.ts
+#EXTINF:-1,AR: OSN Sports 2 HD
+http://62.4.21.70:8000/live/benani/benani/3261.ts
+#EXTINF:-1,AR: OSN Sports 1 HD
+http://62.4.21.70:8000/live/benani/benani/3262.ts
+#EXTINF:-1,AR: OSN ON Demand Extra HD
+http://62.4.21.70:8000/live/benani/benani/3263.ts
+#EXTINF:-1,AR: OSN On Demand EXTRA 3 HD
+http://62.4.21.70:8000/live/benani/benani/3264.ts
+#EXTINF:-1,AR: OSN On Demand Extra 2 HD
+http://62.4.21.70:8000/live/benani/benani/3265.ts
+#EXTINF:-1,AR: OSN On Demand Extra 1 HD
+http://62.4.21.70:8000/live/benani/benani/3266.ts
+#EXTINF:-1,AR: OSN On Demand 3 HD
+http://62.4.21.70:8000/live/benani/benani/3267.ts
+#EXTINF:-1,AR: OSN On Demand 2 HD
+http://62.4.21.70:8000/live/benani/benani/3268.ts
+#EXTINF:-1,AR: OSN On Demand 1 HD
+http://62.4.21.70:8000/live/benani/benani/3269.ts
+#EXTINF:-1,AR: OSN Movies Premiere  2
+http://62.4.21.70:8000/live/benani/benani/3270.ts
+#EXTINF:-1,AR: OSN Movies Kids HD
+http://62.4.21.70:8000/live/benani/benani/3271.ts
+#EXTINF:-1,AR: OSN Movies HD  2
+http://62.4.21.70:8000/live/benani/benani/3272.ts
+#EXTINF:-1,AR: OSN Movies HD
+http://62.4.21.70:8000/live/benani/benani/3273.ts
+#EXTINF:-1,AR: OSN Movies Festival HD
+http://62.4.21.70:8000/live/benani/benani/3274.ts
+#EXTINF:-1,AR: OSN Movies Comedy  2
+http://62.4.21.70:8000/live/benani/benani/3275.ts
+#EXTINF:-1,AR: OSN Movies Comedy
+http://62.4.21.70:8000/live/benani/benani/3276.ts
+#EXTINF:-1,AR: OSN Movies Box Office 2 HD
+http://62.4.21.70:8000/live/benani/benani/3277.ts
+#EXTINF:-1,AR: OSN Movies Box Office 1 HD
+http://62.4.21.70:8000/live/benani/benani/3278.ts
+#EXTINF:-1,AR: OSN Movies Action HD
+http://62.4.21.70:8000/live/benani/benani/3279.ts
+#EXTINF:-1,AR: OSN Movies Action  2 HD
+http://62.4.21.70:8000/live/benani/benani/3280.ts
+#EXTINF:-1,AR: OSN ID HD
+http://62.4.21.70:8000/live/benani/benani/3281.ts
+#EXTINF:-1,AR: OSN ID
+http://62.4.21.70:8000/live/benani/benani/3282.ts
+#EXTINF:-1,AR: OSN Fox HD
+http://62.4.21.70:8000/live/benani/benani/3283.ts
+#EXTINF:-1,AR: OSN Fix & Foxi
+http://62.4.21.70:8000/live/benani/benani/3284.ts
+#EXTINF:-1,AR: OSN First Comedy HD
+http://62.4.21.70:8000/live/benani/benani/3285.ts
+#EXTINF:-1,AR: OSN EX
+http://62.4.21.70:8000/live/benani/benani/3286.ts
+#EXTINF:-1,AR: OSN Discovery World
+http://62.4.21.70:8000/live/benani/benani/3287.ts
+#EXTINF:-1,AR: OSN Discovery Science HD
+http://62.4.21.70:8000/live/benani/benani/3288.ts
+#EXTINF:-1,AR: OSN Animal Planet HD
+http://62.4.21.70:8000/live/benani/benani/3289.ts
+#EXTINF:-1,AR: OSN Al Yom
+http://62.4.21.70:8000/live/benani/benani/3290.ts
+#EXTINF:-1,OSN_Abu-Dhabi-Sports_3HD
+http://62.4.21.70:8000/live/benani/benani/2546.ts
+#EXTINF:-1,OSN_Discovery_Science_HD
+http://62.4.21.70:8000/live/benani/benani/2544.ts
+#EXTINF:-1,OSN_Animal-Planet_HD
+http://62.4.21.70:8000/live/benani/benani/2545.ts
+#EXTINF:-1,OSN_MBC_P_Variety_HD
+http://62.4.21.70:8000/live/benani/benani/2547.ts
+#EXTINF:-1,AR: OSNONDEMANDEEXTRA3
+http://62.4.21.70:8000/live/benani/benani/3111.ts
+#EXTINF:-1,AR: OSNONDEMANDEEXTRA2
+http://62.4.21.70:8000/live/benani/benani/3110.ts
+#EXTINF:-1,AR: OSNONDEMANDEEXTRA1
+http://62.4.21.70:8000/live/benani/benani/3109.ts
+#EXTINF:-1,AR: OSNONDEMANDE3
+http://62.4.21.70:8000/live/benani/benani/3113.ts
+#EXTINF:-1,AR: OSNONDEMANDE2
+http://62.4.21.70:8000/live/benani/benani/3112.ts
+#EXTINF:-1,AR: OSNONDEMAND1HD
+http://62.4.21.70:8000/live/benani/benani/3108.ts
+#EXTINF:-1,AR: OSNBOXOFFICE3
+http://62.4.21.70:8000/live/benani/benani/3116.ts
+#EXTINF:-1,AR: OSNBOXOFFICE2
+http://62.4.21.70:8000/live/benani/benani/3115.ts
+#EXTINF:-1,AR: OSNBOXOFFICE1
+http://62.4.21.70:8000/live/benani/benani/3114.ts
+#EXTINF:-1,AR: OSN STAR MOVIES HD
+http://62.4.21.70:8000/live/benani/benani/3106.ts
+#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
+http://62.4.21.70:8000/live/benani/benani/3104.ts
+#EXTINF:-1,AR: OSN MOVIES DRAMA
+http://62.4.21.70:8000/live/benani/benani/3100.ts
+#EXTINF:-1,AR: OSN MOVIES
+http://62.4.21.70:8000/live/benani/benani/3101.ts
+#EXTINF:-1,AR: OSN MBC DRAMA
+http://62.4.21.70:8000/live/benani/benani/3099.ts
+#EXTINF:-1,AR: OSN CINEMA 2
+http://62.4.21.70:8000/live/benani/benani/3102.ts
+#EXTINF:-1,AR: OSN CINEMA 1
+http://62.4.21.70:8000/live/benani/benani/3103.ts
+#EXTINF:-1,AR: OSN ANIMAL PLANET
+http://62.4.21.70:8000/live/benani/benani/3105.ts
+#EXTINF:-1,AR: OSN ACTION 2
+http://62.4.21.70:8000/live/benani/benani/3107.ts
+#EXTINF:-1,====ARAB NILESAT====
+http://62.4.21.70:8000/live/benani/benani/1734.ts
+#EXTINF:-1,AL OULA MAROC
+http://62.4.21.70:8000/live/benani/benani/32.ts
+#EXTINF:-1,2M MAROC
+http://62.4.21.70:8000/live/benani/benani/31.ts
+#EXTINF:-1,AR: Medi1 TV
+http://62.4.21.70:8000/live/benani/benani/931.ts
+#EXTINF:-1,AL OULA LAAYOUNE
+http://62.4.21.70:8000/live/benani/benani/666.ts
+#EXTINF:-1,ARRIADIA MAROC
+http://62.4.21.70:8000/live/benani/benani/33.ts
+#EXTINF:-1,ARRABIA MAROC
+http://62.4.21.70:8000/live/benani/benani/34.ts
+#EXTINF:-1,ALMAGHRIBIA MAROC
+http://62.4.21.70:8000/live/benani/benani/35.ts
+#EXTINF:-1,ASSADISA
+http://62.4.21.70:8000/live/benani/benani/415.ts
+#EXTINF:-1,AR ALGERIE  Tamazight
+http://62.4.21.70:8000/live/benani/benani/941.ts
+#EXTINF:-1,AL ARABIYA
+http://62.4.21.70:8000/live/benani/benani/402.ts
+#EXTINF:-1,AL ARABIYA ALHADATH
+http://62.4.21.70:8000/live/benani/benani/404.ts
+#EXTINF:-1,France24 ARABIC
+http://62.4.21.70:8000/live/benani/benani/405.ts
+#EXTINF:-1,France24 FR
+http://62.4.21.70:8000/live/benani/benani/403.ts
+#EXTINF:-1,Al JAZEERA ARABIC
+http://62.4.21.70:8000/live/benani/benani/398.ts
+#EXTINF:-1,BBC ARABIC
+http://62.4.21.70:8000/live/benani/benani/660.ts
+#EXTINF:-1,Al JAZEERA DOCUMENTARY
+http://62.4.21.70:8000/live/benani/benani/399.ts
+#EXTINF:-1,Al JAZEERA MUBASHER
+http://62.4.21.70:8000/live/benani/benani/401.ts
+#EXTINF:-1,Al JAZEERA ENGLISH
+http://62.4.21.70:8000/live/benani/benani/400.ts
+#EXTINF:-1,DW ARABIC
+http://62.4.21.70:8000/live/benani/benani/2838.ts
+#EXTINF:-1,SKY NEWS ARABIC
+http://62.4.21.70:8000/live/benani/benani/411.ts
+#EXTINF:-1,ART HEKAYAT ZAMANE
+http://62.4.21.70:8000/live/benani/benani/21.ts
+#EXTINF:-1,ART HEKAYAT 2
+http://62.4.21.70:8000/live/benani/benani/22.ts
+#EXTINF:-1,ART CINEMA
+http://62.4.21.70:8000/live/benani/benani/20.ts
+#EXTINF:-1,ART AFLAM 1
+http://62.4.21.70:8000/live/benani/benani/18.ts
+#EXTINF:-1,ART AFLAM 2
+http://62.4.21.70:8000/live/benani/benani/19.ts
+#EXTINF:-1,Ontv live - Arab
+http://62.4.21.70:8000/live/benani/benani/3183.ts
+#EXTINF:-1,AR Zaytoona - AR Zaytoona
+http://62.4.21.70:8000/live/benani/benani/2033.ts
+#EXTINF:-1,AR_Wesal
+http://62.4.21.70:8000/live/benani/benani/2398.ts
+#EXTINF:-1,AR TV Coran
+http://62.4.21.70:8000/live/benani/benani/2027.ts
+#EXTINF:-1,AR Tunisna
+http://62.4.21.70:8000/live/benani/benani/2029.ts
+#EXTINF:-1,AR Tunisia National 2 - AR Tunisia National 2
+http://62.4.21.70:8000/live/benani/benani/2038.ts
+#EXTINF:-1,AR Tunisia National 1 - AR Tunisia National 1
+http://62.4.21.70:8000/live/benani/benani/2037.ts
+#EXTINF:-1,Abu_Dhabi_Sports_1HD
+http://62.4.21.70:8000/live/benani/benani/579.ts
+#EXTINF:-1,ARABIC_MEKAMILIN
+http://62.4.21.70:8000/live/benani/benani/2888.ts
+#EXTINF:-1,AR Top Cinema
+http://62.4.21.70:8000/live/benani/benani/2280.ts
+#EXTINF:-1,AR Tok Tok Cinema
+http://62.4.21.70:8000/live/benani/benani/2077.ts
+#EXTINF:-1,AR Tok Tok Aflam
+http://62.4.21.70:8000/live/benani/benani/2076.ts
+#EXTINF:-1,AR Time Quran
+http://62.4.21.70:8000/live/benani/benani/2279.ts
+#EXTINF:-1,AR Time Film
+http://62.4.21.70:8000/live/benani/benani/2278.ts
+#EXTINF:-1,AR_Time_Comedy
+http://62.4.21.70:8000/live/benani/benani/2446.ts
+#EXTINF:-1,AR Time Cinema
+http://62.4.21.70:8000/live/benani/benani/2277.ts
+#EXTINF:-1,AR Ten
+http://62.4.21.70:8000/live/benani/benani/2069.ts
+#EXTINF:-1,AR_Tayba_TV
+http://62.4.21.70:8000/live/benani/benani/2337.ts
+#EXTINF:-1,AR_Talaqie
+http://62.4.21.70:8000/live/benani/benani/2325.ts
+#EXTINF:-1,AR_Syria_Education
+http://62.4.21.70:8000/live/benani/benani/2313.ts
+#EXTINF:-1,AR_Syria_Drama
+http://62.4.21.70:8000/live/benani/benani/2312.ts
+#EXTINF:-1,AR Star Cinema 2
+http://62.4.21.70:8000/live/benani/benani/2075.ts
+#EXTINF:-1,AR Star Cinema 1
+http://62.4.21.70:8000/live/benani/benani/2074.ts
+#EXTINF:-1,AR_Semsem
+http://62.4.21.70:8000/live/benani/benani/2393.ts
+#EXTINF:-1,AR Saudi Sunnah - AR Saudi Sunnah
+http://62.4.21.70:8000/live/benani/benani/2046.ts
+#EXTINF:-1,AR Saudi Quran - AR Saudi Quran
+http://62.4.21.70:8000/live/benani/benani/2045.ts
+#EXTINF:-1,AR_Saudi_Channel2
+http://62.4.21.70:8000/live/benani/benani/2324.ts
+#EXTINF:-1,AR_Saudi_Anti
+http://62.4.21.70:8000/live/benani/benani/2323.ts
+#EXTINF:-1,AR_Saudi24
+http://62.4.21.70:8000/live/benani/benani/2322.ts
+#EXTINF:-1,AR_Saudi1
+http://62.4.21.70:8000/live/benani/benani/2321.ts
+#EXTINF:-1,AR_Sat_7Plus
+http://62.4.21.70:8000/live/benani/benani/2362.ts
+#EXTINF:-1,AR_Sat_7Kids
+http://62.4.21.70:8000/live/benani/benani/2363.ts
+#EXTINF:-1,AR_Sat7
+http://62.4.21.70:8000/live/benani/benani/2361.ts
+#EXTINF:-1,AR_Sama_TV
+http://62.4.21.70:8000/live/benani/benani/2317.ts
+#EXTINF:-1,AR_Sama_Dubai
+http://62.4.21.70:8000/live/benani/benani/2458.ts
+#EXTINF:-1,AR_Sadr_Al_Iraq
+http://62.4.21.70:8000/live/benani/benani/2357.ts
+#EXTINF:-1,AR Sada El Balad Drama
+http://62.4.21.70:8000/live/benani/benani/2068.ts
+#EXTINF:-1,AR Sada El Balad
+http://62.4.21.70:8000/live/benani/benani/2067.ts
+#EXTINF:-1,AR Rotana Cinema Ksa
+http://62.4.21.70:8000/live/benani/benani/2026.ts
+#EXTINF:-1,AR Rotana - AR Rotana
+http://62.4.21.70:8000/live/benani/benani/2025.ts
+#EXTINF:-1,AR Resalat Al Islam
+http://62.4.21.70:8000/live/benani/benani/2047.ts
+#EXTINF:-1,AR_Quran_TV
+http://62.4.21.70:8000/live/benani/benani/2441.ts
+#EXTINF:-1,AR_Qatar_Today
+http://62.4.21.70:8000/live/benani/benani/2432.ts
+#EXTINF:-1,AR Otv
+http://62.4.21.70:8000/live/benani/benani/2056.ts
+#EXTINF:-1,AR_Oman_TV
+http://62.4.21.70:8000/live/benani/benani/2400.ts
+#EXTINF:-1,AR_Noursat
+http://62.4.21.70:8000/live/benani/benani/2284.ts
+#EXTINF:-1,AR_Nour_El_Sham
+http://62.4.21.70:8000/live/benani/benani/2302.ts
+#EXTINF:-1,AR_Noor_Dubai
+http://62.4.21.70:8000/live/benani/benani/2457.ts
+#EXTINF:-1,AR_Neelain_Sport
+http://62.4.21.70:8000/live/benani/benani/2450.ts
+#EXTINF:-1,AR_Naba_TV
+http://62.4.21.70:8000/live/benani/benani/2298.ts
+#EXTINF:-1,AR Mtv Lebanon - AR Mtv Lebanon
+http://62.4.21.70:8000/live/benani/benani/2058.ts
+#EXTINF:-1,AR Mta Muslim TV
+http://62.4.21.70:8000/live/benani/benani/2051.ts
+#EXTINF:-1,AR Mta Arabic
+http://62.4.21.70:8000/live/benani/benani/2052.ts
+#EXTINF:-1,AR_Mouritania_TV
+http://62.4.21.70:8000/live/benani/benani/2451.ts
+#EXTINF:-1,AR_Modern_Sport
+http://62.4.21.70:8000/live/benani/benani/2437.ts
+#EXTINF:-1,AR_Misr_Alzera3ia
+http://62.4.21.70:8000/live/benani/benani/2281.ts
+#EXTINF:-1,AR_Menara_TV
+http://62.4.21.70:8000/live/benani/benani/2433.ts
+#EXTINF:-1,AR Mazazikh
+http://62.4.21.70:8000/live/benani/benani/2060.ts
+#EXTINF:-1,AR_Masdar
+http://62.4.21.70:8000/live/benani/benani/2385.ts
+#EXTINF:-1,AR_Majestick_Cinema
+http://62.4.21.70:8000/live/benani/benani/2384.ts
+#EXTINF:-1,AR_Maan_TV
+http://62.4.21.70:8000/live/benani/benani/2310.ts
+#EXTINF:-1,AR_Ltc
+http://62.4.21.70:8000/live/benani/benani/2299.ts
+#EXTINF:-1,AR Ldc - AR Ldc
+http://62.4.21.70:8000/live/benani/benani/2055.ts
+#EXTINF:-1,AR Lbc Libanon - AR Lbc Libanon
+http://62.4.21.70:8000/live/benani/benani/2054.ts
+#EXTINF:-1,AR_Kuwait_Deretna
+http://62.4.21.70:8000/live/benani/benani/2341.ts
+#EXTINF:-1,AR_Kuwait
+http://62.4.21.70:8000/live/benani/benani/2339.ts
+#EXTINF:-1,AR_Ktv_Sport
+http://62.4.21.70:8000/live/benani/benani/2473.ts
+#EXTINF:-1,A_Ktv_2
+http://62.4.21.70:8000/live/benani/benani/2472.ts
+#EXTINF:-1,AR_Ktv_1
+http://62.4.21.70:8000/live/benani/benani/2471.ts
+#EXTINF:-1,AR_Karbala
+http://62.4.21.70:8000/live/benani/benani/2365.ts
+#EXTINF:-1,AR karameesh
+http://62.4.21.70:8000/live/benani/benani/2062.ts
+#EXTINF:-1,AR_Kanal_Hayat
+http://62.4.21.70:8000/live/benani/benani/2364.ts
+#EXTINF:-1,AR_Jordan_TV
+http://62.4.21.70:8000/live/benani/benani/2410.ts
+#EXTINF:-1,AR_Jordan_Sport
+http://62.4.21.70:8000/live/benani/benani/2414.ts
+#EXTINF:-1,AR_Jordan_Manaseer
+http://62.4.21.70:8000/live/benani/benani/2419.ts
+#EXTINF:-1,AR_Jordan_Jood
+http://62.4.21.70:8000/live/benani/benani/2417.ts
+#EXTINF:-1,AR_Jordan_Amen
+http://62.4.21.70:8000/live/benani/benani/2418.ts
+#EXTINF:-1,AR_Jordan_Alwastalbalad
+http://62.4.21.70:8000/live/benani/benani/2420.ts
+#EXTINF:-1,AR Jannah
+http://62.4.21.70:8000/live/benani/benani/2049.ts
+#EXTINF:-1,AR i24 News Arabic
+http://62.4.21.70:8000/live/benani/benani/2043.ts
+#EXTINF:-1,AR_I_Film
+http://62.4.21.70:8000/live/benani/benani/2318.ts
+#EXTINF:-1,AR_Hona_Al_Quds
+http://62.4.21.70:8000/live/benani/benani/2394.ts
+#EXTINF:-1,AR Hod Hod TV
+http://62.4.21.70:8000/live/benani/benani/2061.ts
+#EXTINF:-1,AR Hannibal
+http://62.4.21.70:8000/live/benani/benani/2030.ts
+#EXTINF:-1,AR Future
+http://62.4.21.70:8000/live/benani/benani/2059.ts
+#EXTINF:-1,AR Euronews Arabic
+http://62.4.21.70:8000/live/benani/benani/2041.ts
+#EXTINF:-1,AR Esc
+http://62.4.21.70:8000/live/benani/benani/2063.ts
+#EXTINF:-1,AR_Eladjwaa
+http://62.4.21.70:8000/live/benani/benani/2333.ts
+#EXTINF:-1,AR El Hiwar Ettounsi - AR El Hiwar Ettounsi
+http://62.4.21.70:8000/live/benani/benani/2032.ts
+#EXTINF:-1,AR_El_Heya_TV
+http://62.4.21.70:8000/live/benani/benani/2293.ts
+#EXTINF:-1,AR_Dubai_Zaman
+http://62.4.21.70:8000/live/benani/benani/2459.ts
+#EXTINF:-1,AR_Dubai_Sport_HD
+http://62.4.21.70:8000/live/benani/benani/2463.ts
+#EXTINF:-1,AR_Dubai_Sport_4
+http://62.4.21.70:8000/live/benani/benani/2466.ts
+#EXTINF:-1,AR_Dubai_Sport_3
+http://62.4.21.70:8000/live/benani/benani/2465.ts
+#EXTINF:-1,AR_Dubai_Drama_AR
+http://62.4.21.70:8000/live/benani/benani/2460.ts
+#EXTINF:-1,AR_Dubai_AlOula_HD
+http://62.4.21.70:8000/live/benani/benani/2462.ts
+#EXTINF:-1,AR_Dawan_TV
+http://62.4.21.70:8000/live/benani/benani/2383.ts
+#EXTINF:-1,AR_Daloaa
+http://62.4.21.70:8000/live/benani/benani/2331.ts
+#EXTINF:-1,AR_Cinema_Pro
+http://62.4.21.70:8000/live/benani/benani/2282.ts
+#EXTINF:-1,AR Cbc 2
+http://62.4.21.70:8000/live/benani/benani/2064.ts
+#EXTINF:-1,AR Cairo Drama
+http://62.4.21.70:8000/live/benani/benani/2276.ts
+#EXTINF:-1,AR_Blue_Nile
+http://62.4.21.70:8000/live/benani/benani/2455.ts
+#EXTINF:-1,AR_Belad_Haramen
+http://62.4.21.70:8000/live/benani/benani/2456.ts
+#EXTINF:-1,AR_Bahrain_Quran
+http://62.4.21.70:8000/live/benani/benani/2453.ts
+#EXTINF:-1,AR_Bahia_TV
+http://62.4.21.70:8000/live/benani/benani/2328.ts
+#EXTINF:-1,AR_Baghdad_TV
+http://62.4.21.70:8000/live/benani/benani/2352.ts
+#EXTINF:-1,AR_Azhari
+http://62.4.21.70:8000/live/benani/benani/2405.ts
+#EXTINF:-1,AR Attasia TV - AR Attasia TV
+http://62.4.21.70:8000/live/benani/benani/2031.ts
+#EXTINF:-1,AR_Ashorooq
+http://62.4.21.70:8000/live/benani/benani/2447.ts
+#EXTINF:-1,AR_Arabica
+http://62.4.21.70:8000/live/benani/benani/2343.ts
+#EXTINF:-1,AR_Annajaf
+http://62.4.21.70:8000/live/benani/benani/2439.ts
+#EXTINF:-1,AR_Ann
+http://62.4.21.70:8000/live/benani/benani/2286.ts
+#EXTINF:-1,AR_Althaqafiah
+http://62.4.21.70:8000/live/benani/benani/2452.ts
+#EXTINF:-1,AR Al Zitouna Hedaya - AR Al Zitouna Hedaya
+http://62.4.21.70:8000/live/benani/benani/2034.ts
+#EXTINF:-1,AR_Al_Waad
+http://62.4.21.70:8000/live/benani/benani/2319.ts
+#EXTINF:-1,AR_Al_Thabat
+http://62.4.21.70:8000/live/benani/benani/2347.ts
+#EXTINF:-1,AR_Al_Teeb
+http://62.4.21.70:8000/live/benani/benani/2382.ts
+#EXTINF:-1,AR_Al_Sirat
+http://62.4.21.70:8000/live/benani/benani/2399.ts
+#EXTINF:-1,AR_Al_Sharqia_News_HD
+http://62.4.21.70:8000/live/benani/benani/2360.ts
+#EXTINF:-1,AR_Al_Sharqia_HD
+http://62.4.21.70:8000/live/benani/benani/2358.ts
+#EXTINF:-1,AR_Al_Sharq
+http://62.4.21.70:8000/live/benani/benani/2294.ts
+#EXTINF:-1,AR_Al_Shareyyah
+http://62.4.21.70:8000/live/benani/benani/2335.ts
+#EXTINF:-1,AR_Al_Shallal
+http://62.4.21.70:8000/live/benani/benani/2348.ts
+#EXTINF:-1,AR_Al_Shahed
+http://62.4.21.70:8000/live/benani/benani/2349.ts
+#EXTINF:-1,AR_Al_Shababtv
+http://62.4.21.70:8000/live/benani/benani/2344.ts
+#EXTINF:-1,AR_Al_Sahraa_Aalebel
+http://62.4.21.70:8000/live/benani/benani/2373.ts
+#EXTINF:-1,AR_Al_Rayyan
+http://62.4.21.70:8000/live/benani/benani/2401.ts
+#EXTINF:-1,AR_Al_Rasheed
+http://62.4.21.70:8000/live/benani/benani/2316.ts
+#EXTINF:-1,AR Al Rahma
+http://62.4.21.70:8000/live/benani/benani/2048.ts
+#EXTINF:-1,AR_Al_Quds
+http://62.4.21.70:8000/live/benani/benani/2392.ts
+#EXTINF:-1,AR_Al_Qanat
+http://62.4.21.70:8000/live/benani/benani/2379.ts
+#EXTINF:-1,AR_Al_Qamar
+http://62.4.21.70:8000/live/benani/benani/2376.ts
+#EXTINF:-1,AR Al Omah
+http://62.4.21.70:8000/live/benani/benani/2050.ts
+#EXTINF:-1,AR_Al_Noujaba
+http://62.4.21.70:8000/live/benani/benani/2332.ts
+#EXTINF:-1,AR Al Nahar One
+http://62.4.21.70:8000/live/benani/benani/2070.ts
+#EXTINF:-1,AR Al Nahar Cinema
+http://62.4.21.70:8000/live/benani/benani/2071.ts
+#EXTINF:-1,AR Al Nahar Alyoum
+http://62.4.21.70:8000/live/benani/benani/2072.ts
+#EXTINF:-1,AR_Al_Naeem
+http://62.4.21.70:8000/live/benani/benani/2338.ts
+#EXTINF:-1,AR_Al_Nada
+http://62.4.21.70:8000/live/benani/benani/2377.ts
+#EXTINF:-1,AR_Al_Mustakila
+http://62.4.21.70:8000/live/benani/benani/2329.ts
+#EXTINF:-1,AR_Al_Mergab
+http://62.4.21.70:8000/live/benani/benani/2381.ts
+#EXTINF:-1,AR Al Mayadeen
+http://62.4.21.70:8000/live/benani/benani/2042.ts
+#EXTINF:-1,AR Al Masrawia
+http://62.4.21.70:8000/live/benani/benani/2387.ts
+#EXTINF:-1,AR_Al_Maaref
+http://62.4.21.70:8000/live/benani/benani/2330.ts
+#EXTINF:-1,AR_Al_Kawthar
+http://62.4.21.70:8000/live/benani/benani/2444.ts
+#EXTINF:-1,AR_Al_Karma_TV
+http://62.4.21.70:8000/live/benani/benani/2296.ts
+#EXTINF:-1,AR Al Kahera Wel Nas
+http://62.4.21.70:8000/live/benani/benani/2066.ts
+#EXTINF:-1,AR Al Kahera
+http://62.4.21.70:8000/live/benani/benani/2065.ts
+#EXTINF:-1,AR Al Jazeera HD
+http://62.4.21.70:8000/live/benani/benani/2039.ts
+#EXTINF:-1,AR Al Janoubia - AR Al Janoubia
+http://62.4.21.70:8000/live/benani/benani/2035.ts
+#EXTINF:-1,AR_Al_Itejah
+http://62.4.21.70:8000/live/benani/benani/2327.ts
+#EXTINF:-1,AR_Al_InsenTV
+http://62.4.21.70:8000/live/benani/benani/2295.ts
+#EXTINF:-1,AR Al Hiwar
+http://62.4.21.70:8000/live/benani/benani/2073.ts
+#EXTINF:-1,AR Al Haqiqa
+http://62.4.21.70:8000/live/benani/benani/2053.ts
+#EXTINF:-1,AR_Al_Ghad_Alarbiya
+http://62.4.21.70:8000/live/benani/benani/2283.ts
+#EXTINF:-1,AR_Al_Gamaiya
+http://62.4.21.70:8000/live/benani/benani/2305.ts
+#EXTINF:-1,AR_Al_Forat2
+http://62.4.21.70:8000/live/benani/benani/2351.ts
+#EXTINF:-1,AR_Al_Fayhaa
+http://62.4.21.70:8000/live/benani/benani/2320.ts
+#EXTINF:-1,AR_Al_Eshraq
+http://62.4.21.70:8000/live/benani/benani/2380.ts
+#EXTINF:-1,AR_Al_Ekhbaria_Al_Soriya
+http://62.4.21.70:8000/live/benani/benani/2315.ts
+#EXTINF:-1,AR_Al_Diyar
+http://62.4.21.70:8000/live/benani/benani/2378.ts
+#EXTINF:-1,AR_Al_Bawadi
+http://62.4.21.70:8000/live/benani/benani/2409.ts
+#EXTINF:-1,AR_Al_Basira_2
+http://62.4.21.70:8000/live/benani/benani/2356.ts
+#EXTINF:-1,AR_Al_Basira
+http://62.4.21.70:8000/live/benani/benani/2355.ts
+#EXTINF:-1,AR_Al_Bait_Baitak_Cinema
+http://62.4.21.70:8000/live/benani/benani/2309.ts
+#EXTINF:-1,AR_Al_Baghdadia
+http://62.4.21.70:8000/live/benani/benani/2353.ts
+#EXTINF:-1,AR_Al_Awhad
+http://62.4.21.70:8000/live/benani/benani/2370.ts
+#EXTINF:-1,AR_Al_Atrja
+http://62.4.21.70:8000/live/benani/benani/2396.ts
+#EXTINF:-1,AR_Al_Asrar_TV
+http://62.4.21.70:8000/live/benani/benani/2297.ts
+#EXTINF:-1,AR_Al_Asr_TV
+http://62.4.21.70:8000/live/benani/benani/2406.ts
+#EXTINF:-1,AR_Al_Araby
+http://62.4.21.70:8000/live/benani/benani/2350.ts
+#EXTINF:-1,AR_Al_Anis_TV
+http://62.4.21.70:8000/live/benani/benani/2340.ts
+#EXTINF:-1,AR Al Alam News Channel
+http://62.4.21.70:8000/live/benani/benani/2040.ts
+#EXTINF:-1,AR_Akh_TV
+http://62.4.21.70:8000/live/benani/benani/2291.ts
+#EXTINF:-1,AR_Ajyal
+http://62.4.21.70:8000/live/benani/benani/2445.ts
+#EXTINF:-1,AR_Ahel_Al_Quran
+http://62.4.21.70:8000/live/benani/benani/2395.ts
+#EXTINF:-1,AR_Aghanina
+http://62.4.21.70:8000/live/benani/benani/2334.ts
+#EXTINF:-1,AR_Aghani
+http://62.4.21.70:8000/live/benani/benani/2287.ts
+#EXTINF:-1,AR_Afrah_TV
+http://62.4.21.70:8000/live/benani/benani/2285.ts
+#EXTINF:-1,AR_Abu_Dhabi_Sport_1
+http://62.4.21.70:8000/live/benani/benani/2469.ts
+#EXTINF:-1,AR_Abalfadhl_Allabas_Tv
+http://62.4.21.70:8000/live/benani/benani/2367.ts
+#EXTINF:-1,AL HURRA
+http://62.4.21.70:8000/live/benani/benani/1913.ts
+#EXTINF:-1,AL AAN TV
+http://62.4.21.70:8000/live/benani/benani/1901.ts
+#EXTINF:-1,AR_MBC1_HD
+http://62.4.21.70:8000/live/benani/benani/2527.ts
+#EXTINF:-1,AR_MBC2_HD
+http://62.4.21.70:8000/live/benani/benani/2528.ts
+#EXTINF:-1,AR_MBC3_HD
+http://62.4.21.70:8000/live/benani/benani/2529.ts
+#EXTINF:-1,AR_MBC_4_HD
+http://62.4.21.70:8000/live/benani/benani/2530.ts
+#EXTINF:-1,AR_MBC_MAX_HD
+http://62.4.21.70:8000/live/benani/benani/2531.ts
+#EXTINF:-1,AR_MBC_DRAMA_HD
+http://62.4.21.70:8000/live/benani/benani/2533.ts
+#EXTINF:-1,AR_MBC_ACTION_HD
+http://62.4.21.70:8000/live/benani/benani/2532.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_3_HD
+http://62.4.21.70:8000/live/benani/benani/2536.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_ 2_HD
+http://62.4.21.70:8000/live/benani/benani/2535.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_1_HD
+http://62.4.21.70:8000/live/benani/benani/2534.ts
+#EXTINF:-1,MBC 1 ARABIC
+http://62.4.21.70:8000/live/benani/benani/24.ts
+#EXTINF:-1,MBC 2 ARABIC
+http://62.4.21.70:8000/live/benani/benani/25.ts
+#EXTINF:-1,MBC 3 ARABIC
+http://62.4.21.70:8000/live/benani/benani/26.ts
+#EXTINF:-1,MBC 4 ARABIC
+http://62.4.21.70:8000/live/benani/benani/27.ts
+#EXTINF:-1,MBC DRAMA ARABIC
+http://62.4.21.70:8000/live/benani/benani/360.ts
+#EXTINF:-1,MBC  MAX ARABIC
+http://62.4.21.70:8000/live/benani/benani/28.ts
+#EXTINF:-1,MBC ACTION ARABIC
+http://62.4.21.70:8000/live/benani/benani/29.ts
+#EXTINF:-1,MBC BOLLYWOOD ARABIC
+http://62.4.21.70:8000/live/benani/benani/30.ts
+#EXTINF:-1,MBC_MASR
+http://62.4.21.70:8000/live/benani/benani/386.ts
+#EXTINF:-1,MBC_MASR2
+http://62.4.21.70:8000/live/benani/benani/385.ts
+#EXTINF:-1,WANASAH
+http://62.4.21.70:8000/live/benani/benani/1902.ts
+#EXTINF:-1,ROTANA_CINEMA
+http://62.4.21.70:8000/live/benani/benani/148.ts
+#EXTINF:-1,ROTANA_MASRIYA
+http://62.4.21.70:8000/live/benani/benani/147.ts
+#EXTINF:-1,ROTANA CLIP ARABIC
+http://62.4.21.70:8000/live/benani/benani/144.ts
+#EXTINF:-1,ROTANA_CLASSIC
+http://62.4.21.70:8000/live/benani/benani/146.ts
+#EXTINF:-1,ROTANA MUSIC ARABIC
+http://62.4.21.70:8000/live/benani/benani/145.ts
+#EXTINF:-1,ROTANA_KHALIJIA
+http://62.4.21.70:8000/live/benani/benani/352.ts
+#EXTINF:-1,AR Panorama film
+http://62.4.21.70:8000/live/benani/benani/1673.ts
+#EXTINF:-1,AR B4U Plus
+http://62.4.21.70:8000/live/benani/benani/1469.ts
+#EXTINF:-1,AR B4U Aflam
+http://62.4.21.70:8000/live/benani/benani/1470.ts
+#EXTINF:-1,Zitouna Hedaya - Arab
+http://62.4.21.70:8000/live/benani/benani/3136.ts
+#EXTINF:-1,Zein TV - Arab
+http://62.4.21.70:8000/live/benani/benani/3160.ts
+#EXTINF:-1,Zee Living - Arab
+http://62.4.21.70:8000/live/benani/benani/3138.ts
+#EXTINF:-1,Yemen TV - Arab
+http://62.4.21.70:8000/live/benani/benani/3157.ts
+#EXTINF:-1,Yemen Shabab - Arab
+http://62.4.21.70:8000/live/benani/benani/3159.ts
+#EXTINF:-1,Telvza TV - Arab
+http://62.4.21.70:8000/live/benani/benani/3135.ts
+#EXTINF:-1,Suryoyo Sat - Arab
+http://62.4.21.70:8000/live/benani/benani/3169.ts
+#EXTINF:-1,Suryana - Arab
+http://62.4.21.70:8000/live/benani/benani/3162.ts
+#EXTINF:-1,Shahamh - Arab
+http://62.4.21.70:8000/live/benani/benani/3172.ts
+#EXTINF:-1,Sanaa TV - Arab
+http://62.4.21.70:8000/live/benani/benani/3182.ts
+#EXTINF:-1,Sama Yemen - Arab
+http://62.4.21.70:8000/live/benani/benani/3158.ts
+#EXTINF:-1,Rt Arab - Arab
+http://62.4.21.70:8000/live/benani/benani/3144.ts
+#EXTINF:-1,Quo.edu - Arab
+http://62.4.21.70:8000/live/benani/benani/3118.ts
+#EXTINF:-1,Qatar TV HD - Arab
+http://62.4.21.70:8000/live/benani/benani/3156.ts
+#EXTINF:-1,Palastine Sport - Arab
+http://62.4.21.70:8000/live/benani/benani/3119.ts
+#EXTINF:-1,Palastine News - Arab
+http://62.4.21.70:8000/live/benani/benani/3120.ts
+#EXTINF:-1,Palastine Live - Arab
+http://62.4.21.70:8000/live/benani/benani/3121.ts
+#EXTINF:-1,Palastine - Arab
+http://62.4.21.70:8000/live/benani/benani/3122.ts
+#EXTINF:-1,Noursat Al Chabab - Arab
+http://62.4.21.70:8000/live/benani/benani/3170.ts
+#EXTINF:-1,Nessma TV - Arab
+http://62.4.21.70:8000/live/benani/benani/3133.ts
+#EXTINF:-1,Mystro TV - Arab
+http://62.4.21.70:8000/live/benani/benani/3180.ts
+#EXTINF:-1,Music Al Hanen - Arab
+http://62.4.21.70:8000/live/benani/benani/3161.ts
+#EXTINF:-1,Musawa - Arab
+http://62.4.21.70:8000/live/benani/benani/3123.ts
+#EXTINF:-1,Mouritania - Arab
+http://62.4.21.70:8000/live/benani/benani/3186.ts
+#EXTINF:-1,Mbc Pro Sports 4 - Arab
+http://62.4.21.70:8000/live/benani/benani/3137.ts
+#EXTINF:-1,Massaya - Arab
+http://62.4.21.70:8000/live/benani/benani/3146.ts
+#EXTINF:-1,Maspero Zaman
+http://62.4.21.70:8000/live/benani/benani/3173.ts
+#EXTINF:-1,Libyas - Arab
+http://62.4.21.70:8000/live/benani/benani/3163.ts
+#EXTINF:-1,Libya One - Arab
+http://62.4.21.70:8000/live/benani/benani/3164.ts
+#EXTINF:-1,Libya El Marah - Arab
+http://62.4.21.70:8000/live/benani/benani/3165.ts
+#EXTINF:-1,Libya Al Rasmeya - Arab
+http://62.4.21.70:8000/live/benani/benani/3166.ts
+#EXTINF:-1,Libya 218 - Arab
+http://62.4.21.70:8000/live/benani/benani/3167.ts
+#EXTINF:-1,Ktv 3 - Arab
+http://62.4.21.70:8000/live/benani/benani/3150.ts
+#EXTINF:-1,Kitabat TV - Arab
+http://62.4.21.70:8000/live/benani/benani/3189.ts
+#EXTINF:-1,Karameesh - Arab
+http://62.4.21.70:8000/live/benani/benani/3181.ts
+#EXTINF:-1,Hannibal - Arab
+http://62.4.21.70:8000/live/benani/benani/3134.ts
+#EXTINF:-1,Halaba TV - Arab
+http://62.4.21.70:8000/live/benani/benani/3140.ts
+#EXTINF:-1,Falastiniah-Arab
+http://62.4.21.70:8000/live/benani/benani/3124.ts
+#EXTINF:-1,El Djazairia - Arab
+http://62.4.21.70:8000/live/benani/benani/3131.ts
+#EXTINF:-1,Dzair Pub - Arab
+http://62.4.21.70:8000/live/benani/benani/3130.ts
+#EXTINF:-1,Dzair Jannah - Arab
+http://62.4.21.70:8000/live/benani/benani/3132.ts
+#EXTINF:-1,Dzair Aures - Arab
+http://62.4.21.70:8000/live/benani/benani/3129.ts
+#EXTINF:-1,Dzair - Arab
+http://62.4.21.70:8000/live/benani/benani/3128.ts
+#EXTINF:-1,Dream 2 - Arab
+http://62.4.21.70:8000/live/benani/benani/3179.ts
+#EXTINF:-1,Cinema Pro - Arab
+http://62.4.21.70:8000/live/benani/benani/3139.ts
+#EXTINF:-1,Bbc World News - Arab
+http://62.4.21.70:8000/live/benani/benani/3145.ts
+#EXTINF:-1,Baraem Kids Europe - Arab
+http://62.4.21.70:8000/live/benani/benani/3143.ts
+#EXTINF:-1,Bahrain International - Arab
+http://62.4.21.70:8000/live/benani/benani/3168.ts
+#EXTINF:-1,Awdeh - Arab
+http://62.4.21.70:8000/live/benani/benani/3125.ts
+#EXTINF:-1,AR_NUMIDIA_NEWS_ALGERIE
+http://62.4.21.70:8000/live/benani/benani/2573.ts
+#EXTINF:-1,Annajah NBC - Arab
+http://62.4.21.70:8000/live/benani/benani/3126.ts
+#EXTINF:-1,Ann - Arab
+http://62.4.21.70:8000/live/benani/benani/3142.ts
+#EXTINF:-1,Al Wilayah - Arab
+http://62.4.21.70:8000/live/benani/benani/3174.ts
+#EXTINF:-1,Al Sharjah - Arab
+http://62.4.21.70:8000/live/benani/benani/3178.ts
+#EXTINF:-1,Al Shamal - Arab
+http://62.4.21.70:8000/live/benani/benani/3188.ts
+#EXTINF:-1,Al Qanat - Arab
+http://62.4.21.70:8000/live/benani/benani/3191.ts
+#EXTINF:-1,Al Malakoot - Arab
+http://62.4.21.70:8000/live/benani/benani/3171.ts
+#EXTINF:-1,Al Majd Kids HD - Arab
+http://62.4.21.70:8000/live/benani/benani/3155.ts
+#EXTINF:-1,Al Majd 4 - arab
+http://62.4.21.70:8000/live/benani/benani/3154.ts
+#EXTINF:-1,Al Majd 3 - arab
+http://62.4.21.70:8000/live/benani/benani/3153.ts
+#EXTINF:-1,Al Majd 2 - Arab
+http://62.4.21.70:8000/live/benani/benani/3152.ts
+#EXTINF:-1,Al Majd 1  - Arab
+http://62.4.21.70:8000/live/benani/benani/3151.ts
+#EXTINF:-1,Al Jadeed - Arab
+http://62.4.21.70:8000/live/benani/benani/3190.ts
+#EXTINF:-1,Al Fady - Arab
+http://62.4.21.70:8000/live/benani/benani/3176.ts
+#EXTINF:-1,Al Dawaeia - Arab
+http://62.4.21.70:8000/live/benani/benani/3187.ts
+#EXTINF:-1,Al Askandria - Arab
+http://62.4.21.70:8000/live/benani/benani/3141.ts
+#EXTINF:-1,Al Arrab - Arab
+http://62.4.21.70:8000/live/benani/benani/3175.ts
+#EXTINF:-1,Al Amaken - Arab
+http://62.4.21.70:8000/live/benani/benani/3177.ts
+#EXTINF:-1,Aghapy - Arab
+http://62.4.21.70:8000/live/benani/benani/3184.ts
+#EXTINF:-1,Abu Dhabi TV HD - Arab
+http://62.4.21.70:8000/live/benani/benani/3147.ts
+#EXTINF:-1,Abu Dhabi Ngc HD - Arab
+http://62.4.21.70:8000/live/benani/benani/3149.ts
+#EXTINF:-1,Abu Dhabi Drama HD - Arab
+http://62.4.21.70:8000/live/benani/benani/3148.ts
+#EXTINF:-1,Abn - Arab
+http://62.4.21.70:8000/live/benani/benani/3185.ts
+#EXTINF:-1,A3 Algerie - Arab
+http://62.4.21.70:8000/live/benani/benani/3127.ts
+#EXTINF:-1,ZEE ALWAN
+http://62.4.21.70:8000/live/benani/benani/1903.ts
+#EXTINF:-1,ZEE AFLAM
+http://62.4.21.70:8000/live/benani/benani/1919.ts
+#EXTINF:-1,PSC
+http://62.4.21.70:8000/live/benani/benani/1914.ts
+#EXTINF:-1,PALESTINE TODAY
+http://62.4.21.70:8000/live/benani/benani/1916.ts
+#EXTINF:-1,NILE NEWS
+http://62.4.21.70:8000/live/benani/benani/1900.ts
+#EXTINF:-1,NILE FAMILY
+http://62.4.21.70:8000/live/benani/benani/1893.ts
+#EXTINF:-1,MEHWAR
+http://62.4.21.70:8000/live/benani/benani/1917.ts
+#EXTINF:-1,FUNOON
+http://62.4.21.70:8000/live/benani/benani/1896.ts
+#EXTINF:-1,DREAM 2
+http://62.4.21.70:8000/live/benani/benani/1897.ts
+#EXTINF:-1,CNBC ARABIC
+http://62.4.21.70:8000/live/benani/benani/1912.ts
+#EXTINF:-1,AR Ontv  Plus - Arab
+http://62.4.21.70:8000/live/benani/benani/3047.ts
+#EXTINF:-1,AR ON TV LIVE
+http://62.4.21.70:8000/live/benani/benani/3045.ts
+#EXTINF:-1,AR Al Hayat 2 - Arab
+http://62.4.21.70:8000/live/benani/benani/3046.ts
+#EXTINF:-1,CBC TV
+http://62.4.21.70:8000/live/benani/benani/535.ts
+#EXTINF:-1,CBC Sofra
+http://62.4.21.70:8000/live/benani/benani/536.ts
+#EXTINF:-1,CBC EXtra
+http://62.4.21.70:8000/live/benani/benani/537.ts
+#EXTINF:-1,CBC Drama
+http://62.4.21.70:8000/live/benani/benani/538.ts
+#EXTINF:-1,DUBAI TV
+http://62.4.21.70:8000/live/benani/benani/413.ts
+#EXTINF:-1,DUBAI ONE
+http://62.4.21.70:8000/live/benani/benani/414.ts
+#EXTINF:-1,DUBAI SPORTS
+http://62.4.21.70:8000/live/benani/benani/429.ts
+#EXTINF:-1,SAMA DUBAI
+http://62.4.21.70:8000/live/benani/benani/425.ts
+#EXTINF:-1,ASHARIQAH
+http://62.4.21.70:8000/live/benani/benani/424.ts
+#EXTINF:-1,AR AL Hayat
+http://62.4.21.70:8000/live/benani/benani/1716.ts
+#EXTINF:-1,AR Al Hayat Musalsalat
+http://62.4.21.70:8000/live/benani/benani/1715.ts
+#EXTINF:-1,AR Nile Cinema
+http://62.4.21.70:8000/live/benani/benani/1679.ts
+#EXTINF:-1,AR Nile Comedy
+http://62.4.21.70:8000/live/benani/benani/1678.ts
+#EXTINF:-1,AR Nile Sport
+http://62.4.21.70:8000/live/benani/benani/1677.ts
+#EXTINF:-1,AR Cima
+http://62.4.21.70:8000/live/benani/benani/1686.ts
+#EXTINF:-1,AR.Cairo.Universal
+http://62.4.21.70:8000/live/benani/benani/1689.ts
+#EXTINF:-1,AR Cairo Cinema
+http://62.4.21.70:8000/live/benani/benani/1690.ts
+#EXTINF:-1,AR Bzaf ALGERIE
+http://62.4.21.70:8000/live/benani/benani/1691.ts
+#EXTINF:-1,AR AL Nahar Sport
+http://62.4.21.70:8000/live/benani/benani/1706.ts
+#EXTINF:-1,AR AL Nahar Nour
+http://62.4.21.70:8000/live/benani/benani/1707.ts
+#EXTINF:-1,AR Al Nahar Drama
+http://62.4.21.70:8000/live/benani/benani/1710.ts
+#EXTINF:-1,IQRAA
+http://62.4.21.70:8000/live/benani/benani/430.ts
+#EXTINF:-1,AL RESALAH
+http://62.4.21.70:8000/live/benani/benani/383.ts
+#EXTINF:-1,MEKKA TV
+http://62.4.21.70:8000/live/benani/benani/422.ts
+#EXTINF:-1,AL MAJD QURAN AR
+http://62.4.21.70:8000/live/benani/benani/677.ts
+#EXTINF:-1,AL MAJD ISLAM AR
+http://62.4.21.70:8000/live/benani/benani/676.ts
+#EXTINF:-1,AR Canal Algerie
+http://62.4.21.70:8000/live/benani/benani/1688.ts
+#EXTINF:-1,ENTV ALGERIE NATIONAL
+http://62.4.21.70:8000/live/benani/benani/36.ts
+#EXTINF:-1,EL CHOUROUK HD ALGERIE
+http://62.4.21.70:8000/live/benani/benani/592.ts
+#EXTINF:-1,ALGERIE3
+http://62.4.21.70:8000/live/benani/benani/380.ts
+#EXTINF:-1,KBC ALGERIE
+http://62.4.21.70:8000/live/benani/benani/42.ts
+#EXTINF:-1,SAMIRA TV ALGERIE
+http://62.4.21.70:8000/live/benani/benani/47.ts
+#EXTINF:-1,ENNAHAR TV ALGERIE
+http://62.4.21.70:8000/live/benani/benani/48.ts
+#EXTINF:-1,ELHADDAF ALGERIE
+http://62.4.21.70:8000/live/benani/benani/40.ts
+#EXTINF:-1,BENNA TV  ALGERIE
+http://62.4.21.70:8000/live/benani/benani/41.ts
+#EXTINF:-1,ELCHOUROUK ALGERIE NEWS
+http://62.4.21.70:8000/live/benani/benani/45.ts
+#EXTINF:-1,NUMEDIA NEWS ALGERIE
+http://62.4.21.70:8000/live/benani/benani/594.ts
+#EXTINF:-1,DZAIR NEWS ALGERIE
+http://62.4.21.70:8000/live/benani/benani/37.ts
+#EXTINF:-1,DZAIR TV ALGERIE
+http://62.4.21.70:8000/live/benani/benani/46.ts
+#EXTINF:-1,AR Cartoon network
+http://62.4.21.70:8000/live/benani/benani/1687.ts
+#EXTINF:-1,AR: Toyor Al Janah
+http://62.4.21.70:8000/live/benani/benani/932.ts
+#EXTINF:-1,AR: Spacetoon
+http://62.4.21.70:8000/live/benani/benani/934.ts
+#EXTINF:-1,HONA BAGHDAD IRAQ
+http://62.4.21.70:8000/live/benani/benani/593.ts
+#EXTINF:-1,AL FORAT IRAQ
+http://62.4.21.70:8000/live/benani/benani/614.ts
+#EXTINF:-1,AL IRAQIA IRAQ
+http://62.4.21.70:8000/live/benani/benani/672.ts
+#EXTINF:-1,RUDAW KURDISTAN
+http://62.4.21.70:8000/live/benani/benani/669.ts
+#EXTINF:-1,KURDMAX KURDISTAN
+http://62.4.21.70:8000/live/benani/benani/662.ts
+#EXTINF:-1,ALJALEYA TV ARABIC
+http://62.4.21.70:8000/live/benani/benani/661.ts
+#EXTINF:-1,MAJLISS TV ARABIC
+http://62.4.21.70:8000/live/benani/benani/683.ts
+#EXTINF:-1,IFILM ARABIC
+http://62.4.21.70:8000/live/benani/benani/680.ts
+#EXTINF:-1,AL QHARIQA SPORT
+http://62.4.21.70:8000/live/benani/benani/682.ts
+#EXTINF:-1,AL JAMEELA ARABIC
+http://62.4.21.70:8000/live/benani/benani/664.ts
+#EXTINF:-1,AR CNA
+http://62.4.21.70:8000/live/benani/benani/1684.ts
+#EXTINF:-1,AR Beur TV
+http://62.4.21.70:8000/live/benani/benani/1692.ts
+#EXTINF:-1,AR Al Waha
+http://62.4.21.70:8000/live/benani/benani/1701.ts
+#EXTINF:-1,AR AL Sumaira
+http://62.4.21.70:8000/live/benani/benani/1702.ts
+#EXTINF:-1,AR YAS Sports HD
+http://62.4.21.70:8000/live/benani/benani/1671.ts
+#EXTINF:-1,AR AL Shallal TV
+http://62.4.21.70:8000/live/benani/benani/1703.ts
+#EXTINF:-1,AR AL Nahar
+http://62.4.21.70:8000/live/benani/benani/1711.ts
+#EXTINF:-1,AR Al Magharibia Two
+http://62.4.21.70:8000/live/benani/benani/1708.ts
+#EXTINF:-1,AR Al Magharibia
+http://62.4.21.70:8000/live/benani/benani/1709.ts
+#EXTINF:-1,MOURIDIYAH SENEGAL
+http://62.4.21.70:8000/live/benani/benani/684.ts
+#EXTINF:-1,===MUSIC====
+http://62.4.21.70:8000/live/benani/benani/1746.ts
+#EXTINF:-1,VEVO 1
+http://62.4.21.70:8000/live/benani/benani/572.ts
+#EXTINF:-1,VEVO 2
+http://62.4.21.70:8000/live/benani/benani/571.ts
+#EXTINF:-1,VEVO 3
+http://62.4.21.70:8000/live/benani/benani/570.ts
+#EXTINF:-1,====PORTUGAL====
+http://62.4.21.70:8000/live/benani/benani/1747.ts
+#EXTINF:-1,Tvi_24_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3606.ts
+#EXTINF:-1,Tvi_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3607.ts
+#EXTINF:-1,Tv_Sick_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3608.ts
+#EXTINF:-1,TV_Series_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3609.ts
+#EXTINF:-1,Tv_Globo_Premium_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3603.ts
+#EXTINF:-1,TV_Globo_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3575.ts
+#EXTINF:-1,TV_Cine_4_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3610.ts
+#EXTINF:-1,TV_Cine_3_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3611.ts
+#EXTINF:-1,TV_Cine_2_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3612.ts
+#EXTINF:-1,TV_Cine_1_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3613.ts
+#EXTINF:-1,Travel_Channel_HD_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3583.ts
+#EXTINF:-1,Tlc_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3614.ts
+#EXTINF:-1,Sporting_Tv_HD_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3584.ts
+#EXTINF:-1,Sport_TV_5_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3615.ts
+#EXTINF:-1,Sport_TV_4_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3616.ts
+#EXTINF:-1,Sport_TV_3_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3617.ts
+#EXTINF:-1,Sport_TV_2_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3618.ts
+#EXTINF:-1,Sport_TV_1_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3619.ts
+#EXTINF:-1,Sic_Radical_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3578.ts
+#EXTINF:-1,Sic_Noticias_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3579.ts
+#EXTINF:-1,Sic_Mulher_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3580.ts
+#EXTINF:-1,Sic_Kids_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3576.ts
+#EXTINF:-1,Sic_Caras_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3581.ts
+#EXTINF:-1,Sic_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3577.ts
+#EXTINF:-1,Rtp_Africa_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3585.ts
+#EXTINF:-1,Rtp_3_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3620.ts
+#EXTINF:-1,Rtp_2_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3621.ts
+#EXTINF:-1,Rtp_1_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3622.ts
+#EXTINF:-1,Rt_Global_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3586.ts
+#EXTINF:-1,Porto_Canal_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3587.ts
+#EXTINF:-1,PLUG_RTL
+http://62.4.21.70:8000/live/benani/benani/2640.ts
+#EXTINF:-1,Pfc_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3588.ts
+#EXTINF:-1,Nickelodeon_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3623.ts
+#EXTINF:-1,National_Geographic_Wild_HD_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3605.ts
+#EXTINF:-1,National_Geographic_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3582.ts
+#EXTINF:-1,Mov_HD_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3589.ts
+#EXTINF:-1,Motorvision_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3590.ts
+#EXTINF:-1,Mcm_Top_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3591.ts
+#EXTINF:-1,Hollywood_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3592.ts
+#EXTINF:-1,Fuel_TV_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3593.ts
+#EXTINF:-1,Fox_Movies_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3594.ts
+#EXTINF:-1,Fox_Life_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3624.ts
+#EXTINF:-1,Fox_Crime_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3625.ts
+#EXTINF:-1,Fox_Comedy_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3626.ts
+#EXTINF:-1,Fox_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3627.ts
+#EXTINF:-1,Eurosport_2_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3595.ts
+#EXTINF:-1,Eurosport_1_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3596.ts
+#EXTINF:-1,Economico_TV_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3597.ts
+#EXTINF:-1,E!_Entertainment_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3628.ts
+#EXTINF:-1,Disney_Channel_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3629.ts
+#EXTINF:-1,Discovery_Showcase_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3630.ts
+#EXTINF:-1,Discovery_Channel_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3631.ts
+#EXTINF:-1,Cm_TV_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3632.ts
+#EXTINF:-1,Cbs_Reality_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3598.ts
+#EXTINF:-1,Cartoon_Network_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3633.ts
+#EXTINF:-1,Canal_Panda_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3634.ts
+#EXTINF:-1,Benfica_TV_1_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3635.ts
+#EXTINF:-1,Baby_TV_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3599.ts
+#EXTINF:-1,Axn_White_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3636.ts
+#EXTINF:-1,Axn_Black_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3604.ts
+#EXTINF:-1,Axn_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3637.ts
+#EXTINF:-1,Abola_TV_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3600.ts
+#EXTINF:-1,A&E_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3601.ts
+#EXTINF:-1,24_Kitchen_-_Portugal
+http://62.4.21.70:8000/live/benani/benani/3602.ts
+#EXTINF:-1,PORTUGAL:RTP1
+http://62.4.21.70:8000/live/benani/benani/606.ts
+#EXTINF:-1,====NETHERLAND====
+http://62.4.21.70:8000/live/benani/benani/1738.ts
+#EXTINF:-1,NL Veronica HD
+http://62.4.21.70:8000/live/benani/benani/732.ts
+#EXTINF:-1,NL TLC
+http://62.4.21.70:8000/live/benani/benani/740.ts
+#EXTINF:-1,NL Syfy
+http://62.4.21.70:8000/live/benani/benani/747.ts
+#EXTINF:-1,NL Sport1 Voetbal HD
+http://62.4.21.70:8000/live/benani/benani/757.ts
+#EXTINF:-1,NL Sport1 Select HD
+http://62.4.21.70:8000/live/benani/benani/756.ts
+#EXTINF:-1,NL Sport 1 Extra 2
+http://62.4.21.70:8000/live/benani/benani/761.ts
+#EXTINF:-1,NL SBS6 HD
+http://62.4.21.70:8000/live/benani/benani/725.ts
+#EXTINF:-1,NL SBS9 HD
+http://62.4.21.70:8000/live/benani/benani/728.ts
+#EXTINF:-1,NL RTL4 HD
+http://62.4.21.70:8000/live/benani/benani/723.ts
+#EXTINF:-1,NL RTL5 HD
+http://62.4.21.70:8000/live/benani/benani/724.ts
+#EXTINF:-1,NL RTL7 HD
+http://62.4.21.70:8000/live/benani/benani/726.ts
+#EXTINF:-1,NL RTL8 HD
+http://62.4.21.70:8000/live/benani/benani/727.ts
+#EXTINF:-1,NL Rtl Lounge
+http://62.4.21.70:8000/live/benani/benani/730.ts
+#EXTINF:-1,NL NPO1 HD
+http://62.4.21.70:8000/live/benani/benani/720.ts
+#EXTINF:-1,NL NPO2 HD
+http://62.4.21.70:8000/live/benani/benani/721.ts
+#EXTINF:-1,NL NPO3 HD
+http://62.4.21.70:8000/live/benani/benani/722.ts
+#EXTINF:-1,NL Nickelodeon
+http://62.4.21.70:8000/live/benani/benani/731.ts
+#EXTINF:-1,NL NGC HD
+http://62.4.21.70:8000/live/benani/benani/745.ts
+#EXTINF:-1,NL NET5 HD
+http://62.4.21.70:8000/live/benani/benani/729.ts
+#EXTINF:-1,NL MTV
+http://62.4.21.70:8000/live/benani/benani/738.ts
+#EXTINF:-1,NL HBO1 HD
+http://62.4.21.70:8000/live/benani/benani/753.ts
+#EXTINF:-1,NL HBO2 HD
+http://62.4.21.70:8000/live/benani/benani/754.ts
+#EXTINF:-1,NL HBO3 HD
+http://62.4.21.70:8000/live/benani/benani/755.ts
+#EXTINF:-1,NL Fox Sports 1
+http://62.4.21.70:8000/live/benani/benani/762.ts
+#EXTINF:-1,NL Fox Sports 2
+http://62.4.21.70:8000/live/benani/benani/763.ts
+#EXTINF:-1,NL Fox Sports 3
+http://62.4.21.70:8000/live/benani/benani/764.ts
+#EXTINF:-1,NL Fox Sports 4
+http://62.4.21.70:8000/live/benani/benani/765.ts
+#EXTINF:-1,NL Fox Sports 5
+http://62.4.21.70:8000/live/benani/benani/766.ts
+#EXTINF:-1,NL Fox
+http://62.4.21.70:8000/live/benani/benani/741.ts
+#EXTINF:-1,NL Film1 Sundance
+http://62.4.21.70:8000/live/benani/benani/750.ts
+#EXTINF:-1,NL Film1 Premiere HD
+http://62.4.21.70:8000/live/benani/benani/749.ts
+#EXTINF:-1,NL Film1 Comedy
+http://62.4.21.70:8000/live/benani/benani/751.ts
+#EXTINF:-1,NL Film1 Action
+http://62.4.21.70:8000/live/benani/benani/752.ts
+#EXTINF:-1,NL Eurosport HD
+http://62.4.21.70:8000/live/benani/benani/742.ts
+#EXTINF:-1,NL Disney Junior
+http://62.4.21.70:8000/live/benani/benani/736.ts
+#EXTINF:-1,NL Disney Channel
+http://62.4.21.70:8000/live/benani/benani/735.ts
+#EXTINF:-1,NL Discovery Investigation
+http://62.4.21.70:8000/live/benani/benani/744.ts
+#EXTINF:-1,NL Discovery
+http://62.4.21.70:8000/live/benani/benani/743.ts
+#EXTINF:-1,NL Comedy Central
+http://62.4.21.70:8000/live/benani/benani/734.ts
+#EXTINF:-1,NL Cartoon Network
+http://62.4.21.70:8000/live/benani/benani/737.ts
+#EXTINF:-1,NL Boomerang
+http://62.4.21.70:8000/live/benani/benani/733.ts
+#EXTINF:-1,NL 24Kitchen
+http://62.4.21.70:8000/live/benani/benani/739.ts
+#EXTINF:-1,NL 13th Street
+http://62.4.21.70:8000/live/benani/benani/746.ts
+#EXTINF:-1,====Albania====
+http://62.4.21.70:8000/live/benani/benani/2665.ts
+#EXTINF:-1,ALB:_Vizion_Plus
+http://62.4.21.70:8000/live/benani/benani/2667.ts
+#EXTINF:-1,ALB:_Tring_24_News
+http://62.4.21.70:8000/live/benani/benani/2678.ts
+#EXTINF:-1,ALB:_Tirng_Life
+http://62.4.21.70:8000/live/benani/benani/2677.ts
+#EXTINF:-1,ALB:_Plus_HD
+http://62.4.21.70:8000/live/benani/benani/2672.ts
+#EXTINF:-1,ALB:_Ora_News
+http://62.4.21.70:8000/live/benani/benani/2674.ts
+#EXTINF:-1,ALB:_Bbf_Music
+http://62.4.21.70:8000/live/benani/benani/2675.ts
+#EXTINF:-1,ALB:_Music_Al
+http://62.4.21.70:8000/live/benani/benani/2676.ts
+#EXTINF:-1,====SPAIN====
+http://62.4.21.70:8000/live/benani/benani/1735.ts
+#EXTINF:-1,SP Viajar - SP Viajar
+http://62.4.21.70:8000/live/benani/benani/1829.ts
+#EXTINF:-1,SP TVI Inter - SP TVI Inter
+http://62.4.21.70:8000/live/benani/benani/1825.ts
+#EXTINF:-1,SP TV Internacional Europa - SP TV Internacional Europa
+http://62.4.21.70:8000/live/benani/benani/1824.ts
+#EXTINF:-1,SP TNT - SP TNT
+http://62.4.21.70:8000/live/benani/benani/1823.ts
+#EXTINF:-1,SP Teledeporte - SP Teledeporte
+http://62.4.21.70:8000/live/benani/benani/1822.ts
+#EXTINF:-1,SP Telecino - SP Telecino
+http://62.4.21.70:8000/live/benani/benani/1821.ts
+#EXTINF:-1,TCM_SPAIN
+http://62.4.21.70:8000/live/benani/benani/1890.ts
+#EXTINF:-1,SyFy_SPAIN
+http://62.4.21.70:8000/live/benani/benani/1889.ts
+#EXTINF:-1,Sol_Musica_SPAIN
+http://62.4.21.70:8000/live/benani/benani/1888.ts
+#EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
+http://62.4.21.70:8000/live/benani/benani/1827.ts
+#EXTINF:-1,SP NGC Wild - SP NGC Wild
+http://62.4.21.70:8000/live/benani/benani/1851.ts
+#EXTINF:-1,SP NGC - SP NGC
+http://62.4.21.70:8000/live/benani/benani/1852.ts
+#EXTINF:-1,SP Neox - SP Neox
+http://62.4.21.70:8000/live/benani/benani/1830.ts
+#EXTINF:-1,SP MTV Espana - SP MTV Espana
+http://62.4.21.70:8000/live/benani/benani/1850.ts
+#EXTINF:-1,SP Moto GP - SP Moto GP
+http://62.4.21.70:8000/live/benani/benani/1867.ts
+#EXTINF:-1,SP Mezzo - SP Mezzo
+http://62.4.21.70:8000/live/benani/benani/1861.ts
+#EXTINF:-1,SP Ltc - SP Ltc
+http://62.4.21.70:8000/live/benani/benani/1866.ts
+#EXTINF:-1,SP La Sexta - SP La Sexta
+http://62.4.21.70:8000/live/benani/benani/1846.ts
+#EXTINF:-1,SP La 2 - SP La 2
+http://62.4.21.70:8000/live/benani/benani/1847.ts
+#EXTINF:-1,SP La 1 - SP La 1
+http://62.4.21.70:8000/live/benani/benani/1854.ts
+#EXTINF:-1,SP Hollywood - SP Hollywood
+http://62.4.21.70:8000/live/benani/benani/1855.ts
+#EXTINF:-1,SP Historia - SP Historia
+http://62.4.21.70:8000/live/benani/benani/1856.ts
+#EXTINF:-1,SP Fox News - SP Fox News
+http://62.4.21.70:8000/live/benani/benani/1857.ts
+#EXTINF:-1,SP FDF - SP FDF
+http://62.4.21.70:8000/live/benani/benani/1858.ts
+#EXTINF:-1,SP Energy - SP Energy
+http://62.4.21.70:8000/live/benani/benani/1864.ts
+#EXTINF:-1,SP Divinity - SP Divinity
+http://62.4.21.70:8000/live/benani/benani/1863.ts
+#EXTINF:-1,SP Disney xd - SP Disney xd
+http://62.4.21.70:8000/live/benani/benani/1862.ts
+#EXTINF:-1,SP Disney Ch - SP Disney Ch
+http://62.4.21.70:8000/live/benani/benani/1820.ts
+#EXTINF:-1,SP Discovery - SP Discovery
+http://62.4.21.70:8000/live/benani/benani/1837.ts
+#EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
+http://62.4.21.70:8000/live/benani/benani/1840.ts
+#EXTINF:-1,SP Cuatro - SP Cuatro
+http://62.4.21.70:8000/live/benani/benani/1871.ts
+#EXTINF:-1,SP Comedy Central - SP Comedy Central
+http://62.4.21.70:8000/live/benani/benani/1833.ts
+#EXTINF:-1,SP Comedia HD - SP Comedia HD
+http://62.4.21.70:8000/live/benani/benani/1859.ts
+#EXTINF:-1,SP Classica - SP Classica
+http://62.4.21.70:8000/live/benani/benani/1836.ts
+#EXTINF:-1,SP Clan TVe - SP Clan TVe
+http://62.4.21.70:8000/live/benani/benani/1848.ts
+#EXTINF:-1,SP Canal Sur - SP Canal Sur
+http://62.4.21.70:8000/live/benani/benani/1841.ts
+#EXTINF:-1,SP Canal Panda - SP Canal Panda
+http://62.4.21.70:8000/live/benani/benani/1839.ts
+#EXTINF:-1,SP Canal Odisea - SP Canal Odisea
+http://62.4.21.70:8000/live/benani/benani/1842.ts
+#EXTINF:-1,SP Canal Decasa - SP Canal Decasa
+http://62.4.21.70:8000/live/benani/benani/1870.ts
+#EXTINF:-1,SP Canal Cocina - SP Canal Cocina
+http://62.4.21.70:8000/live/benani/benani/1869.ts
+#EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
+http://62.4.21.70:8000/live/benani/benani/1868.ts
+#EXTINF:-1,SP Calle 13 - SP Calle 13
+http://62.4.21.70:8000/live/benani/benani/1843.ts
+#EXTINF:-1,SP C  Toros - SP C  Toros
+http://62.4.21.70:8000/live/benani/benani/1828.ts
+#EXTINF:-1,SP C  Series Xtra - SP C  Series Xtra
+http://62.4.21.70:8000/live/benani/benani/1874.ts
+#EXTINF:-1,SP C  Series - SP C  Series
+http://62.4.21.70:8000/live/benani/benani/1834.ts
+#EXTINF:-1,SP C  Liga - SP C  Liga
+http://62.4.21.70:8000/live/benani/benani/1878.ts
+#EXTINF:-1,C+Golf _SPAIN
+http://62.4.21.70:8000/live/benani/benani/1887.ts
+#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
+http://62.4.21.70:8000/live/benani/benani/1832.ts
+#EXTINF:-1,C+Footbol_SPAIN
+http://62.4.21.70:8000/live/benani/benani/1886.ts
+#EXTINF:-1,C+Estrenos_SPAIN
+http://62.4.21.70:8000/live/benani/benani/1885.ts
+#EXTINF:-1,SP C  Estrellas - SP C  Estrellas
+http://62.4.21.70:8000/live/benani/benani/1882.ts
+#EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
+http://62.4.21.70:8000/live/benani/benani/1883.ts
+#EXTINF:-1,SP C  Deportes - SP C  Deportes
+http://62.4.21.70:8000/live/benani/benani/1884.ts
+#EXTINF:-1,SP C  Dcine HD - SP C  Dcine HD
+http://62.4.21.70:8000/live/benani/benani/1838.ts
+#EXTINF:-1,SP C  Accion HD - SP C  Accion HD
+http://62.4.21.70:8000/live/benani/benani/1831.ts
+#EXTINF:-1,SP Boing - SP Boing
+http://62.4.21.70:8000/live/benani/benani/1881.ts
+#EXTINF:-1,SP Bein Sports - SP Bein Sports
+http://62.4.21.70:8000/live/benani/benani/1826.ts
+#EXTINF:-1,SP bCaza Y Pesca - SP bCaza Y Pesca
+http://62.4.21.70:8000/live/benani/benani/1845.ts
+#EXTINF:-1,SP Barca Tv - SP Barca Tv
+http://62.4.21.70:8000/live/benani/benani/1860.ts
+#EXTINF:-1,SP Baby Tv - SP Baby Tv
+http://62.4.21.70:8000/live/benani/benani/1844.ts
+#EXTINF:-1,SP AXN HD - SP AXN HD
+http://62.4.21.70:8000/live/benani/benani/1853.ts
+#EXTINF:-1,SP Antena 3 - SP Antena 3
+http://62.4.21.70:8000/live/benani/benani/1872.ts
+#EXTINF:-1,SP AMC - SP AMC
+http://62.4.21.70:8000/live/benani/benani/1880.ts
+#EXTINF:-1,SP AE - SP AE
+http://62.4.21.70:8000/live/benani/benani/1875.ts
+#EXTINF:-1,SP 40 TV - SP 40 TV
+http://62.4.21.70:8000/live/benani/benani/1877.ts
+#EXTINF:-1,SP 24 Horas - SP 24 Horas
+http://62.4.21.70:8000/live/benani/benani/1876.ts
+#EXTINF:-1,SP_TAQUILLA_1
+http://62.4.21.70:8000/live/benani/benani/2621.ts
+#EXTINF:-1,SP_TAQUILLA_2
+http://62.4.21.70:8000/live/benani/benani/2622.ts
+#EXTINF:-1,SP-TAQUILLA-3
+http://62.4.21.70:8000/live/benani/benani/2623.ts
+#EXTINF:-1,SP_TAQUILLA_4
+http://62.4.21.70:8000/live/benani/benani/2624.ts
+#EXTINF:-1,SP_TAQUILLA_5
+http://62.4.21.70:8000/live/benani/benani/2625.ts
+#EXTINF:-1,SP_TAQUILLA_6
+http://62.4.21.70:8000/live/benani/benani/2626.ts
+#EXTINF:-1,SP_TAQUILLA_7
+http://62.4.21.70:8000/live/benani/benani/2627.ts
+#EXTINF:-1,SP_TAQUILLA_8
+http://62.4.21.70:8000/live/benani/benani/2628.ts
+#EXTINF:-1,SP_TAQUILLA_9
+http://62.4.21.70:8000/live/benani/benani/2629.ts
+#EXTINF:-1,SP_TAQUILLA_10
+http://62.4.21.70:8000/live/benani/benani/2630.ts
+#EXTINF:-1,TAQUILLA_11_HD
+http://62.4.21.70:8000/live/benani/benani/2658.ts
+#EXTINF:-1,TAQUILLA_12_HD
+http://62.4.21.70:8000/live/benani/benani/2659.ts
+#EXTINF:-1,TAQUILLA_13_HD
+http://62.4.21.70:8000/live/benani/benani/2660.ts
+#EXTINF:-1,TAQUILLA_14_HD
+http://62.4.21.70:8000/live/benani/benani/2661.ts
+#EXTINF:-1,TAQUILLA_15_HD
+http://62.4.21.70:8000/live/benani/benani/2662.ts
+#EXTINF:-1,TAQUILLA_16_HD
+http://62.4.21.70:8000/live/benani/benani/2663.ts
+#EXTINF:-1,====TURKISH====
+http://62.4.21.70:8000/live/benani/benani/1745.ts
+#EXTINF:-1,Lig_TV_1_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3548.ts
+#EXTINF:-1,Lig_TV_2_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3549.ts
+#EXTINF:-1,Lig_TV_3_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3550.ts
+#EXTINF:-1,Lig_TV_4_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3551.ts
+#EXTINF:-1,Tivibu_Spor_1_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3554.ts
+#EXTINF:-1,Tivibu_Spor_2_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3555.ts
+#EXTINF:-1,Trt_Spor_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3501.ts
+#EXTINF:-1,Ntv_Spor_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3526.ts
+#EXTINF:-1,Sport_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3505.ts
+#EXTINF:-1,Smart_Spor_1_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3556.ts
+#EXTINF:-1,Smart_Spor_2_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3557.ts
+#EXTINF:-1,A_Sport_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3558.ts
+#EXTINF:-1,Euro_Star_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3533.ts
+#EXTINF:-1,Eurosport_2_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3553.ts
+#EXTINF:-1,Eurosport_1_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3552.ts
+#EXTINF:-1,World_Travel_Channel_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3542.ts
+#EXTINF:-1,Ulke_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3510.ts
+#EXTINF:-1,TV_8.5_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3485.ts
+#EXTINF:-1,TV_8_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3484.ts
+#EXTINF:-1,TV_8_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3483.ts
+#EXTINF:-1,TV_2_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3541.ts
+#EXTINF:-1,Trt_Muzik_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3500.ts
+#EXTINF:-1,Trt_Haber_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3502.ts
+#EXTINF:-1,Trt_Cocuk_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3499.ts
+#EXTINF:-1,Trt_Belgesel_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3498.ts
+#EXTINF:-1,Trt_1_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3497.ts
+#EXTINF:-1,Tlc_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3506.ts
+#EXTINF:-1,Tgrt_Haber_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3503.ts
+#EXTINF:-1,Star_TV_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3494.ts
+#EXTINF:-1,Star_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3493.ts
+#EXTINF:-1,Show_TV_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3496.ts
+#EXTINF:-1,Show_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3495.ts
+#EXTINF:-1,Show_Turk_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3532.ts
+#EXTINF:-1,Semerkand_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3540.ts
+#EXTINF:-1,Salon_3_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3562.ts
+#EXTINF:-1,Salon_2_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3561.ts
+#EXTINF:-1,Salon_1_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3560.ts
+#EXTINF:-1,Red_360_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3507.ts
+#EXTINF:-1,Power_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3515.ts
+#EXTINF:-1,Power_Turk_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3516.ts
+#EXTINF:-1,Planet_Turk_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3520.ts
+#EXTINF:-1,Planet_Cocuk_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3521.ts
+#EXTINF:-1,Number_1_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3522.ts
+#EXTINF:-1,Ntv_Avrupa_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3527.ts
+#EXTINF:-1,Ntv_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3525.ts
+#EXTINF:-1,Nba_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3508.ts
+#EXTINF:-1,National_Geographic_Wild_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3545.ts
+#EXTINF:-1,National_Geographic_People_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3546.ts
+#EXTINF:-1,National_Geographic_Channel_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3544.ts
+#EXTINF:-1,Moviesmart_Turk_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3568.ts
+#EXTINF:-1,Moviesmart_Premium_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3569.ts
+#EXTINF:-1,Moviesmart_Gold_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3570.ts
+#EXTINF:-1,Moviesmart_Fest_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3571.ts
+#EXTINF:-1,Moviesmart_Family_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3572.ts
+#EXTINF:-1,Moviesmart_Action_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3573.ts
+#EXTINF:-1,Manika_Go_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3518.ts
+#EXTINF:-1,Manika_Cocuk_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3519.ts
+#EXTINF:-1,Kral_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3528.ts
+#EXTINF:-1,Kral_Pop_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3529.ts
+#EXTINF:-1,Kanal_Hayat_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3509.ts
+#EXTINF:-1,Kanal_D_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3482.ts
+#EXTINF:-1,Kanal_D_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3481.ts
+#EXTINF:-1,Kanal_Avrupa_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3531.ts
+#EXTINF:-1,Kanal_7_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3487.ts
+#EXTINF:-1,Kanal_7_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3486.ts
+#EXTINF:-1,Kanal_24_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3530.ts
+#EXTINF:-1,Halk_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3535.ts
+#EXTINF:-1,Haber_Turk_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3537.ts
+#EXTINF:-1,Fox_TV_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3489.ts
+#EXTINF:-1,Fox_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3488.ts
+#EXTINF:-1,Flash_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3492.ts
+#EXTINF:-1,Filmbox_Turk_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3564.ts
+#EXTINF:-1,Filmbox_Premier_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3563.ts
+#EXTINF:-1,Filmbox_Korku_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3565.ts
+#EXTINF:-1,Filmbox_Aksiyon_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3566.ts
+#EXTINF:-1,Filmbox_Aile_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3567.ts
+#EXTINF:-1,Fil_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3534.ts
+#EXTINF:-1,Fenerbahce_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3559.ts
+#EXTINF:-1,Dream_TV_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3523.ts
+#EXTINF:-1,Dream_Turk_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3524.ts
+#EXTINF:-1,Disney_Channel_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3504.ts
+#EXTINF:-1,Discovery_Channel_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3543.ts
+#EXTINF:-1,CNN_Turk_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3511.ts
+#EXTINF:-1,Cinemax_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3512.ts
+#EXTINF:-1,Cartoon_Network_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3517.ts
+#EXTINF:-1,Bloomberg_HT_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3514.ts
+#EXTINF:-1,Bloomberg_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3513.ts
+#EXTINF:-1,Beyaz_TV_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3491.ts
+#EXTINF:-1,Bayaz_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3490.ts
+#EXTINF:-1,Atv_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3480.ts
+#EXTINF:-1,Atv_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3479.ts
+#EXTINF:-1,Animal_Planet_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3547.ts
+#EXTINF:-1,A_Haber_HD_-_Turkish
+http://62.4.21.70:8000/live/benani/benani/3536.ts
+#EXTINF:-1,====SKY DE====
+http://62.4.21.70:8000/live/benani/benani/1732.ts
+#EXTINF:-1,ZDF
+http://62.4.21.70:8000/live/benani/benani/2618.ts
+#EXTINF:-1,SAT_1
+http://62.4.21.70:8000/live/benani/benani/2620.ts
+#EXTINF:-1,Vox - Germany
+http://62.4.21.70:8000/live/benani/benani/2807.ts
+#EXTINF:-1,Syfy - Germany
+http://62.4.21.70:8000/live/benani/benani/2808.ts
+#EXTINF:-1,Sport 1 HD - Germany
+http://62.4.21.70:8000/live/benani/benani/2809.ts
+#EXTINF:-1,Spiegel Geschichte
+http://62.4.21.70:8000/live/benani/benani/2810.ts
+#EXTINF:-1,Sky TNT Serie - Germany
+http://62.4.21.70:8000/live/benani/benani/2811.ts
+#EXTINF:-1,Sky RTL Passion - Germany
+http://62.4.21.70:8000/live/benani/benani/2812.ts
+#EXTINF:-1,Sky Nostalgie - Germany
+http://62.4.21.70:8000/live/benani/benani/2813.ts
+#EXTINF:-1,Sky Krimi - Germany
+http://62.4.21.70:8000/live/benani/benani/2814.ts
+#EXTINF:-1,Sky Disney XD - Germany
+http://62.4.21.70:8000/live/benani/benani/2815.ts
+#EXTINF:-1,Sky Comedy - Germany
+http://62.4.21.70:8000/live/benani/benani/2816.ts
+#EXTINF:-1,Sky Cinema HD - Germany
+http://62.4.21.70:8000/live/benani/benani/2817.ts
+#EXTINF:-1,Sky Cinema 1 - Germany
+http://62.4.21.70:8000/live/benani/benani/2818.ts
+#EXTINF:-1,Sky Cinema  24 - Germany
+http://62.4.21.70:8000/live/benani/benani/2819.ts
+#EXTINF:-1,Sat 1 Gold - Germany
+http://62.4.21.70:8000/live/benani/benani/2820.ts
+#EXTINF:-1,Rtl Nitro - Germany
+http://62.4.21.70:8000/live/benani/benani/2821.ts
+#EXTINF:-1,Rtl Living - Germany
+http://62.4.21.70:8000/live/benani/benani/2822.ts
+#EXTINF:-1,Rtl Crime - Germany
+http://62.4.21.70:8000/live/benani/benani/2823.ts
+#EXTINF:-1,Prosieben Maxx - Germany
+http://62.4.21.70:8000/live/benani/benani/2824.ts
+#EXTINF:-1,Prosieben - Germany
+http://62.4.21.70:8000/live/benani/benani/2825.ts
+#EXTINF:-1,National Geographic Wild HD - Germany
+http://62.4.21.70:8000/live/benani/benani/2826.ts
+#EXTINF:-1,National Geographic  - Germany
+http://62.4.21.70:8000/live/benani/benani/2827.ts
+#EXTINF:-1,N24 - Germany
+http://62.4.21.70:8000/live/benani/benani/2828.ts
+#EXTINF:-1,Motorvision TV - Germany
+http://62.4.21.70:8000/live/benani/benani/2805.ts
+#EXTINF:-1,Junior - Germany
+http://62.4.21.70:8000/live/benani/benani/2829.ts
+#EXTINF:-1,Jukebox - Germany
+http://62.4.21.70:8000/live/benani/benani/2830.ts
+#EXTINF:-1,Heimat Kanal - Germany
+http://62.4.21.70:8000/live/benani/benani/2831.ts
+#EXTINF:-1,Fox Serie - Germany
+http://62.4.21.70:8000/live/benani/benani/2832.ts
+#EXTINF:-1,Disney Junior - Germany
+http://62.4.21.70:8000/live/benani/benani/2833.ts
+#EXTINF:-1,Disney Cinemagic - Germany
+http://62.4.21.70:8000/live/benani/benani/2806.ts
+#EXTINF:-1,Disney Channel HD - Germany
+http://62.4.21.70:8000/live/benani/benani/2834.ts
+#EXTINF:-1,Discovery HD - Germany
+http://62.4.21.70:8000/live/benani/benani/2835.ts
+#EXTINF:-1,Classica - Germany
+http://62.4.21.70:8000/live/benani/benani/2836.ts
+#EXTINF:-1,13th Street - Germany
+http://62.4.21.70:8000/live/benani/benani/2837.ts
+#EXTINF:-1,DE_ARD
+http://62.4.21.70:8000/live/benani/benani/2619.ts
+#EXTINF:-1,SKYDE:_cinema HD
+http://62.4.21.70:8000/live/benani/benani/554.ts
+#EXTINF:-1,SKYDE: Cinema24HD
+http://62.4.21.70:8000/live/benani/benani/555.ts
+#EXTINF:-1,SKYDE: 13StreetHD
+http://62.4.21.70:8000/live/benani/benani/557.ts
+#EXTINF:-1,DE:RTL HD
+http://62.4.21.70:8000/live/benani/benani/1003.ts
+#EXTINF:-1,DE TNT Film HD
+http://62.4.21.70:8000/live/benani/benani/1014.ts
+#EXTINF:-1,DE Super RTL
+http://62.4.21.70:8000/live/benani/benani/1015.ts
+#EXTINF:-1,DE Sky Hits
+http://62.4.21.70:8000/live/benani/benani/1016.ts
+#EXTINF:-1,DE Sky Emotion
+http://62.4.21.70:8000/live/benani/benani/1017.ts
+#EXTINF:-1,DE Sky Atlantic
+http://62.4.21.70:8000/live/benani/benani/1019.ts
+#EXTINF:-1,DE: Sky Germany Action HD
+http://62.4.21.70:8000/live/benani/benani/1729.ts
+#EXTINF:-1,DE Sky Action
+http://62.4.21.70:8000/live/benani/benani/1020.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://62.4.21.70:8000/live/benani/benani/1730.ts
+#EXTINF:-1,DE: Sky Germany MGM HD
+http://62.4.21.70:8000/live/benani/benani/1728.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://62.4.21.70:8000/live/benani/benani/1721.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://62.4.21.70:8000/live/benani/benani/1722.ts
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://62.4.21.70:8000/live/benani/benani/1726.ts
+#EXTINF:-1,DE: SKY Bundesliga HD
+http://62.4.21.70:8000/live/benani/benani/1723.ts
+#EXTINF:-1,DE Sat 1 HD
+http://62.4.21.70:8000/live/benani/benani/1007.ts
+#EXTINF:-1,DE RTL 2
+http://62.4.21.70:8000/live/benani/benani/1006.ts
+#EXTINF:-1,DE Kika HD
+http://62.4.21.70:8000/live/benani/benani/1008.ts
+#EXTINF:-1,DE Kabel 1
+http://62.4.21.70:8000/live/benani/benani/1009.ts
+#EXTINF:-1,DE Sky Select 1
+http://62.4.21.70:8000/live/benani/benani/1778.ts
+#EXTINF:-1,DE Sky Select 2
+http://62.4.21.70:8000/live/benani/benani/1779.ts
+#EXTINF:-1,DE Sky Select 3
+http://62.4.21.70:8000/live/benani/benani/1780.ts
+#EXTINF:-1,DE Sky Select 4
+http://62.4.21.70:8000/live/benani/benani/1781.ts
+#EXTINF:-1,DE Sky Select 5
+http://62.4.21.70:8000/live/benani/benani/1782.ts
+#EXTINF:-1,DE Sky Select 6
+http://62.4.21.70:8000/live/benani/benani/1783.ts
+#EXTINF:-1,DE Sky Select 7
+http://62.4.21.70:8000/live/benani/benani/1784.ts
+#EXTINF:-1,DE Sky Select 8
+http://62.4.21.70:8000/live/benani/benani/1785.ts
+#EXTINF:-1,====INDIAN====
+http://62.4.21.70:8000/live/benani/benani/1740.ts
+#EXTINF:-1,Zing_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3641.ts
+#EXTINF:-1,Zee_TV_-_indian
+http://62.4.21.70:8000/live/benani/benani/3638.ts
+#EXTINF:-1,Zee_Punjabi_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3639.ts
+#EXTINF:-1,Zee_Cinema_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3640.ts
+#EXTINF:-1,Venus_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3652.ts
+#EXTINF:-1,Ummah_Channel_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3654.ts
+#EXTINF:-1,Tv_99_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3655.ts
+#EXTINF:-1,TR:Salon 3
+http://62.4.21.70:8000/live/benani/benani/904.ts
+#EXTINF:-1,TR_TV_2
+http://62.4.21.70:8000/live/benani/benani/2498.ts
+#EXTINF:-1,Takbeer_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3656.ts
+#EXTINF:-1,Star_Plus_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3657.ts
+#EXTINF:-1,Star_Life_Ok_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3658.ts
+#EXTINF:-1,Star_Gold_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3660.ts
+#EXTINF:-1,Sony_Sab_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3662.ts
+#EXTINF:-1,Sony_Max_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3663.ts
+#EXTINF:-1,Sikh_Channel_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3664.ts
+#EXTINF:-1,Sangat_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3665.ts
+#EXTINF:-1,Samaa_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3666.ts
+#EXTINF:-1,Rishtey_TV_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3667.ts
+#EXTINF:-1,Ptv_Prime_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3668.ts
+#EXTINF:-1,Ptv_Global_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3669.ts
+#EXTINF:-1,Ptc_Punjabi_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3670.ts
+#EXTINF:-1,Peace_TV_Urdu_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3671.ts
+#EXTINF:-1,Peace_TV_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3672.ts
+#EXTINF:-1,Noor_TV_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3673.ts
+#EXTINF:-1,News_18_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3674.ts
+#EXTINF:-1,Ndtv_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3675.ts
+#EXTINF:-1,Muslim_Ummah_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3676.ts
+#EXTINF:-1,Madani_Channel_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3677.ts
+#EXTINF:-1,Ma_TV_International_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3678.ts
+#EXTINF:-1,Islam_Channel_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3679.ts
+#EXTINF:-1,Iqra_TV_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3680.ts
+#EXTINF:-1,Hum_TV_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3681.ts
+#EXTINF:-1,Heart_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3682.ts
+#EXTINF:-1,Geo_TV_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3683.ts
+#EXTINF:-1,Geo_Tez_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3684.ts
+#EXTINF:-1,Geo_News_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3685.ts
+#EXTINF:-1,Dunya_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3686.ts
+#EXTINF:-1,Dm_Digital_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3644.ts
+#EXTINF:-1,Colors_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3643.ts
+#EXTINF:-1,B4You_Music_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3646.ts
+#EXTINF:-1,B4You_Movies_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3647.ts
+#EXTINF:-1,Ary_Qtv_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3649.ts
+#EXTINF:-1,Ary_News_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3650.ts
+#EXTINF:-1,Ary_Digital_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3651.ts
+#EXTINF:-1,&_TV_-_Indian
+http://62.4.21.70:8000/live/benani/benani/3642.ts
+#EXTINF:-1,====SKY UK====
+http://62.4.21.70:8000/live/benani/benani/1733.ts
+#EXTINF:-1,UK True.Movie.1
+http://62.4.21.70:8000/live/benani/benani/89.ts
+#EXTINF:-1,UK_True_Movies_2
+http://62.4.21.70:8000/live/benani/benani/74.ts
+#EXTINF:-1,UK_Syfy_UK
+http://62.4.21.70:8000/live/benani/benani/96.ts
+#EXTINF:-1,UK_SKY.Art.1
+http://62.4.21.70:8000/live/benani/benani/106.ts
+#EXTINF:-1,UK_Sky_Two
+http://62.4.21.70:8000/live/benani/benani/76.ts
+#EXTINF:-1,UK_Sky.Sport.News.HD
+http://62.4.21.70:8000/live/benani/benani/107.ts
+#EXTINF:-1,UK_Sky.Sport.1.UK
+http://62.4.21.70:8000/live/benani/benani/112.ts
+#EXTINF:-1,UK_Sky.Sport.2.UK
+http://62.4.21.70:8000/live/benani/benani/111.ts
+#EXTINF:-1,UK_Sky.Sport.3.UK
+http://62.4.21.70:8000/live/benani/benani/110.ts
+#EXTINF:-1,UK:_CBS_Reality
+http://62.4.21.70:8000/live/benani/benani/2638.ts
+#EXTINF:-1,UK_sky.sport.4
+http://62.4.21.70:8000/live/benani/benani/109.ts
+#EXTINF:-1,UK Sky Sport 5 UK
+http://62.4.21.70:8000/live/benani/benani/108.ts
+#EXTINF:-1,UK_Sky_Sports_F1_UK
+http://62.4.21.70:8000/live/benani/benani/68.ts
+#EXTINF:-1,UK Setantasport
+http://62.4.21.70:8000/live/benani/benani/915.ts
+#EXTINF:-1,UK ESPN
+http://62.4.21.70:8000/live/benani/benani/914.ts
+#EXTINF:-1,UK BT Sport Europe
+http://62.4.21.70:8000/live/benani/benani/913.ts
+#EXTINF:-1,UK BT Sport 1
+http://62.4.21.70:8000/live/benani/benani/911.ts
+#EXTINF:-1,UK BT Sport 2
+http://62.4.21.70:8000/live/benani/benani/912.ts
+#EXTINF:-1,UK British Muslim
+http://62.4.21.70:8000/live/benani/benani/916.ts
+#EXTINF:-1,UK_Sky_One
+http://62.4.21.70:8000/live/benani/benani/69.ts
+#EXTINF:-1,UK_Sky.Movies.Thriller
+http://62.4.21.70:8000/live/benani/benani/95.ts
+#EXTINF:-1,UK_Sky.Movies.Sci-Fi.&.Horror
+http://62.4.21.70:8000/live/benani/benani/114.ts
+#EXTINF:-1,UK_Sky.Movies.Premiere.UK
+http://62.4.21.70:8000/live/benani/benani/115.ts
+#EXTINF:-1,UK_Sky.Movies.Modern.HD
+http://62.4.21.70:8000/live/benani/benani/116.ts
+#EXTINF:-1,UK_Sky.Movies.Family.UK
+http://62.4.21.70:8000/live/benani/benani/79.ts
+#EXTINF:-1,UK_Sky.Movies.Comedy.HD
+http://62.4.21.70:8000/live/benani/benani/118.ts
+#EXTINF:-1,UK_Sky.Movies.Action.&.Adventure
+http://62.4.21.70:8000/live/benani/benani/119.ts
+#EXTINF:-1,UK_Sky_Family_UK
+http://62.4.21.70:8000/live/benani/benani/121.ts
+#EXTINF:-1,UK_Sky_Atlantic
+http://62.4.21.70:8000/live/benani/benani/70.ts
+#EXTINF:-1,UK Rte One UK
+http://62.4.21.70:8000/live/benani/benani/88.ts
+#EXTINF:-1,UK_National.Geographic.UK
+http://62.4.21.70:8000/live/benani/benani/102.ts
+#EXTINF:-1,UK Movies-4men Uk
+http://62.4.21.70:8000/live/benani/benani/98.ts
+#EXTINF:-1,UK_ITV_1
+http://62.4.21.70:8000/live/benani/benani/84.ts
+#EXTINF:-1,UK_ITV_2
+http://62.4.21.70:8000/live/benani/benani/83.ts
+#EXTINF:-1,UK_ITV_3
+http://62.4.21.70:8000/live/benani/benani/82.ts
+#EXTINF:-1,UK_ITV_4
+http://62.4.21.70:8000/live/benani/benani/81.ts
+#EXTINF:-1,UK Five
+http://62.4.21.70:8000/live/benani/benani/99.ts
+#EXTINF:-1,UK_CBS_Reality_UK
+http://62.4.21.70:8000/live/benani/benani/78.ts
+#EXTINF:-1,UK_Film4_UK
+http://62.4.21.70:8000/live/benani/benani/100.ts
+#EXTINF:-1,UK Eurosport 1 UK
+http://62.4.21.70:8000/live/benani/benani/92.ts
+#EXTINF:-1,UK Eurosport 2 UK
+http://62.4.21.70:8000/live/benani/benani/91.ts
+#EXTINF:-1,UK_Discovery.Science.UK
+http://62.4.21.70:8000/live/benani/benani/104.ts
+#EXTINF:-1,UK_DISCOVERY.HOME.&.HEALTH
+http://62.4.21.70:8000/live/benani/benani/123.ts
+#EXTINF:-1,UK_Discovery_History_UK
+http://62.4.21.70:8000/live/benani/benani/124.ts
+#EXTINF:-1,UK_Discovery_Channel_UK
+http://62.4.21.70:8000/live/benani/benani/125.ts
+#EXTINF:-1,UK_cbs_reality
+http://62.4.21.70:8000/live/benani/benani/75.ts
+#EXTINF:-1,UK Box Nation UK
+http://62.4.21.70:8000/live/benani/benani/94.ts
+#EXTINF:-1,UK_BBC.One
+http://62.4.21.70:8000/live/benani/benani/130.ts
+#EXTINF:-1,UK_BBC.Two
+http://62.4.21.70:8000/live/benani/benani/86.ts
+#EXTINF:-1,UK_BBC_Three
+http://62.4.21.70:8000/live/benani/benani/85.ts
+#EXTINF:-1,UK_BBC_Four
+http://62.4.21.70:8000/live/benani/benani/101.ts
+#EXTINF:-1,UK_B4U_Movies
+http://62.4.21.70:8000/live/benani/benani/71.ts
+#EXTINF:-1,UK_Animal.Planet.UK
+http://62.4.21.70:8000/live/benani/benani/105.ts
+#EXTINF:-1,====SKY IT====
+http://62.4.21.70:8000/live/benani/benani/573.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://62.4.21.70:8000/live/benani/benani/493.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://62.4.21.70:8000/live/benani/benani/492.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://62.4.21.70:8000/live/benani/benani/569.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://62.4.21.70:8000/live/benani/benani/567.ts
+#EXTINF:-1,IT: Sky Sport 24
+http://62.4.21.70:8000/live/benani/benani/491.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://62.4.21.70:8000/live/benani/benani/568.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://62.4.21.70:8000/live/benani/benani/501.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://62.4.21.70:8000/live/benani/benani/500.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://62.4.21.70:8000/live/benani/benani/566.ts
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://62.4.21.70:8000/live/benani/benani/631.ts
+#EXTINF:-1,IT: Sky Super tennis HD
+http://62.4.21.70:8000/live/benani/benani/490.ts
+#EXTINF:-1,IT: SKY CINEMA 1 HD
+http://62.4.21.70:8000/live/benani/benani/498.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://62.4.21.70:8000/live/benani/benani/495.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://62.4.21.70:8000/live/benani/benani/497.ts
+#EXTINF:-1,IT: Sky Cinema Hits
+http://62.4.21.70:8000/live/benani/benani/628.ts
+#EXTINF:-1,IT: Sky Cinema Classics HD
+http://62.4.21.70:8000/live/benani/benani/629.ts
+#EXTINF:-1,IT:Premium Studio Universal
+http://62.4.21.70:8000/live/benani/benani/779.ts
+#EXTINF:-1,IT:Premium Sport HD
+http://62.4.21.70:8000/live/benani/benani/778.ts
+#EXTINF:-1,IT:Premium Joi
+http://62.4.21.70:8000/live/benani/benani/780.ts
+#EXTINF:-1,IT:Premium EuroSport 1 HD
+http://62.4.21.70:8000/live/benani/benani/786.ts
+#EXTINF:-1,IT:Premium EuroSport 2 HD
+http://62.4.21.70:8000/live/benani/benani/787.ts
+#EXTINF:-1,IT:Premium Energy
+http://62.4.21.70:8000/live/benani/benani/788.ts
+#EXTINF:-1,IT:Premium Emotion
+http://62.4.21.70:8000/live/benani/benani/789.ts
+#EXTINF:-1,IT:Premium Disney Junior
+http://62.4.21.70:8000/live/benani/benani/791.ts
+#EXTINF:-1,IT:Premium Disney Channel
+http://62.4.21.70:8000/live/benani/benani/792.ts
+#EXTINF:-1,IT:Premium Discovery World
+http://62.4.21.70:8000/live/benani/benani/801.ts
+#EXTINF:-1,IT:Premium Crime
+http://62.4.21.70:8000/live/benani/benani/793.ts
+#EXTINF:-1,IT:Premium Comedy
+http://62.4.21.70:8000/live/benani/benani/794.ts
+#EXTINF:-1,IT:Premium Cinema 2 HD
+http://62.4.21.70:8000/live/benani/benani/797.ts
+#EXTINF:-1,IT:Premium Cinema Plus 24
+http://62.4.21.70:8000/live/benani/benani/795.ts
+#EXTINF:-1,IT:Premium Cinema
+http://62.4.21.70:8000/live/benani/benani/796.ts
+#EXTINF:-1,IT:Premium Cartoon Network
+http://62.4.21.70:8000/live/benani/benani/790.ts
+#EXTINF:-1,IT:Premium Calcio HD
+http://62.4.21.70:8000/live/benani/benani/782.ts
+#EXTINF:-1,IT:Premium Calcio 1 HD
+http://62.4.21.70:8000/live/benani/benani/783.ts
+#EXTINF:-1,IT:Premium Calcio 2
+http://62.4.21.70:8000/live/benani/benani/784.ts
+#EXTINF:-1,IT:Premium Calcio 3
+http://62.4.21.70:8000/live/benani/benani/785.ts
+#EXTINF:-1,IT:Premium Calcio
+http://62.4.21.70:8000/live/benani/benani/781.ts
+#EXTINF:-1,IT:Premium BBC Knowledge
+http://62.4.21.70:8000/live/benani/benani/798.ts
+#EXTINF:-1,IT:Premium BBC
+http://62.4.21.70:8000/live/benani/benani/799.ts
+#EXTINF:-1,IT:Premium Action HD
+http://62.4.21.70:8000/live/benani/benani/800.ts
+#EXTINF:-1,IT: RSI La 1 HD
+http://62.4.21.70:8000/live/benani/benani/633.ts
+#EXTINF:-1,IT: RSI La 2
+http://62.4.21.70:8000/live/benani/benani/632.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://62.4.21.70:8000/live/benani/benani/627.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://62.4.21.70:8000/live/benani/benani/630.ts
+#EXTINF:-1,IT: RAI PREMIUM
+http://62.4.21.70:8000/live/benani/benani/626.ts
+#EXTINF:-1,IT: Rai 1
+http://62.4.21.70:8000/live/benani/benani/510.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://62.4.21.70:8000/live/benani/benani/623.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://62.4.21.70:8000/live/benani/benani/624.ts
+#EXTINF:-1,IT: Rai 4
+http://62.4.21.70:8000/live/benani/benani/625.ts
+#EXTINF:-1,IT: National Geo HD
+http://62.4.21.70:8000/live/benani/benani/634.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://62.4.21.70:8000/live/benani/benani/635.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://62.4.21.70:8000/live/benani/benani/636.ts
+#EXTINF:-1,IT: Milan Channel
+http://62.4.21.70:8000/live/benani/benani/637.ts
+#EXTINF:-1,IT: Mediaset Italia due
+http://62.4.21.70:8000/live/benani/benani/638.ts
+#EXTINF:-1,IT:JUVE_CHANNEL
+http://62.4.21.70:8000/live/benani/benani/639.ts
+#EXTINF:-1,IT:Italia_1
+http://62.4.21.70:8000/live/benani/benani/640.ts
+#EXTINF:-1,IT:Inter
+http://62.4.21.70:8000/live/benani/benani/641.ts
+#EXTINF:-1,IT:FOX_SPORT
+http://62.4.21.70:8000/live/benani/benani/643.ts
+#EXTINF:-1,IT: Fox Crime HD
+http://62.4.21.70:8000/live/benani/benani/645.ts
+#EXTINF:-1,IT:Fox_Comedy_HD
+http://62.4.21.70:8000/live/benani/benani/646.ts
+#EXTINF:-1,IT:Disney_Junior
+http://62.4.21.70:8000/live/benani/benani/648.ts
+#EXTINF:-1,IT: Discovery World
+http://62.4.21.70:8000/live/benani/benani/649.ts
+#EXTINF:-1,IT: Discovery Sci HD
+http://62.4.21.70:8000/live/benani/benani/650.ts
+#EXTINF:-1,IT: Discovery HD
+http://62.4.21.70:8000/live/benani/benani/651.ts
+#EXTINF:-1,IT: CARTOONITO
+http://62.4.21.70:8000/live/benani/benani/652.ts
+#EXTINF:-1,IT: CARTOON NETWORK
+http://62.4.21.70:8000/live/benani/benani/653.ts
+#EXTINF:-1,IT: Canale 5
+http://62.4.21.70:8000/live/benani/benani/654.ts
+#EXTINF:-1,IT: Boing
+http://62.4.21.70:8000/live/benani/benani/655.ts
+#EXTINF:-1,IT: AXN
+http://62.4.21.70:8000/live/benani/benani/656.ts
+#EXTINF:-1,IT: Prima Fila 3 HD
+http://62.4.21.70:8000/live/benani/benani/618.ts
+#EXTINF:-1,IT: Prima Fila 4 HD
+http://62.4.21.70:8000/live/benani/benani/619.ts
+#EXTINF:-1,IT: Prima Fila 5 HD
+http://62.4.21.70:8000/live/benani/benani/620.ts
+#EXTINF:-1,PRIMAFILA 6 HD
+http://62.4.21.70:8000/live/benani/benani/560.ts
+#EXTINF:-1,PRIMAFILA 7 HD
+http://62.4.21.70:8000/live/benani/benani/559.ts
+#EXTINF:-1,IT: Prima Fila 8 HD
+http://62.4.21.70:8000/live/benani/benani/621.ts
+#EXTINF:-1,IT: Prima Fila 9 HD
+http://62.4.21.70:8000/live/benani/benani/622.ts
+#EXTINF:-1,IT:_Prima_Fila_10
+http://62.4.21.70:8000/live/benani/benani/2631.ts
+#EXTINF:-1,IT:_Prima_Fila_12
+http://62.4.21.70:8000/live/benani/benani/2632.ts
+#EXTINF:-1,====BALKAN====
+http://62.4.21.70:8000/live/benani/benani/1737.ts
+#EXTINF:-1,====AFRICAIN====
+http://62.4.21.70:8000/live/benani/benani/1736.ts
+#EXTINF:-1,RTS 1
+http://185.17.186.227:1930/publiclive/rts1.stream/chunks.m3u8?nimblesessionid=22132821&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAxNiA1OjI0OjA4IFBNJmhhc2hfdmFsdWU9QjNZeWpJV2V2a1FTNFk0TTd4Lzc4QT09JnZhbGlkbWludXRlcz0xMA==
+#EXTINF:-1,Tfm Senegal - African
+http://62.4.21.70:8000/live/benani/benani/2908.ts
+#EXTINF:-1,2 STV (Senegal) - African
+http://62.4.21.70:8000/live/benani/benani/2999.ts
+#EXTINF:-1,Nollywood Movies - African
+http://62.4.21.70:8000/live/benani/benani/2940.ts
+#EXTINF:-1,Nollywood French - African
+http://62.4.21.70:8000/live/benani/benani/2949.ts
+#EXTINF:-1,Nollywood - African
+http://62.4.21.70:8000/live/benani/benani/3034.ts
+#EXTINF:-1,Ztv (Ghana) - African
+http://62.4.21.70:8000/live/benani/benani/2897.ts
+#EXTINF:-1,Weo HD - African
+http://62.4.21.70:8000/live/benani/benani/3000.ts
+#EXTINF:-1,Universal Somalia - African
+http://62.4.21.70:8000/live/benani/benani/3024.ts
+#EXTINF:-1,Tvc News - African
+http://62.4.21.70:8000/live/benani/benani/3001.ts
+#EXTINF:-1,Tv Manaa - African
+http://62.4.21.70:8000/live/benani/benani/3002.ts
+#EXTINF:-1,Tv Continental Nigeria - African
+http://62.4.21.70:8000/live/benani/benani/3003.ts
+#EXTINF:-1,Sudan TV - African
+http://62.4.21.70:8000/live/benani/benani/3025.ts
+#EXTINF:-1,Somali Land TV - African
+http://62.4.21.70:8000/live/benani/benani/3027.ts
+#EXTINF:-1,Somali Cable - African
+http://62.4.21.70:8000/live/benani/benani/3028.ts
+#EXTINF:-1,Sntv Somalia - African
+http://62.4.21.70:8000/live/benani/benani/3029.ts
+#EXTINF:-1,Sen TV - African
+http://62.4.21.70:8000/live/benani/benani/2919.ts
+#EXTINF:-1,Sbc Somali TV - African
+http://62.4.21.70:8000/live/benani/benani/3030.ts
+#EXTINF:-1,Rwanda TV - African
+http://62.4.21.70:8000/live/benani/benani/2920.ts
+#EXTINF:-1,Rtv Rwanda - African
+http://62.4.21.70:8000/live/benani/benani/3004.ts
+#EXTINF:-1,Rti Coted - African
+http://62.4.21.70:8000/live/benani/benani/3031.ts
+#EXTINF:-1,Rti 2 TV (Cote d'ivoir) - African
+http://62.4.21.70:8000/live/benani/benani/2922.ts
+#EXTINF:-1,Rtga - African
+http://62.4.21.70:8000/live/benani/benani/2924.ts
+#EXTINF:-1,Rtd Djibouti - African
+http://62.4.21.70:8000/live/benani/benani/3032.ts
+#EXTINF:-1,Rtb - African
+http://62.4.21.70:8000/live/benani/benani/2926.ts
+#EXTINF:-1,Rave TV (Nigeria) - African
+http://62.4.21.70:8000/live/benani/benani/2930.ts
+#EXTINF:-1,Ortm TV - African
+http://62.4.21.70:8000/live/benani/benani/2931.ts
+#EXTINF:-1,Ntai 1 - African
+http://62.4.21.70:8000/live/benani/benani/3012.ts
+#EXTINF:-1,NT1
+http://62.4.21.70:8000/live/benani/benani/2698.ts
+#EXTINF:-1,Neema TV - African
+http://62.4.21.70:8000/live/benani/benani/3013.ts
+#EXTINF:-1,Mourchid - African
+http://62.4.21.70:8000/live/benani/benani/2944.ts
+#EXTINF:-1,Maisha TV - African
+http://62.4.21.70:8000/live/benani/benani/2946.ts
+#EXTINF:-1,Love World Nigeria - African
+http://62.4.21.70:8000/live/benani/benani/3035.ts
+#EXTINF:-1,La Tele - African
+http://62.4.21.70:8000/live/benani/benani/3014.ts
+#EXTINF:-1,Kedu TV - African
+http://62.4.21.70:8000/live/benani/benani/3015.ts
+#EXTINF:-1,Kalsan TV - African
+http://62.4.21.70:8000/live/benani/benani/3036.ts
+#EXTINF:-1,Joy news - African
+http://62.4.21.70:8000/live/benani/benani/3016.ts
+#EXTINF:-1,Horn Cable TV - African
+http://62.4.21.70:8000/live/benani/benani/3037.ts
+#EXTINF:-1,Gtv Sports Plus (Ghana) - African
+http://62.4.21.70:8000/live/benani/benani/2960.ts
+#EXTINF:-1,Grts - African
+http://62.4.21.70:8000/live/benani/benani/2961.ts
+#EXTINF:-1,Ghana TV - African
+http://62.4.21.70:8000/live/benani/benani/3017.ts
+#EXTINF:-1,Fusion Plus TV - African
+http://62.4.21.70:8000/live/benani/benani/2966.ts
+#EXTINF:-1,Fashion - African
+http://62.4.21.70:8000/live/benani/benani/2967.ts
+#EXTINF:-1,Euronews - African
+http://62.4.21.70:8000/live/benani/benani/3007.ts
+#EXTINF:-1,Etv Eritre - African
+http://62.4.21.70:8000/live/benani/benani/3038.ts
+#EXTINF:-1,Eritrea TV - African
+http://62.4.21.70:8000/live/benani/benani/3040.ts
+#EXTINF:-1,Enorme TV - African
+http://62.4.21.70:8000/live/benani/benani/3008.ts
+#EXTINF:-1,Ebc TV Ethiopia - African
+http://62.4.21.70:8000/live/benani/benani/3041.ts
+#EXTINF:-1,Djibouti - African
+http://62.4.21.70:8000/live/benani/benani/3042.ts
+#EXTINF:-1,D 24 - African
+http://62.4.21.70:8000/live/benani/benani/3018.ts
+#EXTINF:-1,Crtv TV - African
+http://62.4.21.70:8000/live/benani/benani/2975.ts
+#EXTINF:-1,Cna - African
+http://62.4.21.70:8000/live/benani/benani/3009.ts
+#EXTINF:-1,Cinestream TV - African
+http://62.4.21.70:8000/live/benani/benani/2976.ts
+#EXTINF:-1,Canal Info - African
+http://62.4.21.70:8000/live/benani/benani/3019.ts
+#EXTINF:-1,Canal 2 Info (Cameroon) - African
+http://62.4.21.70:8000/live/benani/benani/3010.ts
+#EXTINF:-1,Assembla Nationale - African
+http://62.4.21.70:8000/live/benani/benani/3011.ts
+#EXTINF:-1,Ait International - African
+http://62.4.21.70:8000/live/benani/benani/3043.ts
+#EXTINF:-1,Africable TV (Mali) - African
+http://62.4.21.70:8000/live/benani/benani/2991.ts
+#EXTINF:-1,Africa Tv4 - African
+http://62.4.21.70:8000/live/benani/benani/3021.ts
+#EXTINF:-1,Africa Tv3 - African
+http://62.4.21.70:8000/live/benani/benani/3022.ts
+#EXTINF:-1,Africa Tv2 - African
+http://62.4.21.70:8000/live/benani/benani/3023.ts
+#EXTINF:-1,Africa 24 - African
+http://62.4.21.70:8000/live/benani/benani/3044.ts
+#EXTINF:-1,Adom TV (Ghana) - African
+http://62.4.21.70:8000/live/benani/benani/2995.ts
+#EXTINF:-1,AF_Nollywood_French_TV
+http://62.4.21.70:8000/live/benani/benani/2575.ts

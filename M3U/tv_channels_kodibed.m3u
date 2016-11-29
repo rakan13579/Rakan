@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,TR TV8
+http://dreamtriptv.ddns.net:8000/live/kodibed/WNWWdclyH6/631.ts
+#EXTINF:-1,TR TV NET
+http://dreamtriptv.ddns.net:8000/live/kodibed/WNWWdclyH6/645.ts
+#EXTINF:-1,TR TV EM
+http://dreamtriptv.ddns.net:8000/live/kodibed/WNWWdclyH6/634.ts
+#EXTINF:-1,TR TRT Belgesel
+http://dreamtriptv.ddns.net:8000/live/kodibed/WNWWdclyH6/674.ts
