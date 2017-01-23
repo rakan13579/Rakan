@@ -1,0 +1,3121 @@
+#EXTM3U
+#EXTINF:-1,*-*-*-*-*CSAT_TNTSAT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4022.ts
+#EXTINF:-1,TF1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/58.ts
+#EXTINF:-1,FRANCE_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/137.ts
+#EXTINF:-1,FRANCE_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/61.ts
+#EXTINF:-1,FRANCE 4
+http://ip.cs4ip.com:8000/live/11223344/11223344/60.ts
+#EXTINF:-1,FRANCE 5
+http://ip.cs4ip.com:8000/live/11223344/11223344/59.ts
+#EXTINF:-1,FRANCE O
+http://ip.cs4ip.com:8000/live/11223344/11223344/345.ts
+#EXTINF:-1,M6_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/138.ts
+#EXTINF:-1,W9HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/337.ts
+#EXTINF:-1,Cherie_25
+http://ip.cs4ip.com:8000/live/11223344/11223344/133.ts
+#EXTINF:-1,FR_C8
+http://ip.cs4ip.com:8000/live/11223344/11223344/3474.ts
+#EXTINF:-1,RTL_9HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2566.ts
+#EXTINF:-1,6TER_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/673.ts
+#EXTINF:-1,NT1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2698.ts
+#EXTINF:-1,Numero_23
+http://ip.cs4ip.com:8000/live/11223344/11223344/2683.ts
+#EXTINF:-1,C star
+http://ip.cs4ip.com:8000/live/11223344/11223344/2550.ts
+#EXTINF:-1,*-*-*-*-*CSAT_INFO*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4026.ts
+#EXTINF:-1,TV5
+http://ip.cs4ip.com:8000/live/11223344/11223344/2611.ts
+#EXTINF:-1,I_Tele
+http://ip.cs4ip.com:8000/live/11223344/11223344/336.ts
+#EXTINF:-1,LCI
+http://ip.cs4ip.com:8000/live/11223344/11223344/334.ts
+#EXTINF:-1,EURONEWS FR
+http://ip.cs4ip.com:8000/live/11223344/11223344/674.ts
+#EXTINF:-1,France24 FR
+http://ip.cs4ip.com:8000/live/11223344/11223344/403.ts
+#EXTINF:-1,BFM_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2541.ts
+#EXTINF:-1,Arte
+http://ip.cs4ip.com:8000/live/11223344/11223344/338.ts
+#EXTINF:-1,*-*-*-*-*CSAT_CINEMA*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4023.ts
+#EXTINF:-1,CANAL+_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/52.ts
+#EXTINF:-1,CANAL+ DECALE
+http://ip.cs4ip.com:8000/live/11223344/11223344/54.ts
+#EXTINF:-1,CANAL+_FAMILY_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/53.ts
+#EXTINF:-1,CANAL+ CINEMA
+http://ip.cs4ip.com:8000/live/11223344/11223344/56.ts
+#EXTINF:-1,CANAL+SERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/55.ts
+#EXTINF:-1,CANAL+ SPORT
+http://ip.cs4ip.com:8000/live/11223344/11223344/57.ts
+#EXTINF:-1,CINE PREMIER
+http://ip.cs4ip.com:8000/live/11223344/11223344/135.ts
+#EXTINF:-1,CINE EMOTION
+http://ip.cs4ip.com:8000/live/11223344/11223344/136.ts
+#EXTINF:-1,CINE+ FRISSON FR
+http://ip.cs4ip.com:8000/live/11223344/11223344/64.ts
+#EXTINF:-1,CINE+ FAMIZ
+http://ip.cs4ip.com:8000/live/11223344/11223344/65.ts
+#EXTINF:-1,CINE+ CLASSIC FR
+http://ip.cs4ip.com:8000/live/11223344/11223344/67.ts
+#EXTINF:-1,Ocs_Geants
+http://ip.cs4ip.com:8000/live/11223344/11223344/2682.ts
+#EXTINF:-1,OCS_MAX
+http://ip.cs4ip.com:8000/live/11223344/11223344/2693.ts
+#EXTINF:-1,OCS_CITY
+http://ip.cs4ip.com:8000/live/11223344/11223344/134.ts
+#EXTINF:-1,OCS_Choc
+http://ip.cs4ip.com:8000/live/11223344/11223344/2561.ts
+#EXTINF:-1,TEVA
+http://ip.cs4ip.com:8000/live/11223344/11223344/2637.ts
+#EXTINF:-1,Comedie
+http://ip.cs4ip.com:8000/live/11223344/11223344/2549.ts
+#EXTINF:-1,*-*-*-*-*CSAT_ENTERTAINMENT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4025.ts
+#EXTINF:-1,FR: Action
+http://ip.cs4ip.com:8000/live/11223344/11223344/611.ts
+#EXTINF:-1,FR_AB1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2537.ts
+#EXTINF:-1,13_Eme_Rue
+http://ip.cs4ip.com:8000/live/11223344/11223344/2548.ts
+#EXTINF:-1,FR.Cine_Polar_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2685.ts
+#EXTINF:-1,Paris_Premiere
+http://ip.cs4ip.com:8000/live/11223344/11223344/2562.ts
+#EXTINF:-1,Serie_Club
+http://ip.cs4ip.com:8000/live/11223344/11223344/2568.ts
+#EXTINF:-1,FR_TV_BREIZH
+http://ip.cs4ip.com:8000/live/11223344/11223344/3475.ts
+#EXTINF:-1,SyFy
+http://ip.cs4ip.com:8000/live/11223344/11223344/2569.ts
+#EXTINF:-1,HD1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2538.ts
+#EXTINF:-1,NRJ_12
+http://ip.cs4ip.com:8000/live/11223344/11223344/2560.ts
+#EXTINF:-1,TMC
+http://ip.cs4ip.com:8000/live/11223344/11223344/2570.ts
+#EXTINF:-1,FR:_TVA_Montreal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3351.ts
+#EXTINF:-1,FR.Paramount_Channel_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2690.ts
+#EXTINF:-1,FR.OL_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2691.ts
+#EXTINF:-1,FR:_Oui_FM_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/3353.ts
+#EXTINF:-1,FR:_Trek_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3352.ts
+#EXTINF:-1,FR:_Weo
+http://ip.cs4ip.com:8000/live/11223344/11223344/3350.ts
+#EXTINF:-1,RMC_Decouverte
+http://ip.cs4ip.com:8000/live/11223344/11223344/2565.ts
+#EXTINF:-1,*-*-*-*-*CSAT_DECOUVERTES*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4027.ts
+#EXTINF:-1,Planete+
+http://ip.cs4ip.com:8000/live/11223344/11223344/2563.ts
+#EXTINF:-1,Planet+ci
+http://ip.cs4ip.com:8000/live/11223344/11223344/2564.ts
+#EXTINF:-1,FR.Planet_A&E_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2689.ts
+#EXTINF:-1,NATIONAL GEO
+http://ip.cs4ip.com:8000/live/11223344/11223344/139.ts
+#EXTINF:-1,National_Geo_Wild_FR
+http://ip.cs4ip.com:8000/live/11223344/11223344/2559.ts
+#EXTINF:-1,Science_et_Vie
+http://ip.cs4ip.com:8000/live/11223344/11223344/2567.ts
+#EXTINF:-1,DISCOVERY_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/63.ts
+#EXTINF:-1,DISCOVERY_SCIENCE_FR
+http://ip.cs4ip.com:8000/live/11223344/11223344/62.ts
+#EXTINF:-1,Chasse et peche
+http://ip.cs4ip.com:8000/live/11223344/11223344/471.ts
+#EXTINF:-1,USHUAIA_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/372.ts
+#EXTINF:-1,Voyage_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2571.ts
+#EXTINF:-1,FR ANIMAUX
+http://ip.cs4ip.com:8000/live/11223344/11223344/478.ts
+#EXTINF:-1,FR.Histoire_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2686.ts
+#EXTINF:-1,Equidia_Live
+http://ip.cs4ip.com:8000/live/11223344/11223344/2553.ts
+#EXTINF:-1,Equidia
+http://ip.cs4ip.com:8000/live/11223344/11223344/2552.ts
+#EXTINF:-1,*-*-*-*-*CSAT_SPORT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4028.ts
+#EXTINF:-1,BEINSPORT_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/49.ts
+#EXTINF:-1,BEINSPORT_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/50.ts
+#EXTINF:-1,BEINSPORT_3 _HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/51.ts
+#EXTINF:-1,FR:_Bein_Sports_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3370.ts
+#EXTINF:-1,FR:_Bein_Sports_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3369.ts
+#EXTINF:-1,FR:_Bein_Sports_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3368.ts
+#EXTINF:-1,BEIN_SPORT_MAX_4
+http://ip.cs4ip.com:8000/live/11223344/11223344/3900.ts
+#EXTINF:-1,BEIN_SPORT_MAX_5
+http://ip.cs4ip.com:8000/live/11223344/11223344/3901.ts
+#EXTINF:-1,BEIN_SPORT_MAX_6
+http://ip.cs4ip.com:8000/live/11223344/11223344/3902.ts
+#EXTINF:-1,BEIN_SPORT_MAX_7
+http://ip.cs4ip.com:8000/live/11223344/11223344/3903.ts
+#EXTINF:-1,BEIN_SPORT_MAX_8
+http://ip.cs4ip.com:8000/live/11223344/11223344/3904.ts
+#EXTINF:-1,BEIN_SPORT_MAX_9
+http://ip.cs4ip.com:8000/live/11223344/11223344/4040.ts
+#EXTINF:-1,BEIN_SPORT_MAX_10
+http://ip.cs4ip.com:8000/live/11223344/11223344/4041.ts
+#EXTINF:-1,SFR_SPORT_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2803.ts
+#EXTINF:-1,SFR_SPORT_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2804.ts
+#EXTINF:-1,SFR_SPORT_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2880.ts
+#EXTINF:-1,INFOSPORT+
+http://ip.cs4ip.com:8000/live/11223344/11223344/1809.ts
+#EXTINF:-1,Foot+
+http://ip.cs4ip.com:8000/live/11223344/11223344/2556.ts
+#EXTINF:-1,FR.Foot_24
+http://ip.cs4ip.com:8000/live/11223344/11223344/2684.ts
+#EXTINF:-1,EUROSPORT_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/377.ts
+#EXTINF:-1,EUROSPORT_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2555.ts
+#EXTINF:-1,Equipe21
+http://ip.cs4ip.com:8000/live/11223344/11223344/2554.ts
+#EXTINF:-1,*-*-*-*-*CSAT_JEUNESSE*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4029.ts
+#EXTINF:-1,PIWI
+http://ip.cs4ip.com:8000/live/11223344/11223344/374.ts
+#EXTINF:-1,Tiji
+http://ip.cs4ip.com:8000/live/11223344/11223344/2680.ts
+#EXTINF:-1,teletoon
+http://ip.cs4ip.com:8000/live/11223344/11223344/2681.ts
+#EXTINF:-1,Gulli
+http://ip.cs4ip.com:8000/live/11223344/11223344/335.ts
+#EXTINF:-1,Cartoon Network
+http://ip.cs4ip.com:8000/live/11223344/11223344/373.ts
+#EXTINF:-1,FR:_Canal_J
+http://ip.cs4ip.com:8000/live/11223344/11223344/2636.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://ip.cs4ip.com:8000/live/11223344/11223344/376.ts
+#EXTINF:-1,FR:_Disney_XD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2635.ts
+#EXTINF:-1,FR:_Disney_Cinemagic
+http://ip.cs4ip.com:8000/live/11223344/11223344/2634.ts
+#EXTINF:-1,FR: Disney Junior
+http://ip.cs4ip.com:8000/live/11223344/11223344/472.ts
+#EXTINF:-1,FR:_Nickelodeon_Junior
+http://ip.cs4ip.com:8000/live/11223344/11223344/3354.ts
+#EXTINF:-1,FR:_Nickelodeon
+http://ip.cs4ip.com:8000/live/11223344/11223344/3356.ts
+#EXTINF:-1,FR:_Zouzou
+http://ip.cs4ip.com:8000/live/11223344/11223344/3349.ts
+#EXTINF:-1,MANGAS
+http://ip.cs4ip.com:8000/live/11223344/11223344/375.ts
+#EXTINF:-1,BOOMERANG
+http://ip.cs4ip.com:8000/live/11223344/11223344/378.ts
+#EXTINF:-1,Game_One
+http://ip.cs4ip.com:8000/live/11223344/11223344/2557.ts
+#EXTINF:-1,*-*-*-*-*CSAT_MUSIQUE*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4030.ts
+#EXTINF:-1,FR_M6_Music
+http://ip.cs4ip.com:8000/live/11223344/11223344/4032.ts
+#EXTINF:-1,FR_MTV_HITS
+http://ip.cs4ip.com:8000/live/11223344/11223344/4031.ts
+#EXTINF:-1,*-*-*-*-*CSAT_PPV_VOD*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4033.ts
+#EXTINF:-1,A.LA.CARTE.1
+http://ip.cs4ip.com:8000/live/11223344/11223344/544.ts
+#EXTINF:-1,A.LA.CARTE.2
+http://ip.cs4ip.com:8000/live/11223344/11223344/545.ts
+#EXTINF:-1,A.LA.CARTE.3
+http://ip.cs4ip.com:8000/live/11223344/11223344/546.ts
+#EXTINF:-1,A.LA.CARTE.4
+http://ip.cs4ip.com:8000/live/11223344/11223344/539.ts
+#EXTINF:-1,A_LA_CARTE_5
+http://ip.cs4ip.com:8000/live/11223344/11223344/2612.ts
+#EXTINF:-1,A_LA_CARTE_6
+http://ip.cs4ip.com:8000/live/11223344/11223344/2613.ts
+#EXTINF:-1,A_LA_CARTE_7
+http://ip.cs4ip.com:8000/live/11223344/11223344/2653.ts
+#EXTINF:-1,A_LA_CARTE_8
+http://ip.cs4ip.com:8000/live/11223344/11223344/2654.ts
+#EXTINF:-1,A_LA_CARTE_9
+http://ip.cs4ip.com:8000/live/11223344/11223344/2655.ts
+#EXTINF:-1,A_LA_CARTE_10
+http://ip.cs4ip.com:8000/live/11223344/11223344/2644.ts
+#EXTINF:-1,A_LA_CARTE_11
+http://ip.cs4ip.com:8000/live/11223344/11223344/2645.ts
+#EXTINF:-1,A_LA_CARTE_12
+http://ip.cs4ip.com:8000/live/11223344/11223344/2646.ts
+#EXTINF:-1,A_LA_CARTE_13
+http://ip.cs4ip.com:8000/live/11223344/11223344/2647.ts
+#EXTINF:-1,A_LA_CARTE_14
+http://ip.cs4ip.com:8000/live/11223344/11223344/2657.ts
+#EXTINF:-1,A_LA_CARTE_15
+http://ip.cs4ip.com:8000/live/11223344/11223344/2656.ts
+#EXTINF:-1,A_LA_CARTE_16
+http://ip.cs4ip.com:8000/live/11223344/11223344/2648.ts
+#EXTINF:-1,A_LA_CARTE_17
+http://ip.cs4ip.com:8000/live/11223344/11223344/2649.ts
+#EXTINF:-1,A_LA_CARTE_18
+http://ip.cs4ip.com:8000/live/11223344/11223344/2650.ts
+#EXTINF:-1,A_LA_CARTE_19
+http://ip.cs4ip.com:8000/live/11223344/11223344/2651.ts
+#EXTINF:-1,A_LA_CARTE_20
+http://ip.cs4ip.com:8000/live/11223344/11223344/2652.ts
+#EXTINF:-1,_FR:_CANALPLAY_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/4042.ts
+#EXTINF:-1,_FR:_CANALPLAY_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/4043.ts
+#EXTINF:-1,_FR:_CANALPLAY_3
+http://ip.cs4ip.com:8000/live/11223344/11223344/4044.ts
+#EXTINF:-1,_FR:_CANALPLAY_4
+http://ip.cs4ip.com:8000/live/11223344/11223344/4045.ts
+#EXTINF:-1,_FR:_CANALPLAY_5
+http://ip.cs4ip.com:8000/live/11223344/11223344/4046.ts
+#EXTINF:-1,_FR:_CANALPLAY_6
+http://ip.cs4ip.com:8000/live/11223344/11223344/4047.ts
+#EXTINF:-1,_FR:_CANALPLAY_7
+http://ip.cs4ip.com:8000/live/11223344/11223344/4048.ts
+#EXTINF:-1,_FR:_CANALPLAY_8
+http://ip.cs4ip.com:8000/live/11223344/11223344/4049.ts
+#EXTINF:-1,_FR:_CANALPLAY_9
+http://ip.cs4ip.com:8000/live/11223344/11223344/4050.ts
+#EXTINF:-1,_FR:_CANALPLAY_10
+http://ip.cs4ip.com:8000/live/11223344/11223344/4051.ts
+#EXTINF:-1,_FR:_CANALPLAY_11
+http://ip.cs4ip.com:8000/live/11223344/11223344/4052.ts
+#EXTINF:-1,_FR:_CANAL_PLAY_12
+http://ip.cs4ip.com:8000/live/11223344/11223344/4053.ts
+#EXTINF:-1,_FR:_CANAL_PLAY_13
+http://ip.cs4ip.com:8000/live/11223344/11223344/4054.ts
+#EXTINF:-1,_FR:_CANAL_PLAY_14
+http://ip.cs4ip.com:8000/live/11223344/11223344/4055.ts
+#EXTINF:-1,_FR:_CANAL_PLAY_15
+http://ip.cs4ip.com:8000/live/11223344/11223344/4056.ts
+#EXTINF:-1,_FR:_CANAL_PLAY_16
+http://ip.cs4ip.com:8000/live/11223344/11223344/4057.ts
+#EXTINF:-1,=====_Swiss_======
+http://ip.cs4ip.com:8000/live/11223344/11223344/3380.ts
+#EXTINF:-1,RTS_UN
+http://ip.cs4ip.com:8000/live/11223344/11223344/2864.ts
+#EXTINF:-1,RTS_DEUX
+http://ip.cs4ip.com:8000/live/11223344/11223344/2865.ts
+#EXTINF:-1,CH:_SRF_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3381.ts
+#EXTINF:-1,CH:_SRF_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3382.ts
+#EXTINF:-1,====BELGIQUE_TELESAT====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1741.ts
+#EXTINF:-1,LA UNE HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/541.ts
+#EXTINF:-1,LA.DEUX
+http://ip.cs4ip.com:8000/live/11223344/11223344/542.ts
+#EXTINF:-1,LA.TROIS
+http://ip.cs4ip.com:8000/live/11223344/11223344/543.ts
+#EXTINF:-1,RTL_TVI
+http://ip.cs4ip.com:8000/live/11223344/11223344/2639.ts
+#EXTINF:-1,BE_Vtm_Kazoom_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3461.ts
+#EXTINF:-1,BE_Vtm_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3462.ts
+#EXTINF:-1,BE_Vitaya_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3463.ts
+#EXTINF:-1,BE_Vijf_TV_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3464.ts
+#EXTINF:-1,BE_Vier_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3465.ts
+#EXTINF:-1,BE_Rtl_Tvi_HD_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3466.ts
+#EXTINF:-1,BE_Plug_Rtl_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3467.ts
+#EXTINF:-1,BE_Ket_op_2_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3468.ts
+#EXTINF:-1,BE_Een_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3469.ts
+#EXTINF:-1,BE_Club_Rtl_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3470.ts
+#EXTINF:-1,BE_Canvas_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3471.ts
+#EXTINF:-1,BE_2Be_-_Belgium
+http://ip.cs4ip.com:8000/live/11223344/11223344/3472.ts
+#EXTINF:-1,BE:Club_RTL
+http://ip.cs4ip.com:8000/live/11223344/11223344/2642.ts
+#EXTINF:-1,BE:Plug_RTL
+http://ip.cs4ip.com:8000/live/11223344/11223344/2643.ts
+#EXTINF:-1,BE:RTL_TVI
+http://ip.cs4ip.com:8000/live/11223344/11223344/2641.ts
+#EXTINF:-1,=====_Austira_======
+http://ip.cs4ip.com:8000/live/11223344/11223344/3376.ts
+#EXTINF:-1,AU:_ORF_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3377.ts
+#EXTINF:-1,AU:_ORF_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3378.ts
+#EXTINF:-1,AU:_ORF_Sport _HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3379.ts
+#EXTINF:-1,====BEINSPORT====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1739.ts
+#EXTINF:-1,*-*-*-*-*BEIN_MOVIES*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4036.ts
+#EXTINF:-1,BEIN_MOVIES_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2773.ts
+#EXTINF:-1,BEIN_MOVIES_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2776.ts
+#EXTINF:-1,BEIN_MOVIES_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2777.ts
+#EXTINF:-1,BEIN_MOVIES_4_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3385.ts
+#EXTINF:-1,BEIN FOX FAMILY MOVIES
+http://ip.cs4ip.com:8000/live/11223344/11223344/2543.ts
+#EXTINF:-1,BEIN AMC MOVIES
+http://ip.cs4ip.com:8000/live/11223344/11223344/2893.ts
+#EXTINF:-1,BEIN_SERIE_ONE_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2778.ts
+#EXTINF:-1,BEIN DISCOVERY LIFE
+http://ip.cs4ip.com:8000/live/11223344/11223344/2892.ts
+#EXTINF:-1,BEIN_FATAFEAT_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2780.ts
+#EXTINF:-1,BEIN STAR WORLD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2866.ts
+#EXTINF:-1,*-*-*-*-*BEIN_KIDS*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4035.ts
+#EXTINF:-1,BEIN_DREAMWORKS_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2779.ts
+#EXTINF:-1,BEIN_JEEM
+http://ip.cs4ip.com:8000/live/11223344/11223344/2775.ts
+#EXTINF:-1,BEIN_BARRAEM
+http://ip.cs4ip.com:8000/live/11223344/11223344/2774.ts
+#EXTINF:-1,*-*-*-*-*BEIN_SPORT_HD*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4037.ts
+#EXTINF:-1,BEINSPORT_NEWS_ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/685.ts
+#EXTINF:-1,BEIN_SPORTS_MAX_1_HDS
+http://ip.cs4ip.com:8000/live/11223344/11223344/2839.ts
+#EXTINF:-1,BEIN_SPORTS_MAX_2_HDS
+http://ip.cs4ip.com:8000/live/11223344/11223344/2840.ts
+#EXTINF:-1,BEIN_SPORTS_MAX_3_HDS
+http://ip.cs4ip.com:8000/live/11223344/11223344/2841.ts
+#EXTINF:-1,BEIN_SPORTS_MAX_4_HDS
+http://ip.cs4ip.com:8000/live/11223344/11223344/2891.ts
+#EXTINF:-1,BEIN_SPORTS_1_HD_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/4412.ts
+#EXTINF:-1,BEIN_SPORTS_1_HDS
+http://ip.cs4ip.com:8000/live/11223344/11223344/2788.ts
+#EXTINF:-1,BEIN_SPORTS_2_HD_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/188.ts
+#EXTINF:-1,BEIN_SPORTS_2_HDS
+http://ip.cs4ip.com:8000/live/11223344/11223344/2789.ts
+#EXTINF:-1,BEIN_SPORTS_3_HD_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/189.ts
+#EXTINF:-1,BEIN_SPORTS_3_HDS
+http://ip.cs4ip.com:8000/live/11223344/11223344/2790.ts
+#EXTINF:-1,BEIN_SPORTS_4_HD_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/266.ts
+#EXTINF:-1,BEIN_SPORTS_5_HD_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/267.ts
+#EXTINF:-1,BEIN_SPORTS_6_HD_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/268.ts
+#EXTINF:-1,BEIN_SPORTS_HD7_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/7.ts
+#EXTINF:-1,BEIN_SPORTS_7_HDS
+http://ip.cs4ip.com:8000/live/11223344/11223344/2889.ts
+#EXTINF:-1,BEIN_SPORTS_HD8_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/8.ts
+#EXTINF:-1,BEIN_SPORTS_8_HDS
+http://ip.cs4ip.com:8000/live/11223344/11223344/2890.ts
+#EXTINF:-1,BEIN_SPORTS_HD9_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/9.ts
+#EXTINF:-1,BEIN_SPORTS_HD10_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/10.ts
+#EXTINF:-1,*-*-*-*-*BEIN_SPORT_H265*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4039.ts
+#EXTINF:-1,BEIN SPORTS 1 HEVC H.265
+http://ip.cs4ip.com:8000/live/11223344/11223344/3705.ts
+#EXTINF:-1,BEIN SPORTS 2 HEVC H.265
+http://ip.cs4ip.com:8000/live/11223344/11223344/3706.ts
+#EXTINF:-1,BEIN SPORTS 3 HEVC H.265
+http://ip.cs4ip.com:8000/live/11223344/11223344/3707.ts
+#EXTINF:-1,BEIN SPORTS 4 HEVC H.265
+http://ip.cs4ip.com:8000/live/11223344/11223344/3708.ts
+#EXTINF:-1,BEIN SPORTS 5 HEVC H.265
+http://ip.cs4ip.com:8000/live/11223344/11223344/3709.ts
+#EXTINF:-1,*-*-*-*-*BEIN_SPORT_SD*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4038.ts
+#EXTINF:-1,BEIN_SPORTS
+http://ip.cs4ip.com:8000/live/11223344/11223344/3882.ts
+#EXTINF:-1,BEINSPORT1_SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/388.ts
+#EXTINF:-1,BEINSPORT_2SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/389.ts
+#EXTINF:-1,BEINSPORT_3SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/390.ts
+#EXTINF:-1,BEINSPORT_4SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/391.ts
+#EXTINF:-1,BEINSPORT_5SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/392.ts
+#EXTINF:-1,BEINSPORT_6SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/393.ts
+#EXTINF:-1,BEINSPORT_7SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/394.ts
+#EXTINF:-1,BEINSPORT_8SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/395.ts
+#EXTINF:-1,BEINSPORT9_SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/396.ts
+#EXTINF:-1,BEINSPORT_10SD
+http://ip.cs4ip.com:8000/live/11223344/11223344/397.ts
+#EXTINF:-1,*-*-*-*-*ABU_DHABI_SPORTS*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4061.ts
+#EXTINF:-1,Ad_Sport_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/3881.ts
+#EXTINF:-1,Ad_Sport_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/3880.ts
+#EXTINF:-1,Ad_Sport_4
+http://ip.cs4ip.com:8000/live/11223344/11223344/3879.ts
+#EXTINF:-1,Ad_Sport_5
+http://ip.cs4ip.com:8000/live/11223344/11223344/3878.ts
+#EXTINF:-1,Ad_Sport_3
+http://ip.cs4ip.com:8000/live/11223344/11223344/3877.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2534.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_ 2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2535.ts
+#EXTINF:-1,AR_MBC_PRO_SPORT_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2536.ts
+#EXTINF:-1,===OSN===
+http://ip.cs4ip.com:8000/live/11223344/11223344/3476.ts
+#EXTINF:-1,OSN_Abu-Dhabi-Sports_3HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2546.ts
+#EXTINF:-1,OSN_Discovery_Science_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2544.ts
+#EXTINF:-1,OSN_Animal-Planet_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2545.ts
+#EXTINF:-1,OSN_MBC_P_Variety_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2547.ts
+#EXTINF:-1,L (AR) OSN  ANIMAL PLANET HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4146.ts
+#EXTINF:-1,L (AR) OSN  DISCOVERY HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4148.ts
+#EXTINF:-1,L (AR) OSN  DISCOVERY SCIENCE HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4150.ts
+#EXTINF:-1,L (AR) OSN  DISNEY CHANNEL
+http://ip.cs4ip.com:8000/live/11223344/11223344/4157.ts
+#EXTINF:-1,L (AR) OSN  DISNEY JUNIOR
+http://ip.cs4ip.com:8000/live/11223344/11223344/4159.ts
+#EXTINF:-1,L (AR) OSN  DISNEY XD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4151.ts
+#EXTINF:-1,L (AR) OSN  E
+http://ip.cs4ip.com:8000/live/11223344/11223344/4156.ts
+#EXTINF:-1,L (AR) OSN  FINE LIVING
+http://ip.cs4ip.com:8000/live/11223344/11223344/4153.ts
+#EXTINF:-1,L (AR) OSN  HISTORY
+http://ip.cs4ip.com:8000/live/11223344/11223344/4158.ts
+#EXTINF:-1,L (AR) OSN  HISTORY2
+http://ip.cs4ip.com:8000/live/11223344/11223344/4176.ts
+#EXTINF:-1,L (AR) OSN  JIM JAM
+http://ip.cs4ip.com:8000/live/11223344/11223344/4185.ts
+#EXTINF:-1,L (AR) OSN  NAT GEO PEOPLE
+http://ip.cs4ip.com:8000/live/11223344/11223344/4166.ts
+#EXTINF:-1,L (AR) OSN  OUTDOOR
+http://ip.cs4ip.com:8000/live/11223344/11223344/4171.ts
+#EXTINF:-1,L (AR) OSN  WWE
+http://ip.cs4ip.com:8000/live/11223344/11223344/4168.ts
+#EXTINF:-1,L (AR) OSN AL-SHASHA
+http://ip.cs4ip.com:8000/live/11223344/11223344/4145.ts
+#EXTINF:-1,L (AR) OSN COMEDY CENTRAL
+http://ip.cs4ip.com:8000/live/11223344/11223344/4147.ts
+#EXTINF:-1,L (AR) OSN DISCOVERY IDX HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4149.ts
+#EXTINF:-1,L (AR) OSN FIRST COMEDY
+http://ip.cs4ip.com:8000/live/11223344/11223344/4154.ts
+#EXTINF:-1,L (AR) OSN FIRST HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4155.ts
+#EXTINF:-1,L (AR) OSN FOOD NETWORK
+http://ip.cs4ip.com:8000/live/11223344/11223344/4152.ts
+#EXTINF:-1,L (AR) OSN MOVIES ACTION HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4160.ts
+#EXTINF:-1,L (AR) OSN MOVIES DRAMA HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4162.ts
+#EXTINF:-1,L (AR) OSN MOVIES FAMILY HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4164.ts
+#EXTINF:-1,L (AR) OSN MOVIES FESTIVAL HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4163.ts
+#EXTINF:-1,L (AR) OSN MOVIES HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4161.ts
+#EXTINF:-1,L (AR) OSN MOVIES PREMIERE HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4175.ts
+#EXTINF:-1,L (AR) OSN NATIONAL GEOGRAPHIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/4167.ts
+#EXTINF:-1,L (AR) OSN NICKLODEON HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4165.ts
+#EXTINF:-1,L (AR) OSN STAR WORLD HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4169.ts
+#EXTINF:-1,L (AR) OSN SYFY
+http://ip.cs4ip.com:8000/live/11223344/11223344/4170.ts
+#EXTINF:-1,L (AR) OSN YAHALA CINEMA
+http://ip.cs4ip.com:8000/live/11223344/11223344/4172.ts
+#EXTINF:-1,L (AR) OSN YAHALA DRAMA HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4173.ts
+#EXTINF:-1,L (AR) OSN YAHALA HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4174.ts
+#EXTINF:-1,L (AR) OSN YAHALA SHABAB
+http://ip.cs4ip.com:8000/live/11223344/11223344/4177.ts
+#EXTINF:-1,OSN AL YOUM HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4184.ts
+#EXTINF:-1,OSN BOX OFFICE 1 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4182.ts
+#EXTINF:-1,OSN BOX OFFICE 2 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4183.ts
+#EXTINF:-1,OSN BOX OFFICE 3 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4180.ts
+#EXTINF:-1,OSN-LOCAL: cinema1
+http://ip.cs4ip.com:8000/live/11223344/11223344/4196.ts
+#EXTINF:-1,VIP: See vii be-link HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4137.ts
+#EXTINF:-1,VIP: See vii Drama HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4136.ts
+#EXTINF:-1,VIP: See vii Oula HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4134.ts
+#EXTINF:-1,VIP: See vii Shamiya HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4135.ts
+#EXTINF:-1,====ART====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3895.ts
+#EXTINF:-1,ART HEKAYAT ZAMANE
+http://ip.cs4ip.com:8000/live/11223344/11223344/21.ts
+#EXTINF:-1,ART HEKAYAT 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/22.ts
+#EXTINF:-1,ART CINEMA
+http://ip.cs4ip.com:8000/live/11223344/11223344/20.ts
+#EXTINF:-1,ART AFLAM 1
+http://ip.cs4ip.com:8000/live/11223344/11223344/18.ts
+#EXTINF:-1,ART AFLAM 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/19.ts
+#EXTINF:-1,====MAROC====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3888.ts
+#EXTINF:-1,AL_OULA_MAROC_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4058.ts
+#EXTINF:-1,2M MAROC
+http://ip.cs4ip.com:8000/live/11223344/11223344/31.ts
+#EXTINF:-1,AL OULA LAAYOUNE
+http://ip.cs4ip.com:8000/live/11223344/11223344/666.ts
+#EXTINF:-1,AL OULA MAROC
+http://ip.cs4ip.com:8000/live/11223344/11223344/32.ts
+#EXTINF:-1,ALMAGHRIBIA MAROC
+http://ip.cs4ip.com:8000/live/11223344/11223344/35.ts
+#EXTINF:-1,AR: Medi1 TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/931.ts
+#EXTINF:-1,ARRABIA MAROC
+http://ip.cs4ip.com:8000/live/11223344/11223344/34.ts
+#EXTINF:-1,ARRIADIA MAROC
+http://ip.cs4ip.com:8000/live/11223344/11223344/33.ts
+#EXTINF:-1,ASSADISA
+http://ip.cs4ip.com:8000/live/11223344/11223344/415.ts
+#EXTINF:-1,AR Bzaf MAROC
+http://ip.cs4ip.com:8000/live/11223344/11223344/1691.ts
+#EXTINF:-1,TAMAZIGHT_MAROC
+http://ip.cs4ip.com:8000/live/11223344/11223344/4059.ts
+#EXTINF:-1,====ALGERIE====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3886.ts
+#EXTINF:-1,A3 Algerie - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3127.ts
+#EXTINF:-1,AR Al Magharibia
+http://ip.cs4ip.com:8000/live/11223344/11223344/1709.ts
+#EXTINF:-1,AR Al Magharibia Two
+http://ip.cs4ip.com:8000/live/11223344/11223344/1708.ts
+#EXTINF:-1,AR Beur TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/1692.ts
+#EXTINF:-1,AR Canal Algerie
+http://ip.cs4ip.com:8000/live/11223344/11223344/1688.ts
+#EXTINF:-1,AR_NUMIDIA_NEWS_ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/2573.ts
+#EXTINF:-1,El Djazairia - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3131.ts
+#EXTINF:-1,EL CHOUROUK HD ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/592.ts
+#EXTINF:-1,DZAIR TV ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/46.ts
+#EXTINF:-1,Dzair Pub - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3130.ts
+#EXTINF:-1,AR ALGERIE  Tamazight
+http://ip.cs4ip.com:8000/live/11223344/11223344/941.ts
+#EXTINF:-1,SAMIRA TV ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/47.ts
+#EXTINF:-1,CNA TAMAZIGHT
+http://ip.cs4ip.com:8000/live/11223344/11223344/1684.ts
+#EXTINF:-1,ENNAHAR TV ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/48.ts
+#EXTINF:-1,ELHADDAF ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/40.ts
+#EXTINF:-1,ENTV ALGERIE NATIONAL
+http://ip.cs4ip.com:8000/live/11223344/11223344/36.ts
+#EXTINF:-1,ELCHOUROUK ALGERIE NEWS
+http://ip.cs4ip.com:8000/live/11223344/11223344/45.ts
+#EXTINF:-1,NUMEDIA NEWS ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/594.ts
+#EXTINF:-1,DZAIR NEWS ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/37.ts
+#EXTINF:-1,Dzair Jannah - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3132.ts
+#EXTINF:-1,Dzair Aures - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3129.ts
+#EXTINF:-1,Dzair - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3128.ts
+#EXTINF:-1,BENNA TV  ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/41.ts
+#EXTINF:-1,TV Coran ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/2027.ts
+#EXTINF:-1,AR_Al_Anis_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2340.ts
+#EXTINF:-1,KBC ALGERIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/42.ts
+#EXTINF:-1,====TUNISIE====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3887.ts
+#EXTINF:-1,AR Zaytoona - AR Zaytoona
+http://ip.cs4ip.com:8000/live/11223344/11223344/2033.ts
+#EXTINF:-1,AR El Hiwar Ettounsi - AR El Hiwar Ettounsi
+http://ip.cs4ip.com:8000/live/11223344/11223344/2032.ts
+#EXTINF:-1,AR Tunisna
+http://ip.cs4ip.com:8000/live/11223344/11223344/2029.ts
+#EXTINF:-1,AR Al Janoubia - AR Al Janoubia
+http://ip.cs4ip.com:8000/live/11223344/11223344/2035.ts
+#EXTINF:-1,AR Tunisia National 2 - AR Tunisia National 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2038.ts
+#EXTINF:-1,AR Tunisia National 1 - AR Tunisia National 1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2037.ts
+#EXTINF:-1,M_TUNISIA
+http://ip.cs4ip.com:8000/live/11223344/11223344/4060.ts
+#EXTINF:-1,AR Attasia TV - AR Attasia TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2031.ts
+#EXTINF:-1,Telvza TV - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3135.ts
+#EXTINF:-1,AR Al Hiwar
+http://ip.cs4ip.com:8000/live/11223344/11223344/2073.ts
+#EXTINF:-1,Nessma TV - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3133.ts
+#EXTINF:-1,AR Hannibal
+http://ip.cs4ip.com:8000/live/11223344/11223344/2030.ts
+#EXTINF:-1,Hannibal - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3134.ts
+#EXTINF:-1,====ARABIC_NEWS====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3889.ts
+#EXTINF:-1,AL ARABIYA ALHADATH
+http://ip.cs4ip.com:8000/live/11223344/11223344/404.ts
+#EXTINF:-1,AL ARABIYA
+http://ip.cs4ip.com:8000/live/11223344/11223344/402.ts
+#EXTINF:-1,France24 ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/405.ts
+#EXTINF:-1,BBC ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/660.ts
+#EXTINF:-1,Al JAZEERA ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/398.ts
+#EXTINF:-1,Al JAZEERA MUBASHER
+http://ip.cs4ip.com:8000/live/11223344/11223344/401.ts
+#EXTINF:-1,Al JAZEERA ENGLISH
+http://ip.cs4ip.com:8000/live/11223344/11223344/400.ts
+#EXTINF:-1,DW ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/2838.ts
+#EXTINF:-1,AR Tok Tok Cinema
+http://ip.cs4ip.com:8000/live/11223344/11223344/2077.ts
+#EXTINF:-1,AR i24 News Arabic
+http://ip.cs4ip.com:8000/live/11223344/11223344/2043.ts
+#EXTINF:-1,AR Euronews Arabic
+http://ip.cs4ip.com:8000/live/11223344/11223344/2041.ts
+#EXTINF:-1,AR Al Jazeera HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2039.ts
+#EXTINF:-1,Al_Manar
+http://ip.cs4ip.com:8000/live/11223344/11223344/3884.ts
+#EXTINF:-1,AL HURRA
+http://ip.cs4ip.com:8000/live/11223344/11223344/1913.ts
+#EXTINF:-1,AL AAN TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/1901.ts
+#EXTINF:-1,Bbc World News - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3145.ts
+#EXTINF:-1,Ann - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3142.ts
+#EXTINF:-1,CNBC ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/1912.ts
+#EXTINF:-1,Al JAZEERA DOCUMENTARY
+http://ip.cs4ip.com:8000/live/11223344/11223344/399.ts
+#EXTINF:-1,AR Al Mayadeen
+http://ip.cs4ip.com:8000/live/11223344/11223344/2042.ts
+#EXTINF:-1,SKY NEWS ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/411.ts
+#EXTINF:-1,AR_Ann
+http://ip.cs4ip.com:8000/live/11223344/11223344/2286.ts
+#EXTINF:-1,====EGYPT====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3890.ts
+#EXTINF:-1,Ontv live - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3183.ts
+#EXTINF:-1,WATANE_EGYPT
+http://ip.cs4ip.com:8000/live/11223344/11223344/4245.ts
+#EXTINF:-1,ARABIC_MEKAMILIN
+http://ip.cs4ip.com:8000/live/11223344/11223344/2888.ts
+#EXTINF:-1,AR Top Cinema
+http://ip.cs4ip.com:8000/live/11223344/11223344/2280.ts
+#EXTINF:-1,AR Tok Tok Aflam
+http://ip.cs4ip.com:8000/live/11223344/11223344/2076.ts
+#EXTINF:-1,AR Time Quran
+http://ip.cs4ip.com:8000/live/11223344/11223344/2279.ts
+#EXTINF:-1,AR Time Film
+http://ip.cs4ip.com:8000/live/11223344/11223344/2278.ts
+#EXTINF:-1,AR_Time_Comedy
+http://ip.cs4ip.com:8000/live/11223344/11223344/2446.ts
+#EXTINF:-1,AR Time Cinema
+http://ip.cs4ip.com:8000/live/11223344/11223344/2277.ts
+#EXTINF:-1,AR Ten
+http://ip.cs4ip.com:8000/live/11223344/11223344/2069.ts
+#EXTINF:-1,AR Star Cinema 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2075.ts
+#EXTINF:-1,AR Star Cinema 1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2074.ts
+#EXTINF:-1,AR_Semsem
+http://ip.cs4ip.com:8000/live/11223344/11223344/2393.ts
+#EXTINF:-1,AR_Modern_Sport
+http://ip.cs4ip.com:8000/live/11223344/11223344/2437.ts
+#EXTINF:-1,AR_Misr_Alzera3ia
+http://ip.cs4ip.com:8000/live/11223344/11223344/2281.ts
+#EXTINF:-1,AR Mazazikh
+http://ip.cs4ip.com:8000/live/11223344/11223344/2060.ts
+#EXTINF:-1,AR_Majestick_Cinema
+http://ip.cs4ip.com:8000/live/11223344/11223344/2384.ts
+#EXTINF:-1,AR_Ltc
+http://ip.cs4ip.com:8000/live/11223344/11223344/2299.ts
+#EXTINF:-1,AR_Daloaa
+http://ip.cs4ip.com:8000/live/11223344/11223344/2331.ts
+#EXTINF:-1,AR_Cinema_Pro
+http://ip.cs4ip.com:8000/live/11223344/11223344/2282.ts
+#EXTINF:-1,AR Cbc 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2064.ts
+#EXTINF:-1,AR Cairo Drama
+http://ip.cs4ip.com:8000/live/11223344/11223344/2276.ts
+#EXTINF:-1,NILE NEWS
+http://ip.cs4ip.com:8000/live/11223344/11223344/1900.ts
+#EXTINF:-1,NILE FAMILY
+http://ip.cs4ip.com:8000/live/11223344/11223344/1893.ts
+#EXTINF:-1,MEHWAR
+http://ip.cs4ip.com:8000/live/11223344/11223344/1917.ts
+#EXTINF:-1,AR Esc
+http://ip.cs4ip.com:8000/live/11223344/11223344/2063.ts
+#EXTINF:-1,DREAM 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/1897.ts
+#EXTINF:-1,AR Ontv  Plus - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3047.ts
+#EXTINF:-1,ONTV_SPORT
+http://ip.cs4ip.com:8000/live/11223344/11223344/4246.ts
+#EXTINF:-1,AR ON TV LIVE
+http://ip.cs4ip.com:8000/live/11223344/11223344/3045.ts
+#EXTINF:-1,AR Al Hayat 2 - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3046.ts
+#EXTINF:-1,CBC TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/535.ts
+#EXTINF:-1,CBC Sofra
+http://ip.cs4ip.com:8000/live/11223344/11223344/536.ts
+#EXTINF:-1,CBC EXtra
+http://ip.cs4ip.com:8000/live/11223344/11223344/537.ts
+#EXTINF:-1,CBC Drama
+http://ip.cs4ip.com:8000/live/11223344/11223344/538.ts
+#EXTINF:-1,AR AL Hayat
+http://ip.cs4ip.com:8000/live/11223344/11223344/1716.ts
+#EXTINF:-1,AR Al Hayat Musalsalat
+http://ip.cs4ip.com:8000/live/11223344/11223344/1715.ts
+#EXTINF:-1,AR Nile Cinema
+http://ip.cs4ip.com:8000/live/11223344/11223344/1679.ts
+#EXTINF:-1,AR Nile Comedy
+http://ip.cs4ip.com:8000/live/11223344/11223344/1678.ts
+#EXTINF:-1,AR Nile Sport
+http://ip.cs4ip.com:8000/live/11223344/11223344/1677.ts
+#EXTINF:-1,AR Cima
+http://ip.cs4ip.com:8000/live/11223344/11223344/1686.ts
+#EXTINF:-1,AR.Cairo.Universal
+http://ip.cs4ip.com:8000/live/11223344/11223344/1689.ts
+#EXTINF:-1,AR Cairo Cinema
+http://ip.cs4ip.com:8000/live/11223344/11223344/1690.ts
+#EXTINF:-1,AR AL Nahar Sport
+http://ip.cs4ip.com:8000/live/11223344/11223344/1706.ts
+#EXTINF:-1,AR AL Nahar Nour
+http://ip.cs4ip.com:8000/live/11223344/11223344/1707.ts
+#EXTINF:-1,AR Al Nahar One
+http://ip.cs4ip.com:8000/live/11223344/11223344/2070.ts
+#EXTINF:-1,AR Al Nahar Cinema
+http://ip.cs4ip.com:8000/live/11223344/11223344/2071.ts
+#EXTINF:-1,AR Al Nahar Alyoum
+http://ip.cs4ip.com:8000/live/11223344/11223344/2072.ts
+#EXTINF:-1,AR Sada El Balad Drama
+http://ip.cs4ip.com:8000/live/11223344/11223344/2068.ts
+#EXTINF:-1,AR Sada El Balad
+http://ip.cs4ip.com:8000/live/11223344/11223344/2067.ts
+#EXTINF:-1,AR Al Nahar Drama
+http://ip.cs4ip.com:8000/live/11223344/11223344/1710.ts
+#EXTINF:-1,AR_Al_Sharq
+http://ip.cs4ip.com:8000/live/11223344/11223344/2294.ts
+#EXTINF:-1,AR_Arabica
+http://ip.cs4ip.com:8000/live/11223344/11223344/2343.ts
+#EXTINF:-1,AR_Al_Shareyyah
+http://ip.cs4ip.com:8000/live/11223344/11223344/2335.ts
+#EXTINF:-1,AR Al Kahera Wel Nas
+http://ip.cs4ip.com:8000/live/11223344/11223344/2066.ts
+#EXTINF:-1,AR Al Kahera
+http://ip.cs4ip.com:8000/live/11223344/11223344/2065.ts
+#EXTINF:-1,====IRAQ====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3893.ts
+#EXTINF:-1,AR_Sadr_Al_Iraq
+http://ip.cs4ip.com:8000/live/11223344/11223344/2357.ts
+#EXTINF:-1,HONA BAGHDAD IRAQ
+http://ip.cs4ip.com:8000/live/11223344/11223344/593.ts
+#EXTINF:-1,AL FORAT IRAQ
+http://ip.cs4ip.com:8000/live/11223344/11223344/614.ts
+#EXTINF:-1,AR_Baghdad_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2352.ts
+#EXTINF:-1,AR_I_Film
+http://ip.cs4ip.com:8000/live/11223344/11223344/2318.ts
+#EXTINF:-1,AL IRAQIA IRAQ
+http://ip.cs4ip.com:8000/live/11223344/11223344/672.ts
+#EXTINF:-1,AR Hod Hod TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2061.ts
+#EXTINF:-1,RUDAW KURDISTAN
+http://ip.cs4ip.com:8000/live/11223344/11223344/669.ts
+#EXTINF:-1,KURDMAX KURDISTAN
+http://ip.cs4ip.com:8000/live/11223344/11223344/662.ts
+#EXTINF:-1,AR_Karbala
+http://ip.cs4ip.com:8000/live/11223344/11223344/2365.ts
+#EXTINF:-1,AR_Annajaf
+http://ip.cs4ip.com:8000/live/11223344/11223344/2439.ts
+#EXTINF:-1,ALJALEYA TV ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/661.ts
+#EXTINF:-1,MAJLISS TV ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/683.ts
+#EXTINF:-1,IFILM ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/680.ts
+#EXTINF:-1,AR_Al_Noujaba
+http://ip.cs4ip.com:8000/live/11223344/11223344/2332.ts
+#EXTINF:-1,AL JAMEELA ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/664.ts
+#EXTINF:-1,AR_Al_Kawthar
+http://ip.cs4ip.com:8000/live/11223344/11223344/2444.ts
+#EXTINF:-1,AR_Al_Sharqia_News_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2360.ts
+#EXTINF:-1,AR_Al_Sharqia_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2358.ts
+#EXTINF:-1,AR_Al_Maaref
+http://ip.cs4ip.com:8000/live/11223344/11223344/2330.ts
+#EXTINF:-1,AR AL Sumaira
+http://ip.cs4ip.com:8000/live/11223344/11223344/1702.ts
+#EXTINF:-1,====JORDAN====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3892.ts
+#EXTINF:-1,AR_Jordan_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2410.ts
+#EXTINF:-1,AR_Jordan_Sport
+http://ip.cs4ip.com:8000/live/11223344/11223344/2414.ts
+#EXTINF:-1,AR_Jordan_Manaseer
+http://ip.cs4ip.com:8000/live/11223344/11223344/2419.ts
+#EXTINF:-1,AR_Jordan_Jood
+http://ip.cs4ip.com:8000/live/11223344/11223344/2417.ts
+#EXTINF:-1,AR_Jordan_Amen
+http://ip.cs4ip.com:8000/live/11223344/11223344/2418.ts
+#EXTINF:-1,AR_Jordan_Alwastalbalad
+http://ip.cs4ip.com:8000/live/11223344/11223344/2420.ts
+#EXTINF:-1,====LIBYA====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3891.ts
+#EXTINF:-1,Libyas - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3163.ts
+#EXTINF:-1,Libya One - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3164.ts
+#EXTINF:-1,Libya El Marah - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3165.ts
+#EXTINF:-1,Libya Al Rasmeya - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3166.ts
+#EXTINF:-1,Libya 218 - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3167.ts
+#EXTINF:-1,====UAE====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3894.ts
+#EXTINF:-1,Abu_Dhabi_Sports_1HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/579.ts
+#EXTINF:-1,AR_Sama_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2317.ts
+#EXTINF:-1,AR_Sama_Dubai
+http://ip.cs4ip.com:8000/live/11223344/11223344/2458.ts
+#EXTINF:-1,AR_Dubai_Zaman
+http://ip.cs4ip.com:8000/live/11223344/11223344/2459.ts
+#EXTINF:-1,AR_Dubai_Sport_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2463.ts
+#EXTINF:-1,AR_Dubai_Sport_4
+http://ip.cs4ip.com:8000/live/11223344/11223344/2466.ts
+#EXTINF:-1,AR_Dubai_Sport_3
+http://ip.cs4ip.com:8000/live/11223344/11223344/2465.ts
+#EXTINF:-1,AR_Dubai_Drama_AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/2460.ts
+#EXTINF:-1,AR_Dubai_AlOula_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2462.ts
+#EXTINF:-1,AR_Abu_Dhabi_Sport_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2469.ts
+#EXTINF:-1,Abu Dhabi TV HD - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3147.ts
+#EXTINF:-1,Abu Dhabi Ngc HD - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3149.ts
+#EXTINF:-1,Abu Dhabi Drama HD - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3148.ts
+#EXTINF:-1,AR_Noor_Dubai
+http://ip.cs4ip.com:8000/live/11223344/11223344/2457.ts
+#EXTINF:-1,DUBAI ONE
+http://ip.cs4ip.com:8000/live/11223344/11223344/414.ts
+#EXTINF:-1,DUBAI SPORTS
+http://ip.cs4ip.com:8000/live/11223344/11223344/429.ts
+#EXTINF:-1,SAMA DUBAI
+http://ip.cs4ip.com:8000/live/11223344/11223344/425.ts
+#EXTINF:-1,ASHARIQAH
+http://ip.cs4ip.com:8000/live/11223344/11223344/424.ts
+#EXTINF:-1,AL QHARIQA SPORT
+http://ip.cs4ip.com:8000/live/11223344/11223344/682.ts
+#EXTINF:-1,AR YAS Sports HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1671.ts
+#EXTINF:-1,====MBC====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3896.ts
+#EXTINF:-1,AR_MBC1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2527.ts
+#EXTINF:-1,AR_MBC2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2528.ts
+#EXTINF:-1,AR_MBC3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2529.ts
+#EXTINF:-1,AR_MBC_4_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2530.ts
+#EXTINF:-1,AR_MBC_MAX_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2531.ts
+#EXTINF:-1,AR_MBC_DRAMA_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2533.ts
+#EXTINF:-1,MBC Drama + HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4244.ts
+#EXTINF:-1,AR_MBC_ACTION_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2532.ts
+#EXTINF:-1,MBC 1 ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/24.ts
+#EXTINF:-1,MBC 2 ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/25.ts
+#EXTINF:-1,MBC 3 ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/26.ts
+#EXTINF:-1,MBC 4 ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/27.ts
+#EXTINF:-1,MBC DRAMA ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/360.ts
+#EXTINF:-1,MBC  MAX ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/28.ts
+#EXTINF:-1,MBC ACTION ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/29.ts
+#EXTINF:-1,MBC BOLLYWOOD ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/30.ts
+#EXTINF:-1,MBC_MASR
+http://ip.cs4ip.com:8000/live/11223344/11223344/386.ts
+#EXTINF:-1,MBC_MASR2
+http://ip.cs4ip.com:8000/live/11223344/11223344/385.ts
+#EXTINF:-1,WANASAH
+http://ip.cs4ip.com:8000/live/11223344/11223344/1902.ts
+#EXTINF:-1,====ROTANA====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3897.ts
+#EXTINF:-1,AR Rotana Cinema Ksa
+http://ip.cs4ip.com:8000/live/11223344/11223344/2026.ts
+#EXTINF:-1,AR Rotana - AR Rotana
+http://ip.cs4ip.com:8000/live/11223344/11223344/2025.ts
+#EXTINF:-1,ROTANA_CINEMA
+http://ip.cs4ip.com:8000/live/11223344/11223344/148.ts
+#EXTINF:-1,ROTANA_MASRIYA
+http://ip.cs4ip.com:8000/live/11223344/11223344/147.ts
+#EXTINF:-1,ROTANA CLIP ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/144.ts
+#EXTINF:-1,ROTANA_CLASSIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/146.ts
+#EXTINF:-1,ROTANA MUSIC ARABIC
+http://ip.cs4ip.com:8000/live/11223344/11223344/145.ts
+#EXTINF:-1,ROTANA_KHALIJIA
+http://ip.cs4ip.com:8000/live/11223344/11223344/352.ts
+#EXTINF:-1,====SAUDI====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3898.ts
+#EXTINF:-1,AR Saudi Sunnah - AR Saudi Sunnah
+http://ip.cs4ip.com:8000/live/11223344/11223344/2046.ts
+#EXTINF:-1,AR Saudi Quran - AR Saudi Quran
+http://ip.cs4ip.com:8000/live/11223344/11223344/2045.ts
+#EXTINF:-1,AR_Saudi_Channel2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2324.ts
+#EXTINF:-1,AR_Saudi_Anti
+http://ip.cs4ip.com:8000/live/11223344/11223344/2323.ts
+#EXTINF:-1,AR_Saudi24
+http://ip.cs4ip.com:8000/live/11223344/11223344/2322.ts
+#EXTINF:-1,AR_Al_Mergab
+http://ip.cs4ip.com:8000/live/11223344/11223344/2381.ts
+#EXTINF:-1,AR_Saudi1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2321.ts
+#EXTINF:-1,====ISLAMIC====
+http://ip.cs4ip.com:8000/live/11223344/11223344/3899.ts
+#EXTINF:-1,AR_Al_Nada
+http://ip.cs4ip.com:8000/live/11223344/11223344/2377.ts
+#EXTINF:-1,AR_Wesal
+http://ip.cs4ip.com:8000/live/11223344/11223344/2398.ts
+#EXTINF:-1,AR Al Rahma
+http://ip.cs4ip.com:8000/live/11223344/11223344/2048.ts
+#EXTINF:-1,AR_Tayba_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2337.ts
+#EXTINF:-1,AR Resalat Al Islam
+http://ip.cs4ip.com:8000/live/11223344/11223344/2047.ts
+#EXTINF:-1,AR_Quran_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2441.ts
+#EXTINF:-1,AR Mta Muslim TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2051.ts
+#EXTINF:-1,AR Jannah
+http://ip.cs4ip.com:8000/live/11223344/11223344/2049.ts
+#EXTINF:-1,AR Mta Arabic
+http://ip.cs4ip.com:8000/live/11223344/11223344/2052.ts
+#EXTINF:-1,AR_Belad_Haramen
+http://ip.cs4ip.com:8000/live/11223344/11223344/2456.ts
+#EXTINF:-1,AR Al Zitouna Hedaya - AR Al Zitouna Hedaya
+http://ip.cs4ip.com:8000/live/11223344/11223344/2034.ts
+#EXTINF:-1,AR_Bahrain_Quran
+http://ip.cs4ip.com:8000/live/11223344/11223344/2453.ts
+#EXTINF:-1,====ARAB NILESAT====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1734.ts
+#EXTINF:-1,AR_Qatar_Today
+http://ip.cs4ip.com:8000/live/11223344/11223344/2432.ts
+#EXTINF:-1,AR_Talaqie
+http://ip.cs4ip.com:8000/live/11223344/11223344/2325.ts
+#EXTINF:-1,SAMA SYRIA
+http://ip.cs4ip.com:8000/live/11223344/11223344/4143.ts
+#EXTINF:-1,SYRIA AL OULA
+http://ip.cs4ip.com:8000/live/11223344/11223344/4139.ts
+#EXTINF:-1,SYRIA NEWS
+http://ip.cs4ip.com:8000/live/11223344/11223344/4138.ts
+#EXTINF:-1,TALAQIE SYRIA TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/4142.ts
+#EXTINF:-1,UGARIT SYRIA TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/4141.ts
+#EXTINF:-1,AR_Syria_Education
+http://ip.cs4ip.com:8000/live/11223344/11223344/2313.ts
+#EXTINF:-1,AR_Syria_Drama
+http://ip.cs4ip.com:8000/live/11223344/11223344/2312.ts
+#EXTINF:-1,AR_Sat_7Plus
+http://ip.cs4ip.com:8000/live/11223344/11223344/2362.ts
+#EXTINF:-1,AR_Sat_7Kids
+http://ip.cs4ip.com:8000/live/11223344/11223344/2363.ts
+#EXTINF:-1,AR_Sat7
+http://ip.cs4ip.com:8000/live/11223344/11223344/2361.ts
+#EXTINF:-1,AR Otv
+http://ip.cs4ip.com:8000/live/11223344/11223344/2056.ts
+#EXTINF:-1,AR_Oman_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2400.ts
+#EXTINF:-1,AR_Noursat
+http://ip.cs4ip.com:8000/live/11223344/11223344/2284.ts
+#EXTINF:-1,AR_Nour_El_Sham
+http://ip.cs4ip.com:8000/live/11223344/11223344/2302.ts
+#EXTINF:-1,AR_Neelain_Sport
+http://ip.cs4ip.com:8000/live/11223344/11223344/2450.ts
+#EXTINF:-1,AR_Naba_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2298.ts
+#EXTINF:-1,AR Mtv Lebanon - AR Mtv Lebanon
+http://ip.cs4ip.com:8000/live/11223344/11223344/2058.ts
+#EXTINF:-1,AR_Mouritania_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2451.ts
+#EXTINF:-1,AR_Menara_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2433.ts
+#EXTINF:-1,AR_Masdar
+http://ip.cs4ip.com:8000/live/11223344/11223344/2385.ts
+#EXTINF:-1,AR_Maan_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2310.ts
+#EXTINF:-1,AR Ldc - AR Ldc
+http://ip.cs4ip.com:8000/live/11223344/11223344/2055.ts
+#EXTINF:-1,AR Lbc Libanon - AR Lbc Libanon
+http://ip.cs4ip.com:8000/live/11223344/11223344/2054.ts
+#EXTINF:-1,AR_Azhari
+http://ip.cs4ip.com:8000/live/11223344/11223344/2405.ts
+#EXTINF:-1,AR_Kuwait_Deretna
+http://ip.cs4ip.com:8000/live/11223344/11223344/2341.ts
+#EXTINF:-1,AR_Kuwait
+http://ip.cs4ip.com:8000/live/11223344/11223344/2339.ts
+#EXTINF:-1,AR_Ktv_Sport
+http://ip.cs4ip.com:8000/live/11223344/11223344/2473.ts
+#EXTINF:-1,A_Ktv_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2472.ts
+#EXTINF:-1,AR Future
+http://ip.cs4ip.com:8000/live/11223344/11223344/2059.ts
+#EXTINF:-1,AR_Eladjwaa
+http://ip.cs4ip.com:8000/live/11223344/11223344/2333.ts
+#EXTINF:-1,AR_El_Heya_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2293.ts
+#EXTINF:-1,AR_Dawan_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2383.ts
+#EXTINF:-1,AR_Blue_Nile
+http://ip.cs4ip.com:8000/live/11223344/11223344/2455.ts
+#EXTINF:-1,AR_Bahia_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2328.ts
+#EXTINF:-1,AR_Ashorooq
+http://ip.cs4ip.com:8000/live/11223344/11223344/2447.ts
+#EXTINF:-1,AR_Althaqafiah
+http://ip.cs4ip.com:8000/live/11223344/11223344/2452.ts
+#EXTINF:-1,AR_Al_Waad
+http://ip.cs4ip.com:8000/live/11223344/11223344/2319.ts
+#EXTINF:-1,AR_Al_Thabat
+http://ip.cs4ip.com:8000/live/11223344/11223344/2347.ts
+#EXTINF:-1,AR_Al_Teeb
+http://ip.cs4ip.com:8000/live/11223344/11223344/2382.ts
+#EXTINF:-1,AR_Al_Sirat
+http://ip.cs4ip.com:8000/live/11223344/11223344/2399.ts
+#EXTINF:-1,AR_Al_Shallal
+http://ip.cs4ip.com:8000/live/11223344/11223344/2348.ts
+#EXTINF:-1,AR_Al_Shahed
+http://ip.cs4ip.com:8000/live/11223344/11223344/2349.ts
+#EXTINF:-1,AR_Al_Shababtv
+http://ip.cs4ip.com:8000/live/11223344/11223344/2344.ts
+#EXTINF:-1,AR_Al_Sahraa_Aalebel
+http://ip.cs4ip.com:8000/live/11223344/11223344/2373.ts
+#EXTINF:-1,AR_Al_Rayyan
+http://ip.cs4ip.com:8000/live/11223344/11223344/2401.ts
+#EXTINF:-1,AR_Al_Rasheed
+http://ip.cs4ip.com:8000/live/11223344/11223344/2316.ts
+#EXTINF:-1,AR_Al_Quds
+http://ip.cs4ip.com:8000/live/11223344/11223344/2392.ts
+#EXTINF:-1,AR_Al_Qanat
+http://ip.cs4ip.com:8000/live/11223344/11223344/2379.ts
+#EXTINF:-1,AR_Al_Qamar
+http://ip.cs4ip.com:8000/live/11223344/11223344/2376.ts
+#EXTINF:-1,AR Al Omah
+http://ip.cs4ip.com:8000/live/11223344/11223344/2050.ts
+#EXTINF:-1,AR_Al_Naeem
+http://ip.cs4ip.com:8000/live/11223344/11223344/2338.ts
+#EXTINF:-1,AR_Al_Mustakila
+http://ip.cs4ip.com:8000/live/11223344/11223344/2329.ts
+#EXTINF:-1,AR_Al_Karma_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2296.ts
+#EXTINF:-1,AR_Al_Itejah
+http://ip.cs4ip.com:8000/live/11223344/11223344/2327.ts
+#EXTINF:-1,AR_Al_InsenTV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2295.ts
+#EXTINF:-1,AR Al Haqiqa
+http://ip.cs4ip.com:8000/live/11223344/11223344/2053.ts
+#EXTINF:-1,AR_Al_Ghad_Alarbiya
+http://ip.cs4ip.com:8000/live/11223344/11223344/2283.ts
+#EXTINF:-1,AR_Al_Gamaiya
+http://ip.cs4ip.com:8000/live/11223344/11223344/2305.ts
+#EXTINF:-1,AR_Al_Forat2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2351.ts
+#EXTINF:-1,AR_Al_Fayhaa
+http://ip.cs4ip.com:8000/live/11223344/11223344/2320.ts
+#EXTINF:-1,AR_Al_Eshraq
+http://ip.cs4ip.com:8000/live/11223344/11223344/2380.ts
+#EXTINF:-1,AR_Al_Ekhbaria_Al_Soriya
+http://ip.cs4ip.com:8000/live/11223344/11223344/2315.ts
+#EXTINF:-1,AR_Al_Diyar
+http://ip.cs4ip.com:8000/live/11223344/11223344/2378.ts
+#EXTINF:-1,AR_Al_Bawadi
+http://ip.cs4ip.com:8000/live/11223344/11223344/2409.ts
+#EXTINF:-1,AR_Al_Basira_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2356.ts
+#EXTINF:-1,AR_Al_Basira
+http://ip.cs4ip.com:8000/live/11223344/11223344/2355.ts
+#EXTINF:-1,AR_Al_Bait_Baitak_Cinema
+http://ip.cs4ip.com:8000/live/11223344/11223344/2309.ts
+#EXTINF:-1,AR_Al_Baghdadia
+http://ip.cs4ip.com:8000/live/11223344/11223344/2353.ts
+#EXTINF:-1,AR_Al_Awhad
+http://ip.cs4ip.com:8000/live/11223344/11223344/2370.ts
+#EXTINF:-1,AR_Al_Atrja
+http://ip.cs4ip.com:8000/live/11223344/11223344/2396.ts
+#EXTINF:-1,AR_Al_Asrar_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2297.ts
+#EXTINF:-1,AR_Al_Asr_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2406.ts
+#EXTINF:-1,AR_Al_Araby
+http://ip.cs4ip.com:8000/live/11223344/11223344/2350.ts
+#EXTINF:-1,AR Al Alam News Channel
+http://ip.cs4ip.com:8000/live/11223344/11223344/2040.ts
+#EXTINF:-1,AR_Akh_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2291.ts
+#EXTINF:-1,AR_Ajyal
+http://ip.cs4ip.com:8000/live/11223344/11223344/2445.ts
+#EXTINF:-1,AR_Ahel_Al_Quran
+http://ip.cs4ip.com:8000/live/11223344/11223344/2395.ts
+#EXTINF:-1,AR_Aghanina
+http://ip.cs4ip.com:8000/live/11223344/11223344/2334.ts
+#EXTINF:-1,AR_Aghani
+http://ip.cs4ip.com:8000/live/11223344/11223344/2287.ts
+#EXTINF:-1,AR_Afrah_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2285.ts
+#EXTINF:-1,AR_Abalfadhl_Allabas_Tv
+http://ip.cs4ip.com:8000/live/11223344/11223344/2367.ts
+#EXTINF:-1,AR Panorama film
+http://ip.cs4ip.com:8000/live/11223344/11223344/1673.ts
+#EXTINF:-1,AR B4U Plus
+http://ip.cs4ip.com:8000/live/11223344/11223344/1469.ts
+#EXTINF:-1,AR B4U Aflam
+http://ip.cs4ip.com:8000/live/11223344/11223344/1470.ts
+#EXTINF:-1,Zitouna Hedaya - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3136.ts
+#EXTINF:-1,Zein TV - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3160.ts
+#EXTINF:-1,Zee Living - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3138.ts
+#EXTINF:-1,Yemen TV - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3157.ts
+#EXTINF:-1,Yemen Shabab - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3159.ts
+#EXTINF:-1,Suryoyo Sat - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3169.ts
+#EXTINF:-1,Suryana - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3162.ts
+#EXTINF:-1,Shahamh - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3172.ts
+#EXTINF:-1,Sanaa TV - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3182.ts
+#EXTINF:-1,Sama Yemen - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3158.ts
+#EXTINF:-1,Rt Arab - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3144.ts
+#EXTINF:-1,Quo.edu - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3118.ts
+#EXTINF:-1,Qatar TV HD - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3156.ts
+#EXTINF:-1,Palastine Sport - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3119.ts
+#EXTINF:-1,Palastine News - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3120.ts
+#EXTINF:-1,Palastine Live - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3121.ts
+#EXTINF:-1,Palastine - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3122.ts
+#EXTINF:-1,Noursat Al Chabab - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3170.ts
+#EXTINF:-1,Mystro TV - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3180.ts
+#EXTINF:-1,Music Al Hanen - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3161.ts
+#EXTINF:-1,Musawa - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3123.ts
+#EXTINF:-1,Mouritania - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3186.ts
+#EXTINF:-1,Mbc Pro Sports 4 - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3137.ts
+#EXTINF:-1,Massaya - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3146.ts
+#EXTINF:-1,Maspero Zaman
+http://ip.cs4ip.com:8000/live/11223344/11223344/3173.ts
+#EXTINF:-1,Ktv 3 - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3150.ts
+#EXTINF:-1,Kitabat TV - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3189.ts
+#EXTINF:-1,Karameesh - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3181.ts
+#EXTINF:-1,Halaba TV - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3140.ts
+#EXTINF:-1,Falastiniah-Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3124.ts
+#EXTINF:-1,Dream 2 - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3179.ts
+#EXTINF:-1,Cinema Pro - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3139.ts
+#EXTINF:-1,Baraem Kids Europe - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3143.ts
+#EXTINF:-1,Bahrain International - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3168.ts
+#EXTINF:-1,Awdeh - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3125.ts
+#EXTINF:-1,Annajah NBC - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3126.ts
+#EXTINF:-1,Al Wilayah - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3174.ts
+#EXTINF:-1,Al Sharjah - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3178.ts
+#EXTINF:-1,Al Shamal - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3188.ts
+#EXTINF:-1,Al Qanat - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3191.ts
+#EXTINF:-1,Al Malakoot - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3171.ts
+#EXTINF:-1,Al Majd Kids HD - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3155.ts
+#EXTINF:-1,Al Majd 4 - arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3154.ts
+#EXTINF:-1,Al Majd 3 - arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3153.ts
+#EXTINF:-1,Al Majd 2 - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3152.ts
+#EXTINF:-1,Al Majd 1  - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3151.ts
+#EXTINF:-1,Al Jadeed - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3190.ts
+#EXTINF:-1,Al Fady - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3176.ts
+#EXTINF:-1,Al Dawaeia - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3187.ts
+#EXTINF:-1,Al Askandria - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3141.ts
+#EXTINF:-1,Al Arrab - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3175.ts
+#EXTINF:-1,Al Amaken - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3177.ts
+#EXTINF:-1,Aghapy - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3184.ts
+#EXTINF:-1,Abn - Arab
+http://ip.cs4ip.com:8000/live/11223344/11223344/3185.ts
+#EXTINF:-1,ZEE ALWAN
+http://ip.cs4ip.com:8000/live/11223344/11223344/1903.ts
+#EXTINF:-1,ZEE AFLAM
+http://ip.cs4ip.com:8000/live/11223344/11223344/1919.ts
+#EXTINF:-1,PSC
+http://ip.cs4ip.com:8000/live/11223344/11223344/1914.ts
+#EXTINF:-1,AR_Ktv_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2471.ts
+#EXTINF:-1,PALESTINE TODAY
+http://ip.cs4ip.com:8000/live/11223344/11223344/1916.ts
+#EXTINF:-1,FUNOON
+http://ip.cs4ip.com:8000/live/11223344/11223344/1896.ts
+#EXTINF:-1,DUBAI TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/413.ts
+#EXTINF:-1,IQRAA
+http://ip.cs4ip.com:8000/live/11223344/11223344/430.ts
+#EXTINF:-1,AL RESALAH
+http://ip.cs4ip.com:8000/live/11223344/11223344/383.ts
+#EXTINF:-1,MEKKA TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/422.ts
+#EXTINF:-1,AL MAJD QURAN AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/677.ts
+#EXTINF:-1,AL MAJD ISLAM AR
+http://ip.cs4ip.com:8000/live/11223344/11223344/676.ts
+#EXTINF:-1,AR Cartoon network
+http://ip.cs4ip.com:8000/live/11223344/11223344/1687.ts
+#EXTINF:-1,AR: Toyor Al Janah
+http://ip.cs4ip.com:8000/live/11223344/11223344/932.ts
+#EXTINF:-1,AR: Spacetoon
+http://ip.cs4ip.com:8000/live/11223344/11223344/934.ts
+#EXTINF:-1,AR Al Waha
+http://ip.cs4ip.com:8000/live/11223344/11223344/1701.ts
+#EXTINF:-1,AR AL Shallal TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/1703.ts
+#EXTINF:-1,AR AL Nahar
+http://ip.cs4ip.com:8000/live/11223344/11223344/1711.ts
+#EXTINF:-1,MOURIDIYAH SENEGAL
+http://ip.cs4ip.com:8000/live/11223344/11223344/684.ts
+#EXTINF:-1,===MUSIC====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1746.ts
+#EXTINF:-1,VEVO 1
+http://ip.cs4ip.com:8000/live/11223344/11223344/572.ts
+#EXTINF:-1,VEVO 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/571.ts
+#EXTINF:-1,VEVO 3
+http://ip.cs4ip.com:8000/live/11223344/11223344/570.ts
+#EXTINF:-1,====PORTUGAL====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1747.ts
+#EXTINF:-1,Tvi_24_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3606.ts
+#EXTINF:-1,Tvi_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3607.ts
+#EXTINF:-1,Tv_Sick_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3608.ts
+#EXTINF:-1,TV_Series_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3609.ts
+#EXTINF:-1,Tv_Globo_Premium_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3603.ts
+#EXTINF:-1,TV_Globo_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3575.ts
+#EXTINF:-1,TV_Cine_4_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3610.ts
+#EXTINF:-1,TV_Cine_3_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3611.ts
+#EXTINF:-1,TV_Cine_2_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3612.ts
+#EXTINF:-1,TV_Cine_1_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3613.ts
+#EXTINF:-1,Travel_Channel_HD_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3583.ts
+#EXTINF:-1,Tlc_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3614.ts
+#EXTINF:-1,Sporting_Tv_HD_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3584.ts
+#EXTINF:-1,Sport_TV_5_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3615.ts
+#EXTINF:-1,Sport_TV_4_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3616.ts
+#EXTINF:-1,Sport_TV_3_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3617.ts
+#EXTINF:-1,Sport_TV_2_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3618.ts
+#EXTINF:-1,Sport_TV_1_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3619.ts
+#EXTINF:-1,Sic_Radical_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3578.ts
+#EXTINF:-1,Sic_Noticias_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3579.ts
+#EXTINF:-1,Sic_Mulher_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3580.ts
+#EXTINF:-1,Sic_Kids_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3576.ts
+#EXTINF:-1,Sic_Caras_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3581.ts
+#EXTINF:-1,Sic_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3577.ts
+#EXTINF:-1,Rtp_Africa_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3585.ts
+#EXTINF:-1,Rtp_3_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3620.ts
+#EXTINF:-1,Rtp_2_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3621.ts
+#EXTINF:-1,Rtp_1_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3622.ts
+#EXTINF:-1,Rt_Global_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3586.ts
+#EXTINF:-1,Porto_Canal_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3587.ts
+#EXTINF:-1,PLUG_RTL
+http://ip.cs4ip.com:8000/live/11223344/11223344/2640.ts
+#EXTINF:-1,Pfc_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3588.ts
+#EXTINF:-1,Nickelodeon_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3623.ts
+#EXTINF:-1,National_Geographic_Wild_HD_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3605.ts
+#EXTINF:-1,National_Geographic_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3582.ts
+#EXTINF:-1,Mov_HD_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3589.ts
+#EXTINF:-1,Motorvision_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3590.ts
+#EXTINF:-1,Mcm_Top_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3591.ts
+#EXTINF:-1,Hollywood_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3592.ts
+#EXTINF:-1,Fuel_TV_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3593.ts
+#EXTINF:-1,Fox_Movies_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3594.ts
+#EXTINF:-1,Fox_Life_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3624.ts
+#EXTINF:-1,Fox_Crime_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3625.ts
+#EXTINF:-1,Fox_Comedy_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3626.ts
+#EXTINF:-1,Fox_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3627.ts
+#EXTINF:-1,Eurosport_2_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3595.ts
+#EXTINF:-1,Eurosport_1_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3596.ts
+#EXTINF:-1,Economico_TV_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3597.ts
+#EXTINF:-1,E!_Entertainment_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3628.ts
+#EXTINF:-1,Disney_Channel_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3629.ts
+#EXTINF:-1,Discovery_Showcase_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3630.ts
+#EXTINF:-1,Discovery_Channel_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3631.ts
+#EXTINF:-1,Cm_TV_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3632.ts
+#EXTINF:-1,Cbs_Reality_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3598.ts
+#EXTINF:-1,Cartoon_Network_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3633.ts
+#EXTINF:-1,Canal_Panda_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3634.ts
+#EXTINF:-1,Benfica_TV_1_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3635.ts
+#EXTINF:-1,Baby_TV_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3599.ts
+#EXTINF:-1,Axn_White_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3636.ts
+#EXTINF:-1,Axn_Black_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3604.ts
+#EXTINF:-1,Axn_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3637.ts
+#EXTINF:-1,Abola_TV_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3600.ts
+#EXTINF:-1,A&E_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3601.ts
+#EXTINF:-1,24_Kitchen_-_Portugal
+http://ip.cs4ip.com:8000/live/11223344/11223344/3602.ts
+#EXTINF:-1,PORTUGAL:RTP1
+http://ip.cs4ip.com:8000/live/11223344/11223344/606.ts
+#EXTINF:-1,====NETHERLAND====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1738.ts
+#EXTINF:-1,NL Veronica HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/732.ts
+#EXTINF:-1,NL TLC
+http://ip.cs4ip.com:8000/live/11223344/11223344/740.ts
+#EXTINF:-1,NL Sport1 Voetbal HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/757.ts
+#EXTINF:-1,NL Sport1 Select HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/756.ts
+#EXTINF:-1,NL Sport 1 Extra 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/761.ts
+#EXTINF:-1,NL SBS6 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/725.ts
+#EXTINF:-1,NL SBS9 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/728.ts
+#EXTINF:-1,NL RTL4 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/723.ts
+#EXTINF:-1,NL RTL5 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/724.ts
+#EXTINF:-1,NL RTL7 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/726.ts
+#EXTINF:-1,NL RTL8 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/727.ts
+#EXTINF:-1,NL Rtl Lounge
+http://ip.cs4ip.com:8000/live/11223344/11223344/730.ts
+#EXTINF:-1,NL NPO1 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/720.ts
+#EXTINF:-1,NL NPO2 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/721.ts
+#EXTINF:-1,NL NPO3 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/722.ts
+#EXTINF:-1,NL Nickelodeon
+http://ip.cs4ip.com:8000/live/11223344/11223344/731.ts
+#EXTINF:-1,NL NGC HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/745.ts
+#EXTINF:-1,NL NET5 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/729.ts
+#EXTINF:-1,NL MTV
+http://ip.cs4ip.com:8000/live/11223344/11223344/738.ts
+#EXTINF:-1,NL HBO1 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/753.ts
+#EXTINF:-1,NL HBO2 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/754.ts
+#EXTINF:-1,NL HBO3 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/755.ts
+#EXTINF:-1,NL Fox Sports 1
+http://ip.cs4ip.com:8000/live/11223344/11223344/762.ts
+#EXTINF:-1,NL Fox Sports 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/763.ts
+#EXTINF:-1,NL Fox Sports 3
+http://ip.cs4ip.com:8000/live/11223344/11223344/764.ts
+#EXTINF:-1,NL Fox Sports 4
+http://ip.cs4ip.com:8000/live/11223344/11223344/765.ts
+#EXTINF:-1,NL Fox Sports 5
+http://ip.cs4ip.com:8000/live/11223344/11223344/766.ts
+#EXTINF:-1,NL Fox
+http://ip.cs4ip.com:8000/live/11223344/11223344/741.ts
+#EXTINF:-1,NL Film1 Sundance
+http://ip.cs4ip.com:8000/live/11223344/11223344/750.ts
+#EXTINF:-1,NL Film1 Premiere HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/749.ts
+#EXTINF:-1,NL Film1 Comedy
+http://ip.cs4ip.com:8000/live/11223344/11223344/751.ts
+#EXTINF:-1,NL Film1 Action
+http://ip.cs4ip.com:8000/live/11223344/11223344/752.ts
+#EXTINF:-1,NL Eurosport HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/742.ts
+#EXTINF:-1,NL Disney Junior
+http://ip.cs4ip.com:8000/live/11223344/11223344/736.ts
+#EXTINF:-1,NL Disney Channel
+http://ip.cs4ip.com:8000/live/11223344/11223344/735.ts
+#EXTINF:-1,NL Discovery Investigation
+http://ip.cs4ip.com:8000/live/11223344/11223344/744.ts
+#EXTINF:-1,NL Discovery
+http://ip.cs4ip.com:8000/live/11223344/11223344/743.ts
+#EXTINF:-1,NL Comedy Central
+http://ip.cs4ip.com:8000/live/11223344/11223344/734.ts
+#EXTINF:-1,NL Cartoon Network
+http://ip.cs4ip.com:8000/live/11223344/11223344/737.ts
+#EXTINF:-1,NL Boomerang
+http://ip.cs4ip.com:8000/live/11223344/11223344/733.ts
+#EXTINF:-1,NL 24Kitchen
+http://ip.cs4ip.com:8000/live/11223344/11223344/739.ts
+#EXTINF:-1,NL 13th Street
+http://ip.cs4ip.com:8000/live/11223344/11223344/746.ts
+#EXTINF:-1,NL_Ziggo_Sport_Voetbal_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3715.ts
+#EXTINF:-1,NL_Ziggo_Sport_Select_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3716.ts
+#EXTINF:-1,NL_Ziggo_Sport_Racing_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3718.ts
+#EXTINF:-1,NL_Ziggo_Sport_Golf_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3717.ts
+#EXTINF:-1,NL_Tv_Oost_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3711.ts
+#EXTINF:-1,NL_Tv_Noord_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3712.ts
+#EXTINF:-1,NL_Sport_2_Extra_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3720.ts
+#EXTINF:-1,NL_L1_Limburg_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3713.ts
+#EXTINF:-1,NL_Fox_Sport_6_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3719.ts
+#EXTINF:-1,NL_Baby_Tv_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3714.ts
+#EXTINF:-1,NL_At_5_-_NL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3710.ts
+#EXTINF:-1,====Albania====
+http://ip.cs4ip.com:8000/live/11223344/11223344/2665.ts
+#EXTINF:-1,ALB:_Sport_News_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2679.ts
+#EXTINF:-1,ALB:_Vizion_Plus
+http://ip.cs4ip.com:8000/live/11223344/11223344/2667.ts
+#EXTINF:-1,ALB:_Tring_24_News
+http://ip.cs4ip.com:8000/live/11223344/11223344/2678.ts
+#EXTINF:-1,ALB:_Tirng_Life
+http://ip.cs4ip.com:8000/live/11223344/11223344/2677.ts
+#EXTINF:-1,ALB:_Plus_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2672.ts
+#EXTINF:-1,ALB:_Ora_News
+http://ip.cs4ip.com:8000/live/11223344/11223344/2674.ts
+#EXTINF:-1,ALB:_Bbf_Music
+http://ip.cs4ip.com:8000/live/11223344/11223344/2675.ts
+#EXTINF:-1,ALB:_Music_Al
+http://ip.cs4ip.com:8000/live/11223344/11223344/2676.ts
+#EXTINF:-1,====SPAIN====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1735.ts
+#EXTINF:-1,*-*-*-*-*Espagne_ESPANA*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4066.ts
+#EXTINF:-1,SP TNT - SP TNT
+http://ip.cs4ip.com:8000/live/11223344/11223344/1823.ts
+#EXTINF:-1,SP Teledeporte - SP Teledeporte
+http://ip.cs4ip.com:8000/live/11223344/11223344/1822.ts
+#EXTINF:-1,SP Telecino - SP Telecino
+http://ip.cs4ip.com:8000/live/11223344/11223344/1821.ts
+#EXTINF:-1,TCM_SPAIN
+http://ip.cs4ip.com:8000/live/11223344/11223344/1890.ts
+#EXTINF:-1,SyFy_SPAIN
+http://ip.cs4ip.com:8000/live/11223344/11223344/1889.ts
+#EXTINF:-1,Sol_Musica_SPAIN
+http://ip.cs4ip.com:8000/live/11223344/11223344/1888.ts
+#EXTINF:-1,SP Neox - SP Neox
+http://ip.cs4ip.com:8000/live/11223344/11223344/1830.ts
+#EXTINF:-1,SP MTV Espana - SP MTV Espana
+http://ip.cs4ip.com:8000/live/11223344/11223344/1850.ts
+#EXTINF:-1,SP Moto GP - SP Moto GP
+http://ip.cs4ip.com:8000/live/11223344/11223344/1867.ts
+#EXTINF:-1,SP Mezzo - SP Mezzo
+http://ip.cs4ip.com:8000/live/11223344/11223344/1861.ts
+#EXTINF:-1,SP Ltc - SP Ltc
+http://ip.cs4ip.com:8000/live/11223344/11223344/1866.ts
+#EXTINF:-1,SP La Sexta - SP La Sexta
+http://ip.cs4ip.com:8000/live/11223344/11223344/1846.ts
+#EXTINF:-1,SP La 2 - SP La 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/1847.ts
+#EXTINF:-1,SP La 1 - SP La 1
+http://ip.cs4ip.com:8000/live/11223344/11223344/1854.ts
+#EXTINF:-1,SP Hollywood - SP Hollywood
+http://ip.cs4ip.com:8000/live/11223344/11223344/1855.ts
+#EXTINF:-1,SP Historia - SP Historia
+http://ip.cs4ip.com:8000/live/11223344/11223344/1856.ts
+#EXTINF:-1,SP Fox News - SP Fox News
+http://ip.cs4ip.com:8000/live/11223344/11223344/1857.ts
+#EXTINF:-1,SP FDF - SP FDF
+http://ip.cs4ip.com:8000/live/11223344/11223344/1858.ts
+#EXTINF:-1,SP Energy - SP Energy
+http://ip.cs4ip.com:8000/live/11223344/11223344/1864.ts
+#EXTINF:-1,SP TVI Inter - SP TVI Inter
+http://ip.cs4ip.com:8000/live/11223344/11223344/1825.ts
+#EXTINF:-1,*-*-*-*-*Espagne_ENTRETENIMIENTO*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4064.ts
+#EXTINF:-1,SP Viajar - SP Viajar
+http://ip.cs4ip.com:8000/live/11223344/11223344/1829.ts
+#EXTINF:-1,SP TV Internacional Europa - SP TV Internacional Europa
+http://ip.cs4ip.com:8000/live/11223344/11223344/1824.ts
+#EXTINF:-1,SP NGC Wild - SP NGC Wild
+http://ip.cs4ip.com:8000/live/11223344/11223344/1851.ts
+#EXTINF:-1,SP NGC - SP NGC
+http://ip.cs4ip.com:8000/live/11223344/11223344/1852.ts
+#EXTINF:-1,SP Discovery - SP Discovery
+http://ip.cs4ip.com:8000/live/11223344/11223344/1837.ts
+#EXTINF:-1,*-*-*-*-*Espagne_DEPORTES*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4062.ts
+#EXTINF:-1,SP Divinity - SP Divinity
+http://ip.cs4ip.com:8000/live/11223344/11223344/1863.ts
+#EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
+http://ip.cs4ip.com:8000/live/11223344/11223344/1840.ts
+#EXTINF:-1,SP Cuatro - SP Cuatro
+http://ip.cs4ip.com:8000/live/11223344/11223344/1871.ts
+#EXTINF:-1,SP Comedy Central - SP Comedy Central
+http://ip.cs4ip.com:8000/live/11223344/11223344/1833.ts
+#EXTINF:-1,SP Comedia HD - SP Comedia HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1859.ts
+#EXTINF:-1,SP Classica - SP Classica
+http://ip.cs4ip.com:8000/live/11223344/11223344/1836.ts
+#EXTINF:-1,SP Clan TVe - SP Clan TVe
+http://ip.cs4ip.com:8000/live/11223344/11223344/1848.ts
+#EXTINF:-1,SP Canal Sur - SP Canal Sur
+http://ip.cs4ip.com:8000/live/11223344/11223344/1841.ts
+#EXTINF:-1,SP Canal Panda - SP Canal Panda
+http://ip.cs4ip.com:8000/live/11223344/11223344/1839.ts
+#EXTINF:-1,SP Canal Odisea - SP Canal Odisea
+http://ip.cs4ip.com:8000/live/11223344/11223344/1842.ts
+#EXTINF:-1,SP Canal Decasa - SP Canal Decasa
+http://ip.cs4ip.com:8000/live/11223344/11223344/1870.ts
+#EXTINF:-1,SP Canal Cocina - SP Canal Cocina
+http://ip.cs4ip.com:8000/live/11223344/11223344/1869.ts
+#EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
+http://ip.cs4ip.com:8000/live/11223344/11223344/1868.ts
+#EXTINF:-1,SP Calle 13 - SP Calle 13
+http://ip.cs4ip.com:8000/live/11223344/11223344/1843.ts
+#EXTINF:-1,SP C  Toros - SP C  Toros
+http://ip.cs4ip.com:8000/live/11223344/11223344/1828.ts
+#EXTINF:-1,SP C  Series Xtra - SP C  Series Xtra
+http://ip.cs4ip.com:8000/live/11223344/11223344/1874.ts
+#EXTINF:-1,SP C  Series - SP C  Series
+http://ip.cs4ip.com:8000/live/11223344/11223344/1834.ts
+#EXTINF:-1,SP C  Liga - SP C  Liga
+http://ip.cs4ip.com:8000/live/11223344/11223344/1878.ts
+#EXTINF:-1,C+Golf _SPAIN
+http://ip.cs4ip.com:8000/live/11223344/11223344/1887.ts
+#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1832.ts
+#EXTINF:-1,C+Footbol_SPAIN
+http://ip.cs4ip.com:8000/live/11223344/11223344/1886.ts
+#EXTINF:-1,C+Estrenos_SPAIN
+http://ip.cs4ip.com:8000/live/11223344/11223344/1885.ts
+#EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/1827.ts
+#EXTINF:-1,SP C  Estrellas - SP C  Estrellas
+http://ip.cs4ip.com:8000/live/11223344/11223344/1882.ts
+#EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/1883.ts
+#EXTINF:-1,SP C  Deportes - SP C  Deportes
+http://ip.cs4ip.com:8000/live/11223344/11223344/1884.ts
+#EXTINF:-1,SP C  Dcine HD - SP C  Dcine HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1838.ts
+#EXTINF:-1,SP C  Accion HD - SP C  Accion HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1831.ts
+#EXTINF:-1,SP Boing - SP Boing
+http://ip.cs4ip.com:8000/live/11223344/11223344/1881.ts
+#EXTINF:-1,SP Bein Sports - SP Bein Sports
+http://ip.cs4ip.com:8000/live/11223344/11223344/1826.ts
+#EXTINF:-1,SP bCaza Y Pesca - SP bCaza Y Pesca
+http://ip.cs4ip.com:8000/live/11223344/11223344/1845.ts
+#EXTINF:-1,SP Barca Tv - SP Barca Tv
+http://ip.cs4ip.com:8000/live/11223344/11223344/1860.ts
+#EXTINF:-1,SP AXN HD - SP AXN HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1853.ts
+#EXTINF:-1,SP Antena 3 - SP Antena 3
+http://ip.cs4ip.com:8000/live/11223344/11223344/1872.ts
+#EXTINF:-1,SP AMC - SP AMC
+http://ip.cs4ip.com:8000/live/11223344/11223344/1880.ts
+#EXTINF:-1,SP AE - SP AE
+http://ip.cs4ip.com:8000/live/11223344/11223344/1875.ts
+#EXTINF:-1,SP 40 TV - SP 40 TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/1877.ts
+#EXTINF:-1,SP 24 Horas - SP 24 Horas
+http://ip.cs4ip.com:8000/live/11223344/11223344/1876.ts
+#EXTINF:-1,*-*-*-*-*Espagne_NINOS*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4065.ts
+#EXTINF:-1,SP Disney xd - SP Disney xd
+http://ip.cs4ip.com:8000/live/11223344/11223344/1862.ts
+#EXTINF:-1,SP Disney Ch - SP Disney Ch
+http://ip.cs4ip.com:8000/live/11223344/11223344/1820.ts
+#EXTINF:-1,SP Baby Tv - SP Baby Tv
+http://ip.cs4ip.com:8000/live/11223344/11223344/1844.ts
+#EXTINF:-1,*-*-*-*-*Espagne_TAQUILLA*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4063.ts
+#EXTINF:-1,SP_TAQUILLA_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2621.ts
+#EXTINF:-1,SP_TAQUILLA_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2622.ts
+#EXTINF:-1,SP-TAQUILLA-3
+http://ip.cs4ip.com:8000/live/11223344/11223344/2623.ts
+#EXTINF:-1,SP_TAQUILLA_4
+http://ip.cs4ip.com:8000/live/11223344/11223344/2624.ts
+#EXTINF:-1,SP_TAQUILLA_5
+http://ip.cs4ip.com:8000/live/11223344/11223344/2625.ts
+#EXTINF:-1,SP_TAQUILLA_6
+http://ip.cs4ip.com:8000/live/11223344/11223344/2626.ts
+#EXTINF:-1,SP_TAQUILLA_7
+http://ip.cs4ip.com:8000/live/11223344/11223344/2627.ts
+#EXTINF:-1,SP_TAQUILLA_8
+http://ip.cs4ip.com:8000/live/11223344/11223344/2628.ts
+#EXTINF:-1,SP_TAQUILLA_9
+http://ip.cs4ip.com:8000/live/11223344/11223344/2629.ts
+#EXTINF:-1,SP_TAQUILLA_10
+http://ip.cs4ip.com:8000/live/11223344/11223344/2630.ts
+#EXTINF:-1,TAQUILLA_11_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2658.ts
+#EXTINF:-1,TAQUILLA_12_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2659.ts
+#EXTINF:-1,TAQUILLA_13_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2660.ts
+#EXTINF:-1,TAQUILLA_14_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2661.ts
+#EXTINF:-1,TAQUILLA_15_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2662.ts
+#EXTINF:-1,TAQUILLA_16_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2663.ts
+#EXTINF:-1,====TURKISH====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1745.ts
+#EXTINF:-1,Lig_TV_1_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3548.ts
+#EXTINF:-1,Lig_TV_2_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3549.ts
+#EXTINF:-1,Lig_TV_3_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3550.ts
+#EXTINF:-1,Lig_TV_4_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3551.ts
+#EXTINF:-1,Tivibu_Spor_1_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3554.ts
+#EXTINF:-1,Tivibu_Spor_2_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3555.ts
+#EXTINF:-1,Trt_Spor_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3501.ts
+#EXTINF:-1,Ntv_Spor_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3526.ts
+#EXTINF:-1,Sport_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3505.ts
+#EXTINF:-1,Smart_Spor_1_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3556.ts
+#EXTINF:-1,Smart_Spor_2_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3557.ts
+#EXTINF:-1,A_Sport_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3558.ts
+#EXTINF:-1,Euro_Star_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3533.ts
+#EXTINF:-1,Eurosport_2_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3553.ts
+#EXTINF:-1,Eurosport_1_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3552.ts
+#EXTINF:-1,World_Travel_Channel_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3542.ts
+#EXTINF:-1,Ulke_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3510.ts
+#EXTINF:-1,TV_8.5_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3485.ts
+#EXTINF:-1,TV_8_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3484.ts
+#EXTINF:-1,TV_8_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3483.ts
+#EXTINF:-1,TV_2_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3541.ts
+#EXTINF:-1,Trt_Muzik_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3500.ts
+#EXTINF:-1,Trt_Haber_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3502.ts
+#EXTINF:-1,Trt_Cocuk_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3499.ts
+#EXTINF:-1,Trt_Belgesel_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3498.ts
+#EXTINF:-1,Trt_1_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3497.ts
+#EXTINF:-1,Tlc_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3506.ts
+#EXTINF:-1,Tgrt_Haber_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3503.ts
+#EXTINF:-1,Star_TV_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3494.ts
+#EXTINF:-1,Star_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3493.ts
+#EXTINF:-1,Show_TV_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3496.ts
+#EXTINF:-1,Show_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3495.ts
+#EXTINF:-1,Show_Turk_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3532.ts
+#EXTINF:-1,Semerkand_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3540.ts
+#EXTINF:-1,Salon_3_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3562.ts
+#EXTINF:-1,Salon_2_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3561.ts
+#EXTINF:-1,Salon_1_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3560.ts
+#EXTINF:-1,Red_360_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3507.ts
+#EXTINF:-1,Power_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3515.ts
+#EXTINF:-1,Power_Turk_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3516.ts
+#EXTINF:-1,Planet_Turk_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3520.ts
+#EXTINF:-1,Planet_Cocuk_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3521.ts
+#EXTINF:-1,Number_1_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3522.ts
+#EXTINF:-1,Ntv_Avrupa_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3527.ts
+#EXTINF:-1,Ntv_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3525.ts
+#EXTINF:-1,Nba_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3508.ts
+#EXTINF:-1,National_Geographic_Wild_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3545.ts
+#EXTINF:-1,National_Geographic_People_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3546.ts
+#EXTINF:-1,National_Geographic_Channel_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3544.ts
+#EXTINF:-1,Moviesmart_Turk_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3568.ts
+#EXTINF:-1,Moviesmart_Premium_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3569.ts
+#EXTINF:-1,Moviesmart_Gold_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3570.ts
+#EXTINF:-1,Moviesmart_Fest_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3571.ts
+#EXTINF:-1,Moviesmart_Family_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3572.ts
+#EXTINF:-1,Moviesmart_Action_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3573.ts
+#EXTINF:-1,Manika_Go_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3518.ts
+#EXTINF:-1,Manika_Cocuk_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3519.ts
+#EXTINF:-1,Kral_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3528.ts
+#EXTINF:-1,Kral_Pop_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3529.ts
+#EXTINF:-1,Kanal_Hayat_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3509.ts
+#EXTINF:-1,Kanal_D_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3482.ts
+#EXTINF:-1,Kanal_D_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3481.ts
+#EXTINF:-1,Kanal_Avrupa_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3531.ts
+#EXTINF:-1,Kanal_7_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3487.ts
+#EXTINF:-1,Kanal_7_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3486.ts
+#EXTINF:-1,Kanal_24_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3530.ts
+#EXTINF:-1,Halk_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3535.ts
+#EXTINF:-1,Haber_Turk_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3537.ts
+#EXTINF:-1,Fox_TV_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3489.ts
+#EXTINF:-1,Fox_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3488.ts
+#EXTINF:-1,Flash_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3492.ts
+#EXTINF:-1,Filmbox_Turk_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3564.ts
+#EXTINF:-1,Filmbox_Premier_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3563.ts
+#EXTINF:-1,Filmbox_Korku_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3565.ts
+#EXTINF:-1,Filmbox_Aksiyon_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3566.ts
+#EXTINF:-1,Filmbox_Aile_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3567.ts
+#EXTINF:-1,Fil_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3534.ts
+#EXTINF:-1,Fenerbahce_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3559.ts
+#EXTINF:-1,Dream_TV_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3523.ts
+#EXTINF:-1,Dream_Turk_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3524.ts
+#EXTINF:-1,Disney_Channel_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3504.ts
+#EXTINF:-1,Discovery_Channel_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3543.ts
+#EXTINF:-1,CNN_Turk_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3511.ts
+#EXTINF:-1,Cinemax_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3512.ts
+#EXTINF:-1,Cartoon_Network_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3517.ts
+#EXTINF:-1,Bloomberg_HT_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3514.ts
+#EXTINF:-1,Bloomberg_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3513.ts
+#EXTINF:-1,Beyaz_TV_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3491.ts
+#EXTINF:-1,Bayaz_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3490.ts
+#EXTINF:-1,Atv_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3480.ts
+#EXTINF:-1,Atv_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3479.ts
+#EXTINF:-1,Animal_Planet_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3547.ts
+#EXTINF:-1,A_Haber_HD_-_Turkish
+http://ip.cs4ip.com:8000/live/11223344/11223344/3536.ts
+#EXTINF:-1,====SKY DE====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1732.ts
+#EXTINF:-1,*-*-*-*-*GERMANY*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4069.ts
+#EXTINF:-1,ZDF
+http://ip.cs4ip.com:8000/live/11223344/11223344/2618.ts
+#EXTINF:-1,SAT_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/2620.ts
+#EXTINF:-1,Vox - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2807.ts
+#EXTINF:-1,Syfy - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2808.ts
+#EXTINF:-1,Spiegel Geschichte
+http://ip.cs4ip.com:8000/live/11223344/11223344/2810.ts
+#EXTINF:-1,Sky TNT Serie - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2811.ts
+#EXTINF:-1,Sky RTL Passion - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2812.ts
+#EXTINF:-1,Sky Nostalgie - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2813.ts
+#EXTINF:-1,Sky Krimi - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2814.ts
+#EXTINF:-1,Sky Disney XD - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2815.ts
+#EXTINF:-1,Sky Comedy - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2816.ts
+#EXTINF:-1,Sky Cinema HD - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2817.ts
+#EXTINF:-1,Sky Cinema 1 - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2818.ts
+#EXTINF:-1,Sky Cinema  24 - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2819.ts
+#EXTINF:-1,Sat 1 Gold - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2820.ts
+#EXTINF:-1,Rtl Nitro - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2821.ts
+#EXTINF:-1,Rtl Living - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2822.ts
+#EXTINF:-1,Rtl Crime - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2823.ts
+#EXTINF:-1,Prosieben Maxx - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2824.ts
+#EXTINF:-1,Prosieben - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2825.ts
+#EXTINF:-1,National Geographic Wild HD - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2826.ts
+#EXTINF:-1,National Geographic  - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2827.ts
+#EXTINF:-1,N24 - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2828.ts
+#EXTINF:-1,Motorvision TV - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2805.ts
+#EXTINF:-1,Junior - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2829.ts
+#EXTINF:-1,Jukebox - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2830.ts
+#EXTINF:-1,Heimat Kanal - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2831.ts
+#EXTINF:-1,Fox Serie - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2832.ts
+#EXTINF:-1,Disney Junior - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2833.ts
+#EXTINF:-1,Disney Cinemagic - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2806.ts
+#EXTINF:-1,Disney Channel HD - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2834.ts
+#EXTINF:-1,Discovery HD - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2835.ts
+#EXTINF:-1,Classica - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2836.ts
+#EXTINF:-1,13th Street - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2837.ts
+#EXTINF:-1,DE_ARD
+http://ip.cs4ip.com:8000/live/11223344/11223344/2619.ts
+#EXTINF:-1,SKYDE:_cinema HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/554.ts
+#EXTINF:-1,SKYDE: Cinema24HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/555.ts
+#EXTINF:-1,SKYDE: 13StreetHD
+http://ip.cs4ip.com:8000/live/11223344/11223344/557.ts
+#EXTINF:-1,DE:RTL HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1003.ts
+#EXTINF:-1,DE TNT Film HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1014.ts
+#EXTINF:-1,DE Super RTL
+http://ip.cs4ip.com:8000/live/11223344/11223344/1015.ts
+#EXTINF:-1,DE Sky Hits
+http://ip.cs4ip.com:8000/live/11223344/11223344/1016.ts
+#EXTINF:-1,DE Sky Emotion
+http://ip.cs4ip.com:8000/live/11223344/11223344/1017.ts
+#EXTINF:-1,DE Sky Atlantic
+http://ip.cs4ip.com:8000/live/11223344/11223344/1019.ts
+#EXTINF:-1,DE: Sky Germany Action HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1729.ts
+#EXTINF:-1,DE Sky Action
+http://ip.cs4ip.com:8000/live/11223344/11223344/1020.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1730.ts
+#EXTINF:-1,DE: Sky Germany MGM HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1728.ts
+#EXTINF:-1,DE Sat 1 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1007.ts
+#EXTINF:-1,DE RTL 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/1006.ts
+#EXTINF:-1,DE Kika HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1008.ts
+#EXTINF:-1,DE Kabel 1
+http://ip.cs4ip.com:8000/live/11223344/11223344/1009.ts
+#EXTINF:-1,*-*-*-*-*SKY_SPORT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4068.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1721.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1722.ts
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1726.ts
+#EXTINF:-1,DE: SKY Bundesliga HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/1723.ts
+#EXTINF:-1,Sport 1 HD - Germany
+http://ip.cs4ip.com:8000/live/11223344/11223344/2809.ts
+#EXTINF:-1,*-*-*-*-*SKY_SELECT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4067.ts
+#EXTINF:-1,DE_Sky_Select_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/1778.ts
+#EXTINF:-1,DE_Sky_Select_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/1779.ts
+#EXTINF:-1,DE Sky Select 3
+http://ip.cs4ip.com:8000/live/11223344/11223344/1780.ts
+#EXTINF:-1,DE Sky Select 4
+http://ip.cs4ip.com:8000/live/11223344/11223344/1781.ts
+#EXTINF:-1,DE Sky Select 5
+http://ip.cs4ip.com:8000/live/11223344/11223344/1782.ts
+#EXTINF:-1,DE Sky Select 6
+http://ip.cs4ip.com:8000/live/11223344/11223344/1783.ts
+#EXTINF:-1,DE Sky Select 7
+http://ip.cs4ip.com:8000/live/11223344/11223344/1784.ts
+#EXTINF:-1,DE Sky Select 8
+http://ip.cs4ip.com:8000/live/11223344/11223344/1785.ts
+#EXTINF:-1,====INDIAN====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1740.ts
+#EXTINF:-1,Zing_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3641.ts
+#EXTINF:-1,Zee_TV_-_indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3638.ts
+#EXTINF:-1,Zee_Punjabi_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3639.ts
+#EXTINF:-1,Zee_Cinema_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3640.ts
+#EXTINF:-1,Venus_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3652.ts
+#EXTINF:-1,Ummah_Channel_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3654.ts
+#EXTINF:-1,Tv_99_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3655.ts
+#EXTINF:-1,TR:Salon 3
+http://ip.cs4ip.com:8000/live/11223344/11223344/904.ts
+#EXTINF:-1,TR_TV_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/2498.ts
+#EXTINF:-1,Takbeer_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3656.ts
+#EXTINF:-1,Star_Plus_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3657.ts
+#EXTINF:-1,Star_Life_Ok_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3658.ts
+#EXTINF:-1,Star_Gold_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3660.ts
+#EXTINF:-1,Sony_Sab_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3662.ts
+#EXTINF:-1,Sony_Max_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3663.ts
+#EXTINF:-1,Sikh_Channel_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3664.ts
+#EXTINF:-1,Sangat_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3665.ts
+#EXTINF:-1,Samaa_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3666.ts
+#EXTINF:-1,Rishtey_TV_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3667.ts
+#EXTINF:-1,Ptv_Prime_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3668.ts
+#EXTINF:-1,Ptv_Global_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3669.ts
+#EXTINF:-1,Ptc_Punjabi_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3670.ts
+#EXTINF:-1,Peace_TV_Urdu_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3671.ts
+#EXTINF:-1,Peace_TV_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3672.ts
+#EXTINF:-1,Noor_TV_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3673.ts
+#EXTINF:-1,News_18_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3674.ts
+#EXTINF:-1,Ndtv_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3675.ts
+#EXTINF:-1,Muslim_Ummah_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3676.ts
+#EXTINF:-1,Madani_Channel_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3677.ts
+#EXTINF:-1,Ma_TV_International_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3678.ts
+#EXTINF:-1,Islam_Channel_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3679.ts
+#EXTINF:-1,Iqra_TV_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3680.ts
+#EXTINF:-1,Hum_TV_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3681.ts
+#EXTINF:-1,Heart_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3682.ts
+#EXTINF:-1,Geo_TV_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3683.ts
+#EXTINF:-1,Geo_Tez_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3684.ts
+#EXTINF:-1,Geo_News_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3685.ts
+#EXTINF:-1,Dunya_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3686.ts
+#EXTINF:-1,Dm_Digital_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3644.ts
+#EXTINF:-1,Colors_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3643.ts
+#EXTINF:-1,B4You_Music_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3646.ts
+#EXTINF:-1,B4You_Movies_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3647.ts
+#EXTINF:-1,Ary_Qtv_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3649.ts
+#EXTINF:-1,Ary_News_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3650.ts
+#EXTINF:-1,Ary_Digital_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3651.ts
+#EXTINF:-1,&_TV_-_Indian
+http://ip.cs4ip.com:8000/live/11223344/11223344/3642.ts
+#EXTINF:-1,====SKY UK====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1733.ts
+#EXTINF:-1,UK True.Movie.1
+http://ip.cs4ip.com:8000/live/11223344/11223344/89.ts
+#EXTINF:-1,UK_True_Movies_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/74.ts
+#EXTINF:-1,UK_Syfy_UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/96.ts
+#EXTINF:-1,UK_SKY.Art.1
+http://ip.cs4ip.com:8000/live/11223344/11223344/106.ts
+#EXTINF:-1,UK_Sky_Two
+http://ip.cs4ip.com:8000/live/11223344/11223344/76.ts
+#EXTINF:-1,UK_Sky.Sport.News.HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/107.ts
+#EXTINF:-1,UK_Sky.Sport.1.UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/112.ts
+#EXTINF:-1,UK_Sky.Sport.2.UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/111.ts
+#EXTINF:-1,UK_Sky.Sport.3.UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/110.ts
+#EXTINF:-1,UK:_CBS_Reality
+http://ip.cs4ip.com:8000/live/11223344/11223344/2638.ts
+#EXTINF:-1,UK_sky.sport.4
+http://ip.cs4ip.com:8000/live/11223344/11223344/109.ts
+#EXTINF:-1,UK Sky Sport 5 UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/108.ts
+#EXTINF:-1,UK_Sky_Sports_F1_UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/68.ts
+#EXTINF:-1,UK Setantasport
+http://ip.cs4ip.com:8000/live/11223344/11223344/915.ts
+#EXTINF:-1,UK ESPN
+http://ip.cs4ip.com:8000/live/11223344/11223344/914.ts
+#EXTINF:-1,UK BT Sport Europe
+http://ip.cs4ip.com:8000/live/11223344/11223344/913.ts
+#EXTINF:-1,UK BT Sport 1
+http://ip.cs4ip.com:8000/live/11223344/11223344/911.ts
+#EXTINF:-1,UK BT Sport 2
+http://ip.cs4ip.com:8000/live/11223344/11223344/912.ts
+#EXTINF:-1,UK British Muslim
+http://ip.cs4ip.com:8000/live/11223344/11223344/916.ts
+#EXTINF:-1,UK_Sky_One
+http://ip.cs4ip.com:8000/live/11223344/11223344/69.ts
+#EXTINF:-1,UK_Sky.Movies.Thriller
+http://ip.cs4ip.com:8000/live/11223344/11223344/95.ts
+#EXTINF:-1,UK_Sky.Movies.Sci-Fi.&.Horror
+http://ip.cs4ip.com:8000/live/11223344/11223344/114.ts
+#EXTINF:-1,UK_Sky.Movies.Premiere.UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/115.ts
+#EXTINF:-1,UK_Sky.Movies.Modern.HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/116.ts
+#EXTINF:-1,UK_Sky.Movies.Family.UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/79.ts
+#EXTINF:-1,UK_Sky.Movies.Comedy.HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/118.ts
+#EXTINF:-1,UK_Sky.Movies.Action.&.Adventure
+http://ip.cs4ip.com:8000/live/11223344/11223344/119.ts
+#EXTINF:-1,UK_Sky_Family_UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/121.ts
+#EXTINF:-1,UK_Sky_Atlantic
+http://ip.cs4ip.com:8000/live/11223344/11223344/70.ts
+#EXTINF:-1,UK Rte One UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/88.ts
+#EXTINF:-1,UK_National.Geographic.UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/102.ts
+#EXTINF:-1,UK Movies-4men Uk
+http://ip.cs4ip.com:8000/live/11223344/11223344/98.ts
+#EXTINF:-1,UK_ITV_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/84.ts
+#EXTINF:-1,UK_ITV_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/83.ts
+#EXTINF:-1,UK_ITV_3
+http://ip.cs4ip.com:8000/live/11223344/11223344/82.ts
+#EXTINF:-1,UK_ITV_4
+http://ip.cs4ip.com:8000/live/11223344/11223344/81.ts
+#EXTINF:-1,UK Five
+http://ip.cs4ip.com:8000/live/11223344/11223344/99.ts
+#EXTINF:-1,UK_CBS_Reality_UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/78.ts
+#EXTINF:-1,UK_Film4_UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/100.ts
+#EXTINF:-1,UK Eurosport 1 UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/92.ts
+#EXTINF:-1,UK Eurosport 2 UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/91.ts
+#EXTINF:-1,UK_Discovery.Science.UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/104.ts
+#EXTINF:-1,UK_DISCOVERY.HOME.&.HEALTH
+http://ip.cs4ip.com:8000/live/11223344/11223344/123.ts
+#EXTINF:-1,UK_Discovery_History_UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/124.ts
+#EXTINF:-1,UK_Discovery_Channel_UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/125.ts
+#EXTINF:-1,UK_cbs_reality
+http://ip.cs4ip.com:8000/live/11223344/11223344/75.ts
+#EXTINF:-1,UK Box Nation UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/94.ts
+#EXTINF:-1,UK_BBC.One
+http://ip.cs4ip.com:8000/live/11223344/11223344/130.ts
+#EXTINF:-1,UK_BBC.Two
+http://ip.cs4ip.com:8000/live/11223344/11223344/86.ts
+#EXTINF:-1,UK_BBC_Three
+http://ip.cs4ip.com:8000/live/11223344/11223344/85.ts
+#EXTINF:-1,UK_BBC_Four
+http://ip.cs4ip.com:8000/live/11223344/11223344/101.ts
+#EXTINF:-1,UK_B4U_Movies
+http://ip.cs4ip.com:8000/live/11223344/11223344/71.ts
+#EXTINF:-1,UK_Animal.Planet.UK
+http://ip.cs4ip.com:8000/live/11223344/11223344/105.ts
+#EXTINF:-1,====SKY IT====
+http://ip.cs4ip.com:8000/live/11223344/11223344/573.ts
+#EXTINF:-1,====BALKAN====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1737.ts
+#EXTINF:-1,====AFRICAIN====
+http://ip.cs4ip.com:8000/live/11223344/11223344/1736.ts
+#EXTINF:-1,RTS 1
+http://ip.cs4ip.com:8000/live/11223344/11223344/3704.ts
+#EXTINF:-1,Tfm Senegal - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2908.ts
+#EXTINF:-1,2 STV (Senegal) - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2999.ts
+#EXTINF:-1,Nollywood Movies - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2940.ts
+#EXTINF:-1,Nollywood French - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2949.ts
+#EXTINF:-1,Nollywood - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3034.ts
+#EXTINF:-1,Ztv (Ghana) - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2897.ts
+#EXTINF:-1,Weo HD - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3000.ts
+#EXTINF:-1,Universal Somalia - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3024.ts
+#EXTINF:-1,Tvc News - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3001.ts
+#EXTINF:-1,Tv Manaa - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3002.ts
+#EXTINF:-1,Tv Continental Nigeria - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3003.ts
+#EXTINF:-1,Sudan TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3025.ts
+#EXTINF:-1,Somali Land TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3027.ts
+#EXTINF:-1,Somali Cable - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3028.ts
+#EXTINF:-1,Sntv Somalia - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3029.ts
+#EXTINF:-1,Sen TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2919.ts
+#EXTINF:-1,Sbc Somali TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3030.ts
+#EXTINF:-1,Rwanda TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2920.ts
+#EXTINF:-1,Rtv Rwanda - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3004.ts
+#EXTINF:-1,Rti Coted - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3031.ts
+#EXTINF:-1,Rti 2 TV (Cote d'ivoir) - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2922.ts
+#EXTINF:-1,Rtga - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2924.ts
+#EXTINF:-1,Rtd Djibouti - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3032.ts
+#EXTINF:-1,Rtb - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2926.ts
+#EXTINF:-1,Rave TV (Nigeria) - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2930.ts
+#EXTINF:-1,Ortm TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2931.ts
+#EXTINF:-1,Ntai 1 - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3012.ts
+#EXTINF:-1,Neema TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3013.ts
+#EXTINF:-1,Mourchid - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2944.ts
+#EXTINF:-1,Maisha TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2946.ts
+#EXTINF:-1,Love World Nigeria - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3035.ts
+#EXTINF:-1,La Tele - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3014.ts
+#EXTINF:-1,Kedu TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3015.ts
+#EXTINF:-1,Kalsan TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3036.ts
+#EXTINF:-1,Joy news - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3016.ts
+#EXTINF:-1,Horn Cable TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3037.ts
+#EXTINF:-1,Gtv Sports Plus (Ghana) - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2960.ts
+#EXTINF:-1,Grts - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2961.ts
+#EXTINF:-1,Ghana TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3017.ts
+#EXTINF:-1,Fusion Plus TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2966.ts
+#EXTINF:-1,Fashion - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2967.ts
+#EXTINF:-1,Euronews - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3007.ts
+#EXTINF:-1,Etv Eritre - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3038.ts
+#EXTINF:-1,Eritrea TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3040.ts
+#EXTINF:-1,Enorme TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3008.ts
+#EXTINF:-1,Ebc TV Ethiopia - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3041.ts
+#EXTINF:-1,Djibouti - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3042.ts
+#EXTINF:-1,D 24 - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3018.ts
+#EXTINF:-1,Crtv TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2975.ts
+#EXTINF:-1,Cna - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3009.ts
+#EXTINF:-1,Cinestream TV - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2976.ts
+#EXTINF:-1,Canal Info - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3019.ts
+#EXTINF:-1,Canal 2 Info (Cameroon) - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3010.ts
+#EXTINF:-1,Assembla Nationale - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3011.ts
+#EXTINF:-1,Africable TV (Mali) - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2991.ts
+#EXTINF:-1,Africa Tv4 - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3021.ts
+#EXTINF:-1,Africa Tv3 - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3022.ts
+#EXTINF:-1,Africa Tv2 - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3023.ts
+#EXTINF:-1,Africa 24 - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3044.ts
+#EXTINF:-1,Adom TV (Ghana) - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/2995.ts
+#EXTINF:-1,AF_Nollywood_French_TV
+http://ip.cs4ip.com:8000/live/11223344/11223344/2575.ts
+#EXTINF:-1,Ait International - African
+http://ip.cs4ip.com:8000/live/11223344/11223344/3043.ts
+#EXTINF:-1,*-*-*-*-*SKY_ITALIA_TIVUSAT_M7*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/3905.ts
+#EXTINF:-1,RAI_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3906.ts
+#EXTINF:-1,RAI_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3907.ts
+#EXTINF:-1,RAI_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3908.ts
+#EXTINF:-1,RAI_4_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3909.ts
+#EXTINF:-1,RAI_5_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3910.ts
+#EXTINF:-1,RAI_GULP
+http://ip.cs4ip.com:8000/live/11223344/11223344/3913.ts
+#EXTINF:-1,RAI_MOVIE
+http://ip.cs4ip.com:8000/live/11223344/11223344/3912.ts
+#EXTINF:-1,RAI_NEWS
+http://ip.cs4ip.com:8000/live/11223344/11223344/3911.ts
+#EXTINF:-1,RAI_PREMIUM
+http://ip.cs4ip.com:8000/live/11223344/11223344/3947.ts
+#EXTINF:-1,RAI_SPORT_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/3915.ts
+#EXTINF:-1,RAI_SPORT_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/3916.ts
+#EXTINF:-1,RAI_yoyo
+http://ip.cs4ip.com:8000/live/11223344/11223344/3914.ts
+#EXTINF:-1,RETE_4
+http://ip.cs4ip.com:8000/live/11223344/11223344/3919.ts
+#EXTINF:-1,RSI_LA_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3917.ts
+#EXTINF:-1,RSI_LA_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3918.ts
+#EXTINF:-1,CANALE_5
+http://ip.cs4ip.com:8000/live/11223344/11223344/3925.ts
+#EXTINF:-1,CARTOONITO
+http://ip.cs4ip.com:8000/live/11223344/11223344/3964.ts
+#EXTINF:-1,CRIME_INVESTIGATION_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3969.ts
+#EXTINF:-1,DISCOVERY_SCIENCE
+http://ip.cs4ip.com:8000/live/11223344/11223344/3956.ts
+#EXTINF:-1,DISCOVERY_Travel&Living
+http://ip.cs4ip.com:8000/live/11223344/11223344/3954.ts
+#EXTINF:-1,Disney_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3968.ts
+#EXTINF:-1,DISNEY_XD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3967.ts
+#EXTINF:-1,DMAX_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3966.ts
+#EXTINF:-1,EUROSPORT_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3941.ts
+#EXTINF:-1,FOX_ANIMATION_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3965.ts
+#EXTINF:-1,FOX_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3962.ts
+#EXTINF:-1,FOX_LIFE_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3961.ts
+#EXTINF:-1,ITALIA_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3921.ts
+#EXTINF:-1,La_5
+http://ip.cs4ip.com:8000/live/11223344/11223344/3923.ts
+#EXTINF:-1,La_7
+http://ip.cs4ip.com:8000/live/11223344/11223344/3924.ts
+#EXTINF:-1,MILAN_CHANNEL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3940.ts
+#EXTINF:-1,NAT_GEOGRAPHIC_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3957.ts
+#EXTINF:-1,NATIONALGEO_PEOPLE_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3959.ts
+#EXTINF:-1,NATIONALGEO_WILD_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3958.ts
+#EXTINF:-1,Pandemic
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2591.mkv
+#EXTINF:-1,Precious Cargo
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2589.mkv
+#EXTINF:-1,*-*-*-*-*SKY_ITALIA_M7_PREMIUM*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/3980.ts
+#EXTINF:-1,PREMIUM_ACTION_24
+http://ip.cs4ip.com:8000/live/11223344/11223344/4000.ts
+#EXTINF:-1,PREMIUM_ACTION_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4004.ts
+#EXTINF:-1,PREMIUM_CALCIO_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3982.ts
+#EXTINF:-1,PREMIUM_CALCIO_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3983.ts
+#EXTINF:-1,PREMIUM_CALCIO_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3984.ts
+#EXTINF:-1,PREMIUM_CALCIO_4_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3985.ts
+#EXTINF:-1,PREMIUM_CALCIO_5_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3986.ts
+#EXTINF:-1,PREMIUM_CALCIO_6_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3987.ts
+#EXTINF:-1,PREMIUM_CALCIO_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3981.ts
+#EXTINF:-1,Premium_CARTOON_NETWORK
+http://ip.cs4ip.com:8000/live/11223344/11223344/4003.ts
+#EXTINF:-1,PREMIUM_CINEMA_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/4002.ts
+#EXTINF:-1,PREMIUM_CINEMA_24
+http://ip.cs4ip.com:8000/live/11223344/11223344/4001.ts
+#EXTINF:-1,PREMIUM_CINEMA_ENERGY_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3999.ts
+#EXTINF:-1,PREMIUM_CINEMA_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3998.ts
+#EXTINF:-1,PREMIUM_COMEDY_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3997.ts
+#EXTINF:-1,Premium_Crime_24
+http://ip.cs4ip.com:8000/live/11223344/11223344/3995.ts
+#EXTINF:-1,PREMIUM_CRIME_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3996.ts
+#EXTINF:-1,Premium_DISNEY_CHANNEL_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3992.ts
+#EXTINF:-1,Premium_Disney_Junior
+http://ip.cs4ip.com:8000/live/11223344/11223344/3991.ts
+#EXTINF:-1,PREMIUM_EMOTION
+http://ip.cs4ip.com:8000/live/11223344/11223344/3994.ts
+#EXTINF:-1,PREMIUM_JOI
+http://ip.cs4ip.com:8000/live/11223344/11223344/3989.ts
+#EXTINF:-1,PREMIUM_JOY
+http://ip.cs4ip.com:8000/live/11223344/11223344/3990.ts
+#EXTINF:-1,PREMIUM_SPORT_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3988.ts
+#EXTINF:-1,PREMIUM_STORIES
+http://ip.cs4ip.com:8000/live/11223344/11223344/3960.ts
+#EXTINF:-1,Premium_STUDIO_UNIVERSAL
+http://ip.cs4ip.com:8000/live/11223344/11223344/3993.ts
+#EXTINF:-1,*-*-*-*-*SKY_ITALIA_ENTERTAINMENT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/3942.ts
+#EXTINF:-1,SKY_ARTE_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3953.ts
+#EXTINF:-1,SKY_ATLANTIC_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3952.ts
+#EXTINF:-1,SKY_AXN_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3951.ts
+#EXTINF:-1,SKY_CALCIO_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3933.ts
+#EXTINF:-1,Sky_Calcio_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3934.ts
+#EXTINF:-1,SKY_CALCIO_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3935.ts
+#EXTINF:-1,SKY_CALCIO_4_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3936.ts
+#EXTINF:-1,SKY_CALCIO_5_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3937.ts
+#EXTINF:-1,SKY_CALCIO_6_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3938.ts
+#EXTINF:-1,SKY_CALCIO_7_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3939.ts
+#EXTINF:-1,SKY_CIELO
+http://ip.cs4ip.com:8000/live/11223344/11223344/3950.ts
+#EXTINF:-1,*-*-*-*-*SKY_ITALIA_CINEMA_HD*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/3970.ts
+#EXTINF:-1,SKY_CINEMA_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3978.ts
+#EXTINF:-1,SKY_CINEMA_24_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3979.ts
+#EXTINF:-1,SKY_CINEMA_CLASSICS_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3977.ts
+#EXTINF:-1,SKY_CINEMA_COMEDY_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3976.ts
+#EXTINF:-1,SKY_CINEMA_CULT_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3975.ts
+#EXTINF:-1,SKY_CINEMA_FAMILY_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3974.ts
+#EXTINF:-1,SKY_CINEMA_HITS_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3973.ts
+#EXTINF:-1,SKY_CINEMA_MAX_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3972.ts
+#EXTINF:-1,SKY_CINEMA_PASSION_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3971.ts
+#EXTINF:-1,SKY_FOX_COMEDY_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3949.ts
+#EXTINF:-1,SKY_FOX_CRIME_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3948.ts
+#EXTINF:-1,*-*-*-*-*SKY_ITALIA_SPORT_HD*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/3926.ts
+#EXTINF:-1,SKY_SPORT_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3927.ts
+#EXTINF:-1,SKY_SPORT_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3928.ts
+#EXTINF:-1,SKY_SPORT_24_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3932.ts
+#EXTINF:-1,SKY_SPORT_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3929.ts
+#EXTINF:-1,SKY_SPORT_MOTO_GP_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3931.ts
+#EXTINF:-1,SKY_SPORTS_F1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3930.ts
+#EXTINF:-1,SKY_TG_24_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3946.ts
+#EXTINF:-1,SKY_UNO_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/3945.ts
+#EXTINF:-1,SPORT_ITALIA
+http://ip.cs4ip.com:8000/live/11223344/11223344/3920.ts
+#EXTINF:-1,*-*-*-*-*SKY_ITALIA_PRIMA_FILA*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4005.ts
+#EXTINF:-1,PRIMAFILA_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4006.ts
+#EXTINF:-1,PRIMAFILA_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4007.ts
+#EXTINF:-1,PRIMAFILA_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4008.ts
+#EXTINF:-1,PRIMAFILA_4_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4009.ts
+#EXTINF:-1,PRIMAFILA_5_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4010.ts
+#EXTINF:-1,PRIMAFILA_6_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4011.ts
+#EXTINF:-1,PRIMAFILA_7_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4012.ts
+#EXTINF:-1,PRIMAFILA_8_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4013.ts
+#EXTINF:-1,PRIMAFILA_9_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4014.ts
+#EXTINF:-1,PRIMAFILA_10_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4015.ts
+#EXTINF:-1,PRIMAFILA_11_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4016.ts
+#EXTINF:-1,PRIMAFILA_12_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4017.ts
+#EXTINF:-1,PRIMAFILA_13_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4018.ts
+#EXTINF:-1,PRIMAFILA_14_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4019.ts
+#EXTINF:-1,PRIMAFILA_15_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4020.ts
+#EXTINF:-1,PRIMAFILA_16_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4021.ts
+#EXTINF:-1,====== Sweden =======
+http://ip.cs4ip.com:8000/live/11223344/11223344/4247.ts
+#EXTINF:-1,SE: C More Action
+http://ip.cs4ip.com:8000/live/11223344/11223344/4273.ts
+#EXTINF:-1,SE: C More Emotion
+http://ip.cs4ip.com:8000/live/11223344/11223344/4299.ts
+#EXTINF:-1,SE: C More First
+http://ip.cs4ip.com:8000/live/11223344/11223344/4298.ts
+#EXTINF:-1,SE: C More Series
+http://ip.cs4ip.com:8000/live/11223344/11223344/4297.ts
+#EXTINF:-1,SE: C More Sport
+http://ip.cs4ip.com:8000/live/11223344/11223344/4296.ts
+#EXTINF:-1,SE: C More Tennis
+http://ip.cs4ip.com:8000/live/11223344/11223344/4272.ts
+#EXTINF:-1,SE: Comedy Central
+http://ip.cs4ip.com:8000/live/11223344/11223344/4295.ts
+#EXTINF:-1,SE: Discovery Channel
+http://ip.cs4ip.com:8000/live/11223344/11223344/4294.ts
+#EXTINF:-1,SE: Disney XD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4261.ts
+#EXTINF:-1,SE: Eurosport
+http://ip.cs4ip.com:8000/live/11223344/11223344/4293.ts
+#EXTINF:-1,SE: Fox
+http://ip.cs4ip.com:8000/live/11223344/11223344/4262.ts
+#EXTINF:-1,SE: Kanal 11
+http://ip.cs4ip.com:8000/live/11223344/11223344/4292.ts
+#EXTINF:-1,SE: Kanal 9
+http://ip.cs4ip.com:8000/live/11223344/11223344/4291.ts
+#EXTINF:-1,SE: Kunskapskanalen
+http://ip.cs4ip.com:8000/live/11223344/11223344/4266.ts
+#EXTINF:-1,SE: National Geographic
+http://ip.cs4ip.com:8000/live/11223344/11223344/4290.ts
+#EXTINF:-1,SE: Sjuan
+http://ip.cs4ip.com:8000/live/11223344/11223344/4289.ts
+#EXTINF:-1,SE: SVT1
+http://ip.cs4ip.com:8000/live/11223344/11223344/4288.ts
+#EXTINF:-1,SE: SVT2
+http://ip.cs4ip.com:8000/live/11223344/11223344/4287.ts
+#EXTINF:-1,SE: SVTB/SVT24
+http://ip.cs4ip.com:8000/live/11223344/11223344/4286.ts
+#EXTINF:-1,SE: TCM
+http://ip.cs4ip.com:8000/live/11223344/11223344/4267.ts
+#EXTINF:-1,SE: TLC
+http://ip.cs4ip.com:8000/live/11223344/11223344/4268.ts
+#EXTINF:-1,SE: TV10
+http://ip.cs4ip.com:8000/live/11223344/11223344/4285.ts
+#EXTINF:-1,SE: TV12
+http://ip.cs4ip.com:8000/live/11223344/11223344/4284.ts
+#EXTINF:-1,SE: TV3
+http://ip.cs4ip.com:8000/live/11223344/11223344/4283.ts
+#EXTINF:-1,SE: TV4 Fakta
+http://ip.cs4ip.com:8000/live/11223344/11223344/4282.ts
+#EXTINF:-1,SE: TV4 Fakta XL
+http://ip.cs4ip.com:8000/live/11223344/11223344/4257.ts
+#EXTINF:-1,SE: TV4 Film
+http://ip.cs4ip.com:8000/live/11223344/11223344/4256.ts
+#EXTINF:-1,SE: TV4 Guld
+http://ip.cs4ip.com:8000/live/11223344/11223344/4281.ts
+#EXTINF:-1,SE: TV6
+http://ip.cs4ip.com:8000/live/11223344/11223344/4280.ts
+#EXTINF:-1,SE: TV8
+http://ip.cs4ip.com:8000/live/11223344/11223344/4279.ts
+#EXTINF:-1,SE: VH1 Europe/Nick Jr
+http://ip.cs4ip.com:8000/live/11223344/11223344/4278.ts
+#EXTINF:-1,SE: Viasat Explore
+http://ip.cs4ip.com:8000/live/11223344/11223344/4271.ts
+#EXTINF:-1,SE: Viasat Film Action
+http://ip.cs4ip.com:8000/live/11223344/11223344/4254.ts
+#EXTINF:-1,SE: Viasat Film Comedy
+http://ip.cs4ip.com:8000/live/11223344/11223344/4253.ts
+#EXTINF:-1,SE: Viasat Film Family
+http://ip.cs4ip.com:8000/live/11223344/11223344/4252.ts
+#EXTINF:-1,SE: Viasat Film Hits
+http://ip.cs4ip.com:8000/live/11223344/11223344/4251.ts
+#EXTINF:-1,SE: Viasat Film Premiere
+http://ip.cs4ip.com:8000/live/11223344/11223344/4250.ts
+#EXTINF:-1,SE: Viasat Golf
+http://ip.cs4ip.com:8000/live/11223344/11223344/4248.ts
+#EXTINF:-1,SE: Viasat History
+http://ip.cs4ip.com:8000/live/11223344/11223344/4277.ts
+#EXTINF:-1,SE: Viasat Motor
+http://ip.cs4ip.com:8000/live/11223344/11223344/4276.ts
+#EXTINF:-1,SE: Viasat Nature/Crime/Playboy
+http://ip.cs4ip.com:8000/live/11223344/11223344/4275.ts
+#EXTINF:-1,SE: Viasat Series
+http://ip.cs4ip.com:8000/live/11223344/11223344/4274.ts
+#EXTINF:-1,DK: 6 Eren
+http://ip.cs4ip.com:8000/live/11223344/11223344/4311.ts
+#EXTINF:-1,DK: Canal 9
+http://ip.cs4ip.com:8000/live/11223344/11223344/4310.ts
+#EXTINF:-1,DK: DK4
+http://ip.cs4ip.com:8000/live/11223344/11223344/4308.ts
+#EXTINF:-1,DK: DR Ramasjang
+http://ip.cs4ip.com:8000/live/11223344/11223344/4307.ts
+#EXTINF:-1,DK: DR1
+http://ip.cs4ip.com:8000/live/11223344/11223344/4270.ts
+#EXTINF:-1,DK: DR2
+http://ip.cs4ip.com:8000/live/11223344/11223344/4306.ts
+#EXTINF:-1,DK: DR3
+http://ip.cs4ip.com:8000/live/11223344/11223344/4269.ts
+#EXTINF:-1,DK: TV2 Bornholm
+http://ip.cs4ip.com:8000/live/11223344/11223344/4260.ts
+#EXTINF:-1,DK: TV2 charlie
+http://ip.cs4ip.com:8000/live/11223344/11223344/4259.ts
+#EXTINF:-1,DK: TV2 Lorry
+http://ip.cs4ip.com:8000/live/11223344/11223344/4305.ts
+#EXTINF:-1,DK: TV2 News
+http://ip.cs4ip.com:8000/live/11223344/11223344/4304.ts
+#EXTINF:-1,DK: TV2 Sport
+http://ip.cs4ip.com:8000/live/11223344/11223344/4303.ts
+#EXTINF:-1,DK: TV3
+http://ip.cs4ip.com:8000/live/11223344/11223344/4300.ts
+#EXTINF:-1,DK: TV3 Denmark
+http://ip.cs4ip.com:8000/live/11223344/11223344/4302.ts
+#EXTINF:-1,DK: TV3 Puls
+http://ip.cs4ip.com:8000/live/11223344/11223344/4301.ts
+#EXTINF:-1,DK: Viasat Fotball HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4249.ts
+#EXTINF:-1,Snowden
+http://ip.cs4ip.com:8000/movie/11223344/11223344/4420.mkv
+#EXTINF:-1,Warcraft
+http://ip.cs4ip.com:8000/movie/11223344/11223344/4419.mkv
+#EXTINF:-1,Blood Father
+http://ip.cs4ip.com:8000/movie/11223344/11223344/4418.mkv
+#EXTINF:-1,Prémonitions
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2786.mkv
+#EXTINF:-1,Les Huit salopards
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2781.mkv
+#EXTINF:-1,Le Pont des Espions
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2782.mkv
+#EXTINF:-1,Divergente
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2783.mkv
+#EXTINF:-1,Divergente 2
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2784.mkv
+#EXTINF:-1,Divergente 3
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2785.mkv
+#EXTINF:-1,Batman v Superman: Dawn of Justice
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2769.mkv
+#EXTINF:-1,Hunger Games - La Révolte : Partie 1
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2770.mkv
+#EXTINF:-1,Hunger Games - La Révolte : Partie 2
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2771.mkv
+#EXTINF:-1,Deadpool 4K
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2610.mkv
+#EXTINF:-1,The Revenant
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2576.mkv
+#EXTINF:-1,Stars Wars The Force Awakens
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2581.mkv
+#EXTINF:-1,007 Spectre
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2582.mkv
+#EXTINF:-1,The Runner
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2578.mkv
+#EXTINF:-1,Deadpool
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2585.mkv
+#EXTINF:-1,Triple 9
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2584.mkv
+#EXTINF:-1,Skin Trade
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2592.mkv
+#EXTINF:-1,David et Goliath
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2593.mkv
+#EXTINF:-1,Creed
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2579.mkv
+#EXTINF:-1,Gods of egypt 3D
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2580.mkv
+#EXTINF:-1,The Fourth Pyramid
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2590.mkv
+#EXTINF:-1,Ride along 2
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2604.mkv
+#EXTINF:-1,99 home
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2607.mkv
+#EXTINF:-1,Seul Contre Tous
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2608.mkv
+#EXTINF:-1,13 Hours
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2606.mkv
+#EXTINF:-1,Our Brand is Crisis
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2603.mkv
+#EXTINF:-1,Kung Fu Panda 3 (3D)
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2605.mkv
+#EXTINF:-1,Ip Man 3
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2602.mkv
+#EXTINF:-1,Race
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2588.mkv
+#EXTINF:-1,Taxi 3
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2609.mkv
+#EXTINF:-1,Mr Right
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2599.mkv
+#EXTINF:-1,Ma Meilleure Amie
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2600.mkv
+#EXTINF:-1,Eddie The Eagle
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2597.mkv
+#EXTINF:-1,I'll See You In My Dreams
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2598.mkv
+#EXTINF:-1,La Résurrection du Christ
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2596.mkv
+#EXTINF:-1,Bone Tomahawk
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2594.mkv
+#EXTINF:-1,Le Garçon au pyjama rayé
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2791.avi
+#EXTINF:-1,le roi et moi
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2595.mkv
+#EXTINF:-1,Legend
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2587.mkv
+#EXTINF:-1,Requiem for a dream
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2802.avi
+#EXTINF:-1,Much Loved
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2586.mkv
+#EXTINF:-1,zootopia
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2577.mkv
+#EXTINF:-1,Boruto : Naruto
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2601.mp4
+#EXTINF:-1,Le voyage d'arlo
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2583.mkv
+#EXTINF:-1,Game Of Thrones S01E01
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2718.mkv
+#EXTINF:-1,Game Of Thrones S01E02
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2719.mkv
+#EXTINF:-1,Game Of Thrones S01E03
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2720.mkv
+#EXTINF:-1,Game Of Thrones S01E04
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2721.mkv
+#EXTINF:-1,Game Of Thrones S01E05
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2722.mkv
+#EXTINF:-1,Game Of Thrones S01E06
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2723.mkv
+#EXTINF:-1,Game Of Thrones S01E07
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2724.mkv
+#EXTINF:-1,Game Of Thrones S01E08
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2725.mkv
+#EXTINF:-1,Game Of Thrones S01E09
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2726.mkv
+#EXTINF:-1,Game Of Thrones S01E10
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2727.mkv
+#EXTINF:-1,Game Of Thrones S02E01
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2729.mkv
+#EXTINF:-1,Game Of Thrones S02E02
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2730.mkv
+#EXTINF:-1,Game Of Thrones S02E03
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2731.mkv
+#EXTINF:-1,Game Of Thrones S02E04
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2732.mkv
+#EXTINF:-1,Game Of Thrones S02E05
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2733.mkv
+#EXTINF:-1,Game Of Thrones S02E06
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2734.mkv
+#EXTINF:-1,Game Of Thrones S02E07
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2735.mkv
+#EXTINF:-1,Game Of Thrones S02E08
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2736.mkv
+#EXTINF:-1,Game Of Thrones S02E09
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2737.mkv
+#EXTINF:-1,Game Of Thrones S02E10
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2738.mkv
+#EXTINF:-1,Game Of Thrones S03E01
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2739.mkv
+#EXTINF:-1,Game Of Thrones S03E02
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2740.mkv
+#EXTINF:-1,Game Of Thrones S03E03
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2741.mkv
+#EXTINF:-1,Game Of Thrones S03E04
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2742.mkv
+#EXTINF:-1,Game Of Thrones S03E05
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2743.mkv
+#EXTINF:-1,Game Of Thrones S03E06
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2744.mkv
+#EXTINF:-1,Game Of Thrones S03E07
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2745.mkv
+#EXTINF:-1,Game Of Thrones S03E08
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2746.mkv
+#EXTINF:-1,Game Of Thrones S03E09
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2747.mkv
+#EXTINF:-1,Game Of Thrones S03E10
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2748.mkv
+#EXTINF:-1,Game Of Thrones S04E01
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2749.mkv
+#EXTINF:-1,Game Of Thrones S04E02
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2750.mkv
+#EXTINF:-1,Game Of Thrones S04E03
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2751.mkv
+#EXTINF:-1,Game Of Thrones S04E04
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2752.mkv
+#EXTINF:-1,Game Of Thrones S04E05
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2753.mkv
+#EXTINF:-1,Game Of Thrones S04E06
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2754.mkv
+#EXTINF:-1,Game Of Thrones S04E07
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2755.mkv
+#EXTINF:-1,Game Of Thrones S04E08
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2756.mkv
+#EXTINF:-1,Game Of Thrones S04E09
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2757.mkv
+#EXTINF:-1,Game Of Thrones S04E10
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2758.mkv
+#EXTINF:-1,Game Of Thrones S05E01
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2759.mkv
+#EXTINF:-1,Game Of Thrones S05E02
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2760.mkv
+#EXTINF:-1,Game Of Thrones S05E03
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2761.mkv
+#EXTINF:-1,Game Of Thrones S05E04
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2762.mkv
+#EXTINF:-1,Game Of Thrones S05E05
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2763.mkv
+#EXTINF:-1,Game Of Thrones S05E06
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2764.mkv
+#EXTINF:-1,Game Of Thrones S05E07
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2765.mkv
+#EXTINF:-1,Game Of Thrones S05E08
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2766.mkv
+#EXTINF:-1,Game Of Thrones S05E09
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2767.mkv
+#EXTINF:-1,Game Of Thrones S05E10
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2768.mkv
+#EXTINF:-1,Mr Robot S02E01
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2792.mkv
+#EXTINF:-1,Mr Robot S02E02
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2793.mkv
+#EXTINF:-1,Mr Robot S02E03
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2794.mkv
+#EXTINF:-1,Mr Robot S02E04
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2795.mkv
+#EXTINF:-1,Mr Robot S02E05
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2798.mkv
+#EXTINF:-1,Mr Robot S02E06
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2799.mkv
+#EXTINF:-1,Mr Robot S02E07
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2800.mkv
+#EXTINF:-1,Mr Robot S02E08
+http://ip.cs4ip.com:8000/movie/11223344/11223344/2801.mkv
+#EXTINF:-1,*-*-*-*-*BACKUP_BEIN_SPORT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4091.ts
+#EXTINF:-1,_AR:_BEIN_SPORT_NEW_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4070.ts
+#EXTINF:-1,_AR:_BEINSPORT_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4071.ts
+#EXTINF:-1,_AR:_BEINSPORT_10_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4080.ts
+#EXTINF:-1,_AR:_BEINSPORT_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4072.ts
+#EXTINF:-1,_AR:_BEINSPORT_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4073.ts
+#EXTINF:-1,_AR:_BEINSPORT_4_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4074.ts
+#EXTINF:-1,_AR:_BEINSPORT_5_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4075.ts
+#EXTINF:-1,_AR:_BEINSPORT_6_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4076.ts
+#EXTINF:-1,_AR:_BEINSPORT_7_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4077.ts
+#EXTINF:-1,_AR:_BEINSPORT_8_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4078.ts
+#EXTINF:-1,_AR:_BEINSPORT_9_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4079.ts
+#EXTINF:-1,AR:_beIN_SPORTS_1_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4081.ts
+#EXTINF:-1,AR:_BEIN_SPORTS_10_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4090.ts
+#EXTINF:-1,AR:_BEIN_SPORTS_2_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4082.ts
+#EXTINF:-1,AR:_BEIN_SPORTS_3_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4083.ts
+#EXTINF:-1,AR:_BEIN_SPORTS_4_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4084.ts
+#EXTINF:-1,AR:_BEIN_SPORTS_5_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4085.ts
+#EXTINF:-1,AR:_BEIN_SPORTS_6_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4086.ts
+#EXTINF:-1,AR:_BEIN_SPORTS_7_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4087.ts
+#EXTINF:-1,AR:_BEIN_SPORTS_8_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4088.ts
+#EXTINF:-1,AR:_BEIN_SPORTS_9_HD
+http://ip.cs4ip.com:8000/live/11223344/11223344/4089.ts
+#EXTINF:-1,Al_Kaas_1
+http://ip.cs4ip.com:8000/live/11223344/11223344/4413.ts
+#EXTINF:-1,Al_Kaas_2
+http://ip.cs4ip.com:8000/live/11223344/11223344/4414.ts
+#EXTINF:-1,Al_Kaas_3
+http://ip.cs4ip.com:8000/live/11223344/11223344/4415.ts
+#EXTINF:-1,Al_Kaas_4
+http://ip.cs4ip.com:8000/live/11223344/11223344/4416.ts
+#EXTINF:-1,Al_Kaas_5
+http://ip.cs4ip.com:8000/live/11223344/11223344/4417.ts
+#EXTINF:-1,*-*-*-*-*SPORT*-*-*-*-*
+http://ip.cs4ip.com:8000/live/11223344/11223344/4034.ts
